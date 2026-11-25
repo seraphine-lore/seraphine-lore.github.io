@@ -1,0 +1,68 @@
+---
+import '../styles/global.css';
+import { pages } from '../data/research';
+
+interface Props {
+  title: string;
+  description: string;
+  pageType?: 'home' | 'article';
+}
+
+const { title, description, pageType = 'article' } = Astro.props;
+const root = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
+const href = (part: string) => `${root}${part.replace(/^\//, '')}`;
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const siteTitle = title.includes('HUNTtheTRUTH') ? title : `${title} | HUNTtheTRUTH`;
+---
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#080e19" />
+    <meta name="description" content={description} />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={pageType === 'home' ? 'website' : 'article'} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <link rel="canonical" href={canonical} />
+    <link rel="sitemap" href={href('sitemap-index.xml')} />
+    <title>{siteTitle}</title>
+  </head>
+  <body class={pageType}>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="wordmark" href={href('')} aria-label="HUNTtheTRUTH homepage">
+          <span class="wordmark-symbol" aria-hidden="true">✧</span> HUNT<span>THE</span>TRUTH
+        </a>
+        <nav aria-label="Primary navigation" class="topnav">
+          <a href={href('seraphine-original-lore/')}>Original lore</a>
+          <a href={href('seraphine-skarner/')}>Skarner</a>
+          <a href={href('seraphine-misinformation/')}>Investigation</a>
+          <a href={href('sources/')}>Sources</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main"><slot /></main>
+    <footer class="footer">
+      <div class="footer-topline"></div>
+      <div class="container footer-grid">
+        <div>
+          <span class="eyebrow">SERAPHINE · OCTOBER 2020–2026</span>
+          <h2>Original sources. Historical claims.</h2>
+          <p>HUNTtheTRUTH compares Riot's dated Seraphine lore with what was released, what commentators asserted and how reference sites and search systems represented the controversy.</p>
+        </div>
+        <div class="footer-links">
+          <a href={href('seraphine-original-lore/')}>Original 2020 lore</a>
+          <a href={href('seraphine-lore-changes/')}>October 2020 revisions</a>
+          <a href={href('seraphine-controversy/')}>The controversy</a>
+          <a href={href('sources/')}>Source register</a>
+        </div>
+      </div>
+      <div class="container legal-footnote">Independent fan research; not affiliated with or endorsed by Riot Games. League of Legends, Runeterra and Seraphine are Riot Games properties. Original site design; no Riot logos or artwork are included.</div>
+    </footer>
+  </body>
+</html>

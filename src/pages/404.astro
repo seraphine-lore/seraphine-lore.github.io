@@ -1,0 +1,7 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+const root = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
+---
+<SiteLayout title="Page not found" description="The page you requested could not be found.">
+  <div class="simple-hero"><div class="container narrow"><p class="eyebrow">ARCHIVE ENTRY NOT FOUND</p><h1>404 — <em>Lost in the echo.</em></h1><p>This page doesn't exist. <a href={root}>Return to the research archive.</a></p></div></div>
+</SiteLayout>

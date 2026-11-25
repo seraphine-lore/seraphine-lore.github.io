@@ -1,0 +1,61 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { pages, type ResearchPage } from '../data/research';
+export function getStaticPaths() {
+  return pages.map((page) => ({ params: { slug: page.slug }, props: { page } }));
+}
+interface Props { page: ResearchPage }
+const { page } = Astro.props;
+const root = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
+const href = (part: string) => `${root}${part.replace(/^\//, '')}`;
+const relatedPages = page.related.map((slug) => pages.find((p) => p.slug === slug)).filter((p): p is ResearchPage => Boolean(p));
+---
+<SiteLayout title={page.title} description={page.description}>
+  <header class="simple-hero">
+    <div class="container narrow">
+      <p class="eyebrow">{page.eyebrow}</p>
+      <h1>{page.title}</h1>
+      <p>{page.lead}</p>
+    </div>
+  </header>
+  <div class="container article-grid research-grid">
+    <aside class="toc" aria-label="On this page">
+      <p class="eyebrow">ON THIS PAGE</p>
+      {page.sections.map((section, index) => <a href={`#section-${index+1}`}>{section.heading}</a>)}
+      <a href="#references">Sources</a>
+      <a href="#related">Continue reading</a>
+    </aside>
+    <article class="article-body research-article">
+      {page.sections.map((section, index) => (
+        <section class="research-section" id={`section-${index+1}`}>
+          <p class="eyebrow">{String(index+1).padStart(2, '0')}</p>
+          <h2>{section.heading}</h2>
+          {section.paragraphs?.map((paragraph) => <p set:html={paragraph} />)}
+          {section.points && <ul class="research-points">{section.points.map((point) => <li set:html={point} />)}</ul>}
+          {section.table && (
+            <div class="table-scroll" role="region" tabindex="0" aria-label={section.heading}>
+              <table class="evidence-table">
+                <thead><tr>{section.table.headers.map((header) => <th scope="col">{header}</th>)}</tr></thead>
+                <tbody>{section.table.rows.map((row) => <tr>{row.map((value) => <td>{value}</td>)}</tr>)}</tbody>
+              </table>
+            </div>
+          )}
+        </section>
+      ))}
+      <section class="research-section" id="references">
+        <p class="eyebrow">REFERENCE MATERIAL</p>
+        <h2>Read the sources</h2>
+        <ol class="reference-list">
+          {page.references.map((reference) => <li><a href={reference.url} target="_blank" rel="noopener noreferrer">{reference.label}<span aria-hidden="true"> ↗</span></a></li>)}
+        </ol>
+      </section>
+      <section class="research-section related-section" id="related">
+        <p class="eyebrow">CONTINUE READING</p>
+        <h2>Follow the evidence</h2>
+        <div class="related-links">
+          {relatedPages.map((related) => <a href={href(`${related.slug}/`)}>{related.title} <span aria-hidden="true">↗</span></a>)}
+        </div>
+      </section>
+    </article>
+  </div>
+</SiteLayout>

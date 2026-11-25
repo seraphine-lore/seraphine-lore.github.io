@@ -1,0 +1,81 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { pages } from '../data/research';
+const root = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
+const href = (part: string) => `${root}${part.replace(/^\//, '')}`;
+---
+<SiteLayout
+  pageType="home"
+  title="Seraphine Lore: Original 2020 Sources and Controversy — HUNTtheTRUTH"
+  description="Examine Seraphine's original 2020 lore, Skarner and the Brackern, six biography revisions, influencer coverage and the Riot sources behind the controversy."
+>
+  <section class="hero">
+    <div class="hero-glow" aria-hidden="true"></div>
+    <div class="hero-lines" aria-hidden="true"></div>
+    <div class="container hero-content">
+      <p class="eyebrow hero-eyebrow"><span class="diamond">◆</span> AN INDEPENDENT INVESTIGATION <span class="diamond">◆</span></p>
+      <p class="hero-overline">THE TRUTH IS NEVER WHAT IT SEEMS</p>
+      <h1><em>Seraphine</em><span>THE ORIGINAL LORE CONTROVERSY</span></h1>
+      <div class="hero-rule"><span>✧</span></div>
+      <p class="hero-deck">What did Riot publish in October 2020?<br /><strong>And how did the story become something else?</strong></p>
+      <div class="hero-actions">
+        <a class="cta" href={href('seraphine-original-lore/')}>READ THE ORIGINAL LORE <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href={href('sources/')}>EXAMINE THE SOURCES</a>
+      </div>
+    </div>
+    <div class="hero-bottom" aria-hidden="true"><span>EXPLORE THE EVIDENCE</span><span>↓</span></div>
+  </section>
+
+  <section class="premise section-space">
+    <div class="container narrow centre">
+      <p class="eyebrow">THE INVESTIGATION</p>
+      <h2>What was <em>written</em> —<br />and what was <em>repeated?</em></h2>
+      <p class="large-copy">On 12 October 2020, Riot published <a href="https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/">Champion Insights: Seraphine</a>, explaining the character's intended empathy, her ability to hear people's emotions and the Brackern songs carried by Hextech crystals.</p>
+      <p>The biography, early voice-over and subsequent revisions became the subject of a wider controversy. This site examines Riot's original statements, the production that players encountered and the interpretations that continued circulating afterwards.</p>
+    </div>
+  </section>
+
+  <section class="evidence-section section-space" id="four-layers">
+    <div class="container">
+      <div class="section-heading centre"><p class="eyebrow">THE EVIDENCE</p><h2>Four layers of the story</h2><span class="ornament">◆</span></div>
+      <div class="pillars">
+        <article class="pillar"><span class="pillar-number">I</span><div class="pillar-line"></div><h3>INTENT</h3><p>Riot's original developer explanation of character, motivations and design.</p><span class="pillar-meta">12 OCTOBER 2020</span></article>
+        <article class="pillar"><span class="pillar-number">II</span><div class="pillar-line"></div><h3>EXECUTION</h3><p>Biography, voice-over, material shipped to players and later changes.</p><span class="pillar-meta">OCTOBER 2020</span></article>
+        <article class="pillar"><span class="pillar-number">III</span><div class="pillar-line"></div><h3>INTERPRETATION</h3><p>The specific claims in contemporary videos and community discussions.</p><span class="pillar-meta">CREATOR COVERAGE</span></article>
+        <article class="pillar"><span class="pillar-number">IV</span><div class="pillar-line"></div><h3>PROPAGATION</h3><p>How wiki entries, search and AI summaries represent those claims.</p><span class="pillar-meta">2020–2026</span></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="feature section-space">
+    <div class="container feature-grid">
+      <div class="feature-panel">
+        <span class="feature-visual-kicker">PRIMARY SOURCE / 12 OCTOBER 2020</span>
+        <div class="feature-sigil" aria-hidden="true">✧<span>◈</span>✧</div>
+        <span class="feature-visual-footer">THE SOURCE PRECEDES THE CONTROVERSY</span>
+      </div>
+      <div class="feature-content">
+        <p class="eyebrow">CHAMPION INSIGHTS: SERAPHINE</p>
+        <h2>The article<br /><em>that came first.</em></h2>
+        <p>Riot's developer article described Seraphine as deeply empathetic and explained how she hears the songs of both people and Brackern souls. It was available before the original champion biography and before the October 2020 creator commentary examined here.</p>
+        <a class="underlined-link" href="https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/">READ RIOT'S ORIGINAL ARTICLE <span aria-hidden="true">↗</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-space chapters" id="chapters">
+    <div class="container">
+      <div class="section-heading centre"><p class="eyebrow">EXPLORE THE RECORD</p><h2>Seraphine lore, source by source</h2><span class="ornament">◆</span></div>
+      <div class="chapter-grid">
+        {pages.map((page, index) => (
+          <a class="chapter" href={href(`${page.slug}/`)}>
+            <span class="chapter-number">{String(index + 1).padStart(2, '0')} / {page.eyebrow}</span>
+            <h3>{page.title}</h3>
+            <p>{page.lead}</p>
+            <span class="chapter-arrow" aria-hidden="true">↗</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</SiteLayout>
