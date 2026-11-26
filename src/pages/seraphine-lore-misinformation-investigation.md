@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/ReportLayout.astro
 title: "Seraphine Lore Misinformation: Influencer Bias, Google AI and Wikipedia | HUNTtheTRUTH"
-description: "The complete 2020–2026 evidence audit: influencer cherry-picking, creator cross-references, Google AI source cards and Riot’s uncited developer article on Wikipedia."
+description: "Riot published Seraphine’s empathy and Brackern lore on League’s official website before the backlash. Cross-examination of YouTube omissions, Google AI citations and Wikipedia’s six-year gap."
 ---
 
 
