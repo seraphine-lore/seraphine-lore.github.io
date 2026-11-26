@@ -1,4 +1,4 @@
-name: Deploy HUNTtheTRUTH to GitHub Pages
+name: Deploy seraphine-lore.github.io to GitHub Pages
 
 on:
   push:
