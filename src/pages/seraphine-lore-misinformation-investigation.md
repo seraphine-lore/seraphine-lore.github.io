@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/ReportLayout.astro
-title: "Seraphine Lore Misinformation: Six Years of Influencer Narratives Investigated | HUNTtheTRUTH"
-description: "Full evidence-led investigation into Seraphine lore misinformation: Riot's original 2020 sources, influencer omissions, bandwagon narratives, wikis and AI."
+title: "Seraphine Lore Misinformation: Influencer Bias, Google AI and Wikipedia | HUNTtheTRUTH"
+description: "The complete 2020–2026 evidence audit: influencer cherry-picking, creator cross-references, Google AI source cards and Riot’s uncited developer article on Wikipedia."
 ---
 
 

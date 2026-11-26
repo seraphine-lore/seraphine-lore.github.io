@@ -28,12 +28,12 @@ const wikipedia = 'https://en.wikipedia.org/wiki/Seraphine_(League_of_Legends)';
 export const pages: ResearchPage[] = [
   {
     slug: 'seraphine-original-lore',
-    title: 'Seraphine’s Original Lore (2020): What Riot Published',
-    description: 'Read the original Seraphine lore chronology: the 12 October 2020 developer explanation, original biography, Brackern crystal and characterisation.',
+    title: 'Seraphine’s Original Lore (2020): The Riot Evidence Missing from the Backlash',
+    description: 'Riot’s 12 October 2020 Seraphine source established empathy and explained the Brackern souls before influencer accusations. Examine what later retellings omitted.',
     eyebrow: 'THE ORIGINAL RECORD · OCTOBER 2020',
-    lead: 'The original Seraphine controversy is often retold through the biography alone. Riot published a separate developer explanation before the biography, setting out her characterisation, her magical hearing and her relationship with the Brackern.',
+    lead: 'Before the most widely repeated accusations, Riot had already published an explanation of Seraphine’s empathy, the Brackern crystal and why inability to rescue souls did not mean indifference. That dated evidence is the starting point for testing the influencer claims.',
     sections: [
-      { heading: 'The article published first', paragraphs: [
+      { heading: 'The first source the backlash overlooked: 12 October 2020', paragraphs: [
         'On <strong>12 October 2020</strong>, Riot published <em>Champion Insights: Seraphine</em>. Narrative writer Rayla “Jellbug” Heide described a character intended to be <em>deeply empathetic</em>. Riot explained that Seraphine experiences other people’s emotions as music, rather than merely hearing conventional sounds.',
         'Daniel “Istogaiden” Couts described the Brackern souls inside Hextech crystals, including members of Skarner’s family. Seraphine can hear their song and connects particularly with one crystal, whose presence helps her learn to manage the overwhelming songs around her.',
         'Riot’s developer explanation also distinguishes Seraphine’s <strong>inability to free the trapped souls</strong> from indifference towards them. In that stated conception, listening and singing back the songs she hears are part of her desire to connect people.'
@@ -58,17 +58,17 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-skarner',
-    title: 'Seraphine and Skarner: The Original Brackern Controversy',
-    description: 'What the October 2020 sources actually established about Seraphine, Skarner, Brackern souls, Hextech crystals and the controversy.',
+    title: 'Seraphine and Skarner: Was Brackern Exploitation Established by the Lore?',
+    description: 'Did Seraphine knowingly exploit Skarner’s people? Compare Riot’s original 2020 Brackern lore, the disputed voice line and claims made by influential commentators.',
     eyebrow: 'SKARNER · HEXTECH · SOURCE COMPARISON',
-    lead: 'A central accusation in the backlash was that Seraphine knowingly exploited the Brackern to support her career. The historical source record separates what was written, what Riot said it intended and what commentators inferred.',
+    lead: 'The claim was not merely that a Brackern crystal powered Seraphine’s stage. Influential commentators went further: that she understood the trapped souls’ suffering and exploited them anyway. What does the original 2020 evidence actually establish?',
     sections: [
       { heading: 'What the original material established', paragraphs: [
         'In the 2020 setting, Hextech crystals were connected to the souls of the Brackern. Riot’s <em>Champion Insights</em> specifically identified Skarner’s family and established that Seraphine could hear the crystal’s song.',
         'The connection was not presented solely as a power supply. The article explained that the crystal helped her manage her otherwise overwhelming perception of emotions and that she could hear songs from souls described as tormented and joyous.',
         'Crucially, <strong>hearing a soul does not by itself establish complete understanding of everything that happened to it</strong>. The original biography’s language left room for dispute about the extent of that understanding.'
       ] },
-      { heading: 'The knowledge-versus-intent distinction', table: { headers: ['Question', 'Evidence and distinction'], rows: [
+      { heading: 'Hearing a Brackern soul is not proof of knowing exploitation', table: { headers: ['Question', 'Evidence and distinction'], rows: [
         ['Does Hextech have a Brackern connection?', 'Yes — Riot’s 12 October 2020 developer article explicitly describes the trapped souls.'],
         ['Can Seraphine hear a Brackern crystal?', 'Yes — the intended hearing ability and her connection with a particular crystal are explicit.'],
         ['Did the initial biography communicate everything clearly?', 'No — its wording and the original voice-over generated ambiguity and criticism.'],
@@ -88,16 +88,16 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-brackern',
-    title: 'Seraphine, the Brackern and Hextech Crystals in 2020',
-    description: 'How the original Brackern crystal, soul-songs and Hextech device connect to Seraphine’s 2020 story and subsequent criticism.',
+    title: 'Seraphine and the Brackern: What Did the Hextech Crystal Actually Reveal?',
+    description: 'What did Seraphine hear and understand about the Brackern? Revisit Riot’s 2020 Hextech explanation before treating exploitation claims as established lore.',
     eyebrow: 'THE BRACKERN CRYSTAL · 2020 CONTEXT',
-    lead: 'In the 2020 version of the lore, the Brackern were not incidental to Seraphine’s concept. Their songs helped define the difference between her supernatural empathy and a conventional singer using technology.',
+    lead: 'The Brackern were central to Riot’s original Seraphine concept: the crystal’s song helped her manage overwhelming emotions. Critics often treated that connection as proof of deliberate exploitation. The two claims are not the same.',
     sections: [
       { heading: 'The original crystal', paragraphs: [
         'Seraphine was overwhelmed by the songs of other people’s emotions. Her parents obtained a Hextech crystal and built a dampening device to help her cope. The crystal also had a voice of its own.',
         'Riot’s original development article explained that <strong>the Brackern’s song mattered to them</strong> and that Seraphine learned from listening to a particular crystal. This contextualises the narrative role of the crystal before it became associated with her performance equipment.'
       ] },
-      { heading: 'The distinction often lost', paragraphs: [
+      { heading: 'What the original crystal’s song did — and did not — establish', paragraphs: [
         'A Hextech crystal could contain an exploited Brackern soul, while the singer hearing it could still have been written as empathetic. Those propositions are not mutually exclusive. The question is whether the released story communicated the ethical conflict effectively.',
         'The October 2020 backlash frequently collapsed these separate issues into a simple character verdict. A more precise reading compares (1) the setting’s treatment of Brackern souls, (2) what Seraphine perceived, (3) what the dialogue implied, and (4) the developer explanation of her motives.'
       ] },
@@ -111,10 +111,10 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-lore-changes',
-    title: 'Seraphine Lore Changes: The Six October 2020 Biography Revisions',
-    description: 'A dated original-versus-revised comparison of six Seraphine biography changes, the original voice lines and Riot’s October 2020 clarifications.',
+    title: 'Seraphine Lore Retcon: All Six October 2020 Biography Changes',
+    description: 'All six October 2020 Seraphine lore changes, compared with the original wording, removed Skarner dialogue and incomplete influencer retcon summaries.',
     eyebrow: 'THE OCTOBER 2020 REVISION RECORD',
-    lead: 'Riot revised Seraphine’s biography around 29 October 2020. The investigation identifies six specific textual changes. A complete comparison matters because selective presentation can make the revision appear narrower than it was.',
+    lead: 'The retcon was not limited to the two or three passages highlighted by some prominent videos. Six identified biography changes altered the Brackern wording and Seraphine’s expressed hopes; the original Skarner voice line was a separate issue. Compare the complete revision record.',
     sections: [
       { heading: 'Six identified changes', paragraphs: [
         'The following is the change register preserved in the current HUNTtheTRUTH investigation. Ellipses denote surrounding text not reproduced here. The precise publication time of the revised biography has not been established.'
@@ -126,7 +126,7 @@ export const pages: ResearchPage[] = [
         ['5. Her hope for the crystal', 'No corresponding sentence.', 'Seraphine hoped the crystal’s voice would be among them.'],
         ['6. Final statement', 'Everyone matters — especially those struggling.', 'Everyone deserves to be heard — especially those struggling.']
       ] } },
-      { heading: 'What the changes accomplish', paragraphs: [
+      { heading: 'What partial retcon comparisons leave out', paragraphs: [
         'Changes 1 and 2 limit how clearly Seraphine can comprehend the crystal. Change 3 reframes the warning as a song. Change 4 alters how the stage’s relationship to the crystal is described. Change 5 gives explicit expression to her continuing hope of hearing the crystal. Change 6 changes the closing statement about why she sings.',
         'These changes belong in their historical context: they cannot be retroactively used to judge a video published on 13 October, but they are directly relevant to videos evaluating the revisions after 29 October.'
       ] },
@@ -140,10 +140,10 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-controversy',
-    title: 'Why Was Seraphine Controversial? The 2020 Backlash Explained',
-    description: 'The distinct causes of Seraphine’s 2020 controversy: Brackern lore, Sona comparisons, K/DA promotion, social-media marketing and likeness allegations.',
+    title: 'Why Was Seraphine Controversial? Lore Claims, Bandwagon and Missing Context',
+    description: 'Why did Seraphine face a 2020 backlash? Separate Brackern allegations, Sona comparisons and marketing criticism from claims contradicted by Riot’s original lore evidence.',
     eyebrow: 'RELEASE CONTROVERSY · SEPARATE THE CLAIMS',
-    lead: 'Seraphine’s launch attracted several kinds of criticism at once. The Brackern controversy was one part of a broader dispute over character design, gameplay, commercial promotion and the virtual singer’s social-media campaign.',
+    lead: 'The 2020 Seraphine backlash bundled distinct complaints — Brackern exploitation, Sona comparisons, K/DA promotion and social-media controversy — into a shared negative narrative. This analysis separates documented criticism from claims about the character that the original sources do not establish.',
     sections: [
       { heading: 'Five threads of criticism', table: { headers: ['Issue', 'What was criticised', 'What to verify'], rows: [
         ['Brackern / Skarner', 'A singer using Hextech associated with sentient Brackern souls.', 'The exact original lore, voice-over, developer intentions and subsequent edits.'],
@@ -156,7 +156,7 @@ export const pages: ResearchPage[] = [
         'Riot’s concept could establish a deeply empathetic singer while still producing a voice-over that undermined that intended characterisation. Criticism of how the result was delivered differs from a claim about what the original developers wanted her personality to be.',
         'The original 12 October 2020 article describes empathy and Brackern music explicitly. Any historical reconstruction of the lore criticism needs to take that source into account alongside the biography, first-encounter dialogue and 29 October revisions.'
       ] },
-      { heading: 'Why the distinction matters', paragraphs: [
+      { heading: 'When several criticisms become one bandwagon narrative', paragraphs: [
         'Community backlash is an established part of Seraphine’s release history. The truth of every interpretation circulating within that backlash is a separate evidential question.',
         'This investigation does not require readers to like the character. It asks that factual claims about her knowledge, motives and creators be tested against dated material, and that accusations made by real people be presented as allegations rather than proven facts.'
       ] }
@@ -166,10 +166,10 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-misinformation',
-    title: 'How Seraphine Lore Misinformation Spread: Influencer Claims, Wikis and AI',
-    description: 'Source-by-source audit of Seraphine lore misinformation: omissions and contradictions in NickyBoi, Necrit, T B Skyen and Skooch videos, plus bandwagon and search propagation.',
+    title: 'Seraphine Lore Misinformation: Influencer Cherry-Picking, Google AI and Wikipedia',
+    description: 'NickyBoi, Necrit, T B Skyen and Skooch cross-examined against Riot’s 2020 sources. Track cherry-picking, bandwagon reinforcement, Google AI citations and Wikipedia.',
     eyebrow: 'HUNTTHETRUTH · CLAIM-BY-CLAIM AUDIT',
-    lead: 'An original Riot developer explanation published on 12 October 2020 described Seraphine’s deep empathy, her connection to a Brackern crystal and why inability to free trapped souls did not equal indifference. This page examines what prominent commentators actually used, omitted or contradicted.',
+    lead: 'NickyBoi used artwork from Riot’s development article while excluding its narrative context. Necrit narrated Seraphine’s struggle, then denied she had one. Skyen acknowledged her intended empathy while accusing her of indifference. The source audit examines the claims, creator cross-references and their visibility in Google and AI — alongside a six-year omission on Wikipedia.org.',
     sections: [
       { heading: 'The test: creator claim versus Riot’s dated evidence', paragraphs: [
         'Riot’s <a href="https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/">Champion Insights: Seraphine</a> was public on 12 October 2020. Rayla Heide described the intention to make Seraphine deeply empathetic. Daniel Couts explained her overwhelming perception of other people’s emotions, her special connection with a Brackern crystal and her use of music to connect with and uplift people.',
@@ -199,7 +199,7 @@ export const pages: ResearchPage[] = [
         'Selective use of a published source can give a characterisation an apparent evidential basis while excluding passages that complicate it. Repeated presentations by popular commentators can create social proof, especially when a later narrator points approvingly to earlier critics. The documented Necrit–Skyen–Skooch cross-references are a concrete example of this reinforcement network.',
         'A creator’s influence and the emotional intensity of a criticism do not independently validate the underlying factual claim. The report analyses this mechanism as selective framing, argument from popularity and an information cascade. Claims of deliberately coordinated social engineering require evidence of the specific intent or coordination; repetition and cross-reference alone do not establish that.'
       ] },
-      { heading: 'Evidence laundering: from commentary to search and AI', paragraphs: [
+      { heading: 'From YouTube commentary to Google AI citations — and Wikipedia’s missing source', paragraphs: [
         'The concern is source dependency. Several accounts repeating one original interpretation do not become several independent pieces of evidence. The investigation tracks recurring claims through community references, Wikipedia and later retrieval and citation by search and AI systems.',
         'In Google Search captures dated 26 November 2026, results for <em>seraphine lore</em>, <em>seraphine skarner</em>, <em>seraphine original lore</em> and <em>why is seraphine controversial</em> prominently surfaced secondary commentary and Reddit discussion. Source displays attributed material to T B Skyen and Necrit, while Riot’s particular 12 October developer article was not visibly identified in those supplied results.',
         'That is a documented source-visibility finding, not proof of any particular model-training dataset or an unseen causal path. The distinction matters when evaluating whether an AI answer has independently verified a claim.'
@@ -219,10 +219,10 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'sources',
-    title: 'Original Seraphine Lore Sources and October 2020 Evidence',
-    description: 'Dated Riot primary sources, original lore, historical voice lines, developer clarifications and creator material for independent verification.',
+    title: 'Seraphine Lore Evidence: Riot’s 2020 Sources and the Missing Wikipedia Citation',
+    description: 'The original Riot articles, biography revisions and developer statements behind the Seraphine misinformation investigation — including the source Wikipedia omitted for six years.',
     eyebrow: 'DOCUMENTS · ORIGINAL PUBLISHERS',
-    lead: 'The most important source in the October 2020 debate was available before the champion released. This register links to the publisher’s material and records why dates and revisions matter.',
+    lead: 'On 12 October 2020, Riot published the explanation of Seraphine’s intended empathy and relationship with the Brackern. That first developer source was absent from Wikipedia’s references for six years. Here are the primary documents and dates needed to check the influencer claims independently.',
     sections: [
       { heading: 'Riot’s contemporaneous publications', table: { headers: ['Published', 'Source', 'What it establishes'], rows: [
         ['12 Oct 2020', 'Champion Insights: Seraphine', 'Narrative intention, empathy, magical hearing, Brackern songs and concept art.'],
@@ -234,7 +234,7 @@ export const pages: ResearchPage[] = [
         'Use publication dates, original wording and archived versions wherever possible. A current biography is not a historical snapshot of its October 2020 predecessor. Nor should a later retcon be treated as if it were available to a commentator writing before the revision.',
         'When evaluating disputed interpretations, distinguish an original developer statement, an in-universe biography, recorded voice-over, contemporary criticism and a later retelling. These are different categories of evidence.'
       ] },
-      { heading: 'Creator and wiki records', paragraphs: [
+      { heading: 'Video claims, primary-source gaps and Wikipedia revisions', paragraphs: [
         'The wider audit analyses creator videos with dated transcripts and timecodes, alongside the League Wiki and Wikipedia revision histories. For a given claim, the important question is which original source supports it and whether intervening summaries accurately preserve its meaning.',
         'The source links below provide the initial documentary trail. For the complete historical claim comparisons, see the original-lore, revision-history and misinformation articles linked from this page.'
       ] }
