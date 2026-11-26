@@ -58,7 +58,7 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-skarner',
-    title: 'Seraphine and Skarner: Was Brackern Exploitation Established by the Lore?',
+    title: 'Seraphine and Skarner: The Original Brackern Controversy — What the Lore Established',
     description: 'Did Seraphine knowingly exploit Skarner’s people? Compare Riot’s original 2020 Brackern lore, the disputed voice line and claims made by influential commentators.',
     eyebrow: 'SKARNER · HEXTECH · SOURCE COMPARISON',
     lead: 'The claim was not merely that a Brackern crystal powered Seraphine’s stage. Influential commentators went further: that she understood the trapped souls’ suffering and exploited them anyway. What does the original 2020 evidence actually establish?',
@@ -84,7 +84,160 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ { label: 'Riot — Champion Insights: Seraphine', url: insights }, { label: 'Riot — official Seraphine publication timeline', url: riotArchive }, { label: 'League Wiki — historical Seraphine voice lines', url: voiceHistory }, { label: 'Jeevun Sidhu — 29 October 2020 statement', url: sidhu } ],
-    related: ['seraphine-original-lore', 'seraphine-brackern', 'seraphine-lore-changes']
+    related: ['seraphine-skarner-brackern-retcon', 'seraphine-original-lore', 'seraphine-brackern', 'seraphine-lore-changes']
+  },
+  {
+    "slug": "seraphine-skarner-brackern-retcon",
+    "title": "Justice for Skarner? How Seraphine Could Have Helped the Brackern Before Riot Rewrote Their Lore",
+    "description": "Trace the lost Seraphine–Skarner story: 2016 Brackern dreamsong, Riot’s 2020 developer intent, Jag Sidhu’s clarification, fan backlash and the 2024 Skarner retcon.",
+    "eyebrow": "JUSTICE FOR SKARNER · THE LOST STORYLINE",
+    "lead": "Fans demanded “justice for Skarner” after Seraphine’s 2020 release. But Riot had introduced a character uniquely able to hear the trapped Brackern, and a developer hoped she would one day give them a voice. Four years later, Skarner’s original crystal-and-soul storyline had been written out. What did Riot actually set up — and what happened to it?",
+    "sections": [
+      {
+        "heading": "2016: Skarner needed a human who could hear his people's dreamsong",
+        "paragraphs": [
+          "In the original Brackern narrative, Skarner’s quest was not simply to fight a villain. His people’s life crystals were being taken and used by humans; the Brackern communicated through dreamsong and struggled to make humans understand their suffering.",
+          "In a May 2016 developer Q&A preserved by <a href=\"https://www.surrenderat20.net/2016/05/red-post-collection-taliyah-shurima.html\">Surrender at 20</a>, narrative writer Rayla “Jellbug” Heide described the woman from <em>Dreamsong</em> as a surviving human who could carry Skarner’s message to other people. Heide also explained that Brackern could communicate through emotions and images resembling poetry or song, and that humans might learn to hear them.",
+          "This matters because the missing bridge between Skarner’s plight and the wider human world was already a documented narrative problem in 2016 — four years before Seraphine existed."
+        ]
+      },
+      {
+        "heading": "2020: Riot introduced the missing connection",
+        "paragraphs": [
+          "Riot’s <a href=\"https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/\">12 October 2020 <em>Champion Insights: Seraphine</em></a> stated that Hextech used crystals containing Brackern souls, explicitly including Skarner’s family. Narrative writer Daniel “Istogaiden” Couts described Seraphine as the first person able to hear the Brackern singing from those crystals. A particular crystal’s song helped her cope with overwhelming emotional hearing.",
+          "The significance goes beyond a shared magic system. In Skarner’s original story, his people could not easily communicate their suffering to humans. In Seraphine’s original design, the central power was hearing and translating soul-songs for others. Those two narrative facts fit together as a potential way forward for the Brackern storyline.",
+          "Riot also explained in 2020 that her inability to free trapped souls did not mean she lacked compassion. Her intended role was to connect and uplift people through music, not knowingly torment Skarner’s family."
+        ]
+      },
+      {
+        "heading": "29 October 2020: Jeevun “Jag” Sidhu confirmed the direction was open",
+        "paragraphs": [
+          "After criticism of Seraphine’s original biography and Skarner interaction, senior designer <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun “Jag” Sidhu clarified</a> that players understood Hextech’s Brackern origins, but Seraphine herself did not yet understand the identity or circumstances of the consciousness she could hear. <a href=\"https://www.dexerto.com/league-of-legends/riot-already-changing-seraphine-league-of-legends-fan-backlash-1442889/\">Contemporary reporting preserves the thread</a>.",
+          "Sidhu said she would try to give the Brackern a voice if she learnt their circumstances, and expressed the hope that Riot could expand that storyline. This is unusually direct evidence of a possible future narrative involving Seraphine and the Brackern. It does not promise a completed rescue arc or a specific team-up with Skarner; it establishes the intended direction and narrative opportunity.",
+          "The connection was therefore neither a fan invention in hindsight nor merely a random reference to another champion. Riot had published it before release, and a developer defended its potential for future storytelling while addressing the backlash."
+        ]
+      },
+      {
+        "heading": "The backlash changed Seraphine's published story — not merely the public conversation",
+        "paragraphs": [
+          "By 28–29 October 2020, public criticism had coincided with Riot acknowledging problems in Seraphine’s lore presentation. Riot co-founder Marc Merrill said disputed content should already have been removed, and the biography received six identifiable wording changes. The controversial line addressed to Skarner was removed separately. See the <a href=\"/seraphine-lore-changes/\">six-change comparison</a>.",
+          "Those corrections can be assessed as improvements to ambiguous execution. But they did not amount to a published continuation in which Seraphine learnt the Brackern’s situation, told the wider population or helped resolve Skarner’s original objective.",
+          "This is the first part of the irony: the central accusation was that Seraphine should be helping the trapped souls, while Riot’s own developer had publicly described that very possibility as a story worth expanding."
+        ]
+      },
+      {
+        "heading": "2022: Riot still explored continuing the original Skarner storyline",
+        "paragraphs": [
+          "Riot’s <a href=\"https://www.leagueoflegends.com/en-us/news/dev/champion-roadmap-april-2022/\">April 2022 Champion Roadmap</a> described several early Skarner VGU concepts. One explicitly explored continuing his existing lore: Skarner would be captured in Piltover, experimented upon to create a Hextech guardian, escape and seek revenge for what had been done to him and his people.",
+          "Riot labelled those concepts exploratory, not approved plots. Nevertheless, this is a significant dated record: even in 2022, extending the old Piltover–Brackern exploitation narrative remained one of the possibilities considered during the rework."
+        ]
+      },
+      {
+        "heading": "2023–2024: Riot removed the story's foundation",
+        "paragraphs": [
+          "In <a href=\"https://www.leagueoflegends.com/en-gb/news/dev/dev-searching-for-skarner-s-sting/\">March 2023</a>, Riot announced a fundamentally different approach. The new Brackern were ancient earth elementalists tied to Ixtal rather than crystals exploited by Piltover. Its designers explicitly chose to remove Skarner’s crystal theme, describing problems with thematic appeal and the character’s broader popularity and gameplay fantasy.",
+          "In <a href=\"https://www.leagueoflegends.com/en-ph/news/dev/tl-dw-champs-lore-more-dev-update/\">October 2023</a>, Riot also confirmed a unified storytelling direction and said future updates would reconcile changes affecting champions including Skarner, Seraphine and Camille.",
+          "The new Skarner arrived in <a href=\"https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-7-notes/\">patch 14.7 in April 2024</a>. His <a href=\"https://www.leagueoflegends.com/en-sg/champions/skarner/\">current biography</a> places him as an ancient protector of Ixtal. His original purpose of rescuing Brackern life crystals stolen by humans no longer drives that characterisation.",
+          "That was not a resolution of the old Brackern-exploitation storyline. The relevant crystal-based conflict was replaced, removing the original narrative basis of a Seraphine–Skarner connection."
+        ]
+      },
+      {
+        "heading": "“Justice for Skarner”: what was actually lost?",
+        "paragraphs": [
+          "Much of the 2020 outrage was expressed as a defence of Skarner and the souls of his people. Critics attacked Seraphine for supposedly failing to act on their suffering. Yet Riot had already given her the rare ability to hear those souls, and Sidhu indicated that giving them a voice was a future direction worth exploring.",
+          "The result is a striking contradiction in outcomes. The campaign called for justice for an exploited Brackern people; the eventual Skarner rewrite removed that original exploitation narrative rather than showing those people receiving justice within it.",
+          "That does not mean the people who criticised Seraphine personally ordered or caused the 2024 rewrite. Riot’s 2023 explanation cites player surveys, low thematic appeal and VGU design goals, not an established decision to punish either fanbase. The documented sequence is stronger than an unsupported claim about hidden motives: an intended narrative possibility existed, the 2020 story was revised amid backlash, and a later rewrite eliminated the shared premise altogether.",
+          "The question remaining for anyone who argued Seraphine should help Skarner is straightforward: <strong>how could that storyline ever pay off once the very Brackern tragedy it was meant to address had been written out?</strong>"
+        ]
+      },
+      {
+        "heading": "Chronology: the story before and after",
+        "table": {
+          "headers": [
+            "Date",
+            "Evidence",
+            "Consequence for the Skarner–Seraphine link"
+          ],
+          "rows": [
+            [
+              "May 2016",
+              "Jellbug discusses Skarner’s dreamsong and a human intermediary",
+              "Human communication was central to the Brackern plot."
+            ],
+            [
+              "12 October 2020",
+              "Riot publishes Champion Insights: Seraphine",
+              "Seraphine can hear the Brackern souls, including Skarner’s family."
+            ],
+            [
+              "29 October 2020",
+              "Sidhu describes Seraphine potentially giving Brackern a voice",
+              "A Riot developer identifies the possibility of future story development."
+            ],
+            [
+              "April 2022",
+              "Riot concept art explores continuing old Skarner lore",
+              "The original crystal-exploitation conflict remains a considered story option."
+            ],
+            [
+              "March 2023",
+              "Riot announces Ixtal/earth-elemental Brackern direction",
+              "The team explicitly drops the crystal thematic foundation."
+            ],
+            [
+              "April 2024",
+              "Skarner’s VGU launches",
+              "The original rescue-the-life-crystals storyline is no longer his current canon."
+            ]
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "label": "2016 — Riot narrative writer Jellbug on Skarner, dreamsong and human intermediaries (archived developer Q&A)",
+        "url": "https://www.surrenderat20.net/2016/05/red-post-collection-taliyah-shurima.html"
+      },
+      {
+        "label": "12 October 2020 — Riot: Champion Insights: Seraphine",
+        "url": "https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/"
+      },
+      {
+        "label": "29 October 2020 — Jeevun Sidhu’s clarification on Seraphine and the Brackern",
+        "url": "https://twitter.com/JeevunSidhu/status/1321936795597066241"
+      },
+      {
+        "label": "29 October 2020 — Contemporary report preserving Sidhu’s clarification",
+        "url": "https://www.dexerto.com/league-of-legends/riot-already-changing-seraphine-league-of-legends-fan-backlash-1442889/"
+      },
+      {
+        "label": "April 2022 — Riot: Champion Roadmap (original-lore continuation explored)",
+        "url": "https://www.leagueoflegends.com/en-us/news/dev/champion-roadmap-april-2022/"
+      },
+      {
+        "label": "March 2023 — Riot: Searching for Skarner’s Sting (VGU narrative direction)",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/dev-searching-for-skarner-s-sting/"
+      },
+      {
+        "label": "October 2023 — Riot: Champs, Lore & More (canon alignment)",
+        "url": "https://www.leagueoflegends.com/en-ph/news/dev/tl-dw-champs-lore-more-dev-update/"
+      },
+      {
+        "label": "April 2024 — Riot: Patch 14.7 Notes",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-7-notes/"
+      },
+      {
+        "label": "Riot — Skarner’s updated champion biography",
+        "url": "https://www.leagueoflegends.com/en-sg/champions/skarner/"
+      }
+    ],
+    "related": [
+      "seraphine-skarner",
+      "seraphine-brackern",
+      "seraphine-lore-changes",
+      "seraphine-misinformation",
+      "sources"
+    ]
   },
   {
     slug: 'seraphine-brackern',
