@@ -88,10 +88,10 @@ export const pages: ResearchPage[] = [
   },
   {
     "slug": "seraphine-skarner-brackern-retcon",
-    "title": "Justice for Skarner? How Seraphine Could Have Helped the Brackern Before Riot Rewrote Their Lore",
-    "description": "Trace the lost Seraphine–Skarner story: 2016 Brackern dreamsong, Riot’s 2020 developer intent, Jag Sidhu’s clarification, fan backlash and the 2024 Skarner retcon.",
-    "eyebrow": "JUSTICE FOR SKARNER · THE LOST STORYLINE",
-    "lead": "Fans demanded “justice for Skarner” after Seraphine’s 2020 release. But Riot had introduced a character uniquely able to hear the trapped Brackern, and a developer hoped she would one day give them a voice. Four years later, Skarner’s original crystal-and-soul storyline had been written out. What did Riot actually set up — and what happened to it?",
+    "title": "Justice for Skarner? Seraphine’s Confirmed Brackern Role, the Hate Train and Riot’s Retcon",
+    "description": "Jeevun Sidhu confirmed Seraphine would help give the Brackern a voice. How 2020 backlash, Riot’s player-feedback process and the 2024 Skarner rewrite erased that storyline.",
+    "eyebrow": "JUSTICE FOR SKARNER · THE BACKLASH THAT BACKFIRED",
+    "lead": "The 2020 Seraphine hate train demanded justice for Skarner, even though Riot had already given Seraphine the ability to hear his people — and Jeevun Sidhu confirmed she would try to give the Brackern a voice once she understood their situation. Backlash triggered changes to Seraphine’s story; later, Riot’s player-feedback-led Skarner overhaul erased the Brackern crystal conflict altogether. The irony: the story the critics demanded was the one that disappeared.",
     "sections": [
       {
         "heading": "2016: Skarner needed a human who could hear his people's dreamsong",
@@ -102,27 +102,27 @@ export const pages: ResearchPage[] = [
         ]
       },
       {
-        "heading": "2020: Riot introduced the missing connection",
+        "heading": "2020: Seraphine was written to hear the people Skarner was trying to save",
         "paragraphs": [
           "Riot’s <a href=\"https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/\">12 October 2020 <em>Champion Insights: Seraphine</em></a> stated that Hextech used crystals containing Brackern souls, explicitly including Skarner’s family. Narrative writer Daniel “Istogaiden” Couts described Seraphine as the first person able to hear the Brackern singing from those crystals. A particular crystal’s song helped her cope with overwhelming emotional hearing.",
-          "The significance goes beyond a shared magic system. In Skarner’s original story, his people could not easily communicate their suffering to humans. In Seraphine’s original design, the central power was hearing and translating soul-songs for others. Those two narrative facts fit together as a potential way forward for the Brackern storyline.",
+          "This was a direct narrative fit, not an accidental overlap. Skarner’s original story needed a way for humans to hear the Brackern; Seraphine’s defining ability was hearing and communicating songs other people could not. Riot deliberately wrote that relationship into her original design before the controversy.",
           "Riot also explained in 2020 that her inability to free trapped souls did not mean she lacked compassion. Her intended role was to connect and uplift people through music, not knowingly torment Skarner’s family."
         ]
       },
       {
-        "heading": "29 October 2020: Jeevun “Jag” Sidhu confirmed the direction was open",
+        "heading": "29 October 2020: Jeevun Sidhu confirmed Seraphine’s intended Brackern role",
         "paragraphs": [
           "After criticism of Seraphine’s original biography and Skarner interaction, senior designer <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun “Jag” Sidhu clarified</a> that players understood Hextech’s Brackern origins, but Seraphine herself did not yet understand the identity or circumstances of the consciousness she could hear. <a href=\"https://www.dexerto.com/league-of-legends/riot-already-changing-seraphine-league-of-legends-fan-backlash-1442889/\">Contemporary reporting preserves the thread</a>.",
-          "Sidhu said she would try to give the Brackern a voice if she learnt their circumstances, and expressed the hope that Riot could expand that storyline. This is unusually direct evidence of a possible future narrative involving Seraphine and the Brackern. It does not promise a completed rescue arc or a specific team-up with Skarner; it establishes the intended direction and narrative opportunity.",
-          "The connection was therefore neither a fan invention in hindsight nor merely a random reference to another champion. Riot had published it before release, and a developer defended its potential for future storytelling while addressing the backlash."
+          "Sidhu's confirmation was explicit: Seraphine would do her best to give the Brackern a voice if she discovered what was happening to them. He hoped Riot would expand that thread later. That establishes a real intended character direction, not a fan theory or a speculative connection invented years afterwards. It does not mean Riot had already commissioned a finished rescue storyline.",
+          "The setup was already on the page. Riot published her power and connection to Skarner’s family on 12 October, then reiterated the intended moral direction on 29 October while responding to the backlash. The outrage centred on a demand for exactly the kind of help her creators said she would offer."
         ]
       },
       {
-        "heading": "The backlash changed Seraphine's published story — not merely the public conversation",
+        "heading": "2020: The hate train had a visible effect on Seraphine’s published lore",
         "paragraphs": [
-          "By 28–29 October 2020, public criticism had coincided with Riot acknowledging problems in Seraphine’s lore presentation. Riot co-founder Marc Merrill said disputed content should already have been removed, and the biography received six identifiable wording changes. The controversial line addressed to Skarner was removed separately. See the <a href=\"/seraphine-lore-changes/\">six-change comparison</a>.",
-          "Those corrections can be assessed as improvements to ambiguous execution. But they did not amount to a published continuation in which Seraphine learnt the Brackern’s situation, told the wider population or helped resolve Skarner’s original objective.",
-          "This is the first part of the irony: the central accusation was that Seraphine should be helping the trapped souls, while Riot’s own developer had publicly described that very possibility as a story worth expanding."
+          "The hostile reception was not just background internet noise: amid direct public backlash on 28–29 October 2020, Riot acknowledged that material should have been removed and changed Seraphine’s biography in six identifiable places. The controversial Skarner encounter line was also removed. That is a documented example of audience criticism entering the product-and-content correction process. See the <a href=\"/seraphine-lore-changes/\">six-change comparison</a>.",
+          "Riot corrected the portrayal rather than publishing the next chapter: Seraphine did not go on to uncover the Brackern’s exploitation, give them a voice or help resolve Skarner’s original quest. The intended direction remained unresolved in the public record.",
+          "This is where the supposed “justice for Skarner” campaign becomes ironic: Riot's developer had already identified Seraphine as someone who would help the Brackern. The backlash challenged her for failing to do so before that story had been developed."
         ]
       },
       {
@@ -130,6 +130,15 @@ export const pages: ResearchPage[] = [
         "paragraphs": [
           "Riot’s <a href=\"https://www.leagueoflegends.com/en-us/news/dev/champion-roadmap-april-2022/\">April 2022 Champion Roadmap</a> described several early Skarner VGU concepts. One explicitly explored continuing his existing lore: Skarner would be captured in Piltover, experimented upon to create a Hextech guardian, escape and seek revenge for what had been done to him and his people.",
           "Riot labelled those concepts exploratory, not approved plots. Nevertheless, this is a significant dated record: even in 2022, extending the old Piltover–Brackern exploitation narrative remained one of the possibilities considered during the rework."
+        ]
+      },
+      {
+        "heading": "How player backlash and product feedback shaped the rewrite",
+        "paragraphs": [
+          "Riot’s response in 2020 demonstrates the first feedback mechanism: the negative reception was followed by public acknowledgement and direct revisions to Seraphine’s biography and dialogue. That is a concrete change to shipped narrative content in the context of backlash.",
+          "Riot’s <a href=\"https://www.leagueoflegends.com/en-gb/news/community/choose-a-champion-update/\">January 2021 VGU proposal</a> already identified Skarner’s unpopular crystal-scorpion theme as a reason to reimagine his story. Players then voted him the 2022 VGU winner. These are documented product-feedback decisions, rather than an assumption that Riot ignores its audience.",
+          "In <a href=\"https://www.leagueoflegends.com/en-gb/news/dev/dev-searching-for-skarner-s-sting/\">March 2023</a>, Riot’s VGU team explicitly cited player-survey results: Skarner scored among the lowest champions for thematic appeal and popularity, and the team decided to abandon his crystal identity. The old Hextech–Brackern conflict was thereby removed from the story that had connected Skarner and Seraphine.",
+          "<strong>The causal argument:</strong> a major negative-response environment is a plausible contributing signal within a product team that demonstrably uses community feedback, polls and surveys to decide what to rewrite. Riot confirms the 2020 lore corrections and the later feedback-driven VGU. Its published records do not quantify how much of the 2023 decision came specifically from the 2020 Seraphine hate train, so claiming that backlash alone cancelled the story would go beyond the available evidence."
         ]
       },
       {
@@ -142,12 +151,12 @@ export const pages: ResearchPage[] = [
         ]
       },
       {
-        "heading": "“Justice for Skarner”: what was actually lost?",
+        "heading": "“Justice for Skarner”: how the hate train ended with the very story erased",
         "paragraphs": [
-          "Much of the 2020 outrage was expressed as a defence of Skarner and the souls of his people. Critics attacked Seraphine for supposedly failing to act on their suffering. Yet Riot had already given her the rare ability to hear those souls, and Sidhu indicated that giving them a voice was a future direction worth exploring.",
-          "The result is a striking contradiction in outcomes. The campaign called for justice for an exploited Brackern people; the eventual Skarner rewrite removed that original exploitation narrative rather than showing those people receiving justice within it.",
-          "That does not mean the people who criticised Seraphine personally ordered or caused the 2024 rewrite. Riot’s 2023 explanation cites player surveys, low thematic appeal and VGU design goals, not an established decision to punish either fanbase. The documented sequence is stronger than an unsupported claim about hidden motives: an intended narrative possibility existed, the 2020 story was revised amid backlash, and a later rewrite eliminated the shared premise altogether.",
-          "The question remaining for anyone who argued Seraphine should help Skarner is straightforward: <strong>how could that storyline ever pay off once the very Brackern tragedy it was meant to address had been written out?</strong>"
+          "The “justice for Skarner” outrage cast Seraphine as someone exploiting his people while refusing to help. But Riot had explicitly made her the first person able to hear the Brackern souls, and Sidhu confirmed she would try to give them a voice. The core premise critics demanded from her was already part of the intended character direction.",
+          "The outcome was the reverse of the demand. Instead of Skarner's people obtaining justice through the original Hextech plot, their exploitation and the crystal-based storyline were removed from canon when Riot rebuilt Skarner. Seraphine lost that unresolved narrative link; Skarner lost the tragedy that gave his original mission its purpose.",
+          "The visible sequence matters: backlash and Riot revisions in October 2020; continued exploration of the old storyline in April 2022; survey-informed rejection of the crystal identity in March 2023; and a completed narrative reboot in April 2024. The strongest supported conclusion is that negative reception and broader player feedback shaped the development environment in which the original story was discarded. The specific weight of Seraphine-focused backlash in the later Skarner decision is not documented.",
+          "<strong>The bitter irony of “justice for Skarner”: the Brackern storyline had a champion equipped — and explicitly intended — to give them a voice. Instead of seeing that story resolved, players saw its foundation deleted.</strong>"
         ]
       },
       {
@@ -171,8 +180,13 @@ export const pages: ResearchPage[] = [
             ],
             [
               "29 October 2020",
-              "Sidhu describes Seraphine potentially giving Brackern a voice",
-              "A Riot developer identifies the possibility of future story development."
+              "Sidhu confirms Seraphine would try to give the Brackern a voice",
+              "Intended moral direction is explicitly confirmed; future expansion is hoped for."
+            ],
+            [
+              "January 2021",
+              "Riot’s Skarner VGU proposal cites his unpopular theme",
+              "Player feedback helps determine the redesign of his story."
             ],
             [
               "April 2022",
@@ -181,8 +195,8 @@ export const pages: ResearchPage[] = [
             ],
             [
               "March 2023",
-              "Riot announces Ixtal/earth-elemental Brackern direction",
-              "The team explicitly drops the crystal thematic foundation."
+              "Riot cites player surveys and confirms Ixtal/earth-elemental rewrite",
+              "The team drops the Brackern crystal storyline that connected both champions."
             ],
             [
               "April 2024",
@@ -229,6 +243,14 @@ export const pages: ResearchPage[] = [
       {
         "label": "Riot — Skarner’s updated champion biography",
         "url": "https://www.leagueoflegends.com/en-sg/champions/skarner/"
+      },
+      {
+        "label": "January 2021 — Riot: Choose a Champion Update (Skarner’s weak thematic appeal and story rework)",
+        "url": "https://www.leagueoflegends.com/en-gb/news/community/choose-a-champion-update/"
+      },
+      {
+        "label": "2022 — Riot: Skarner wins VGU poll; community-feedback-driven development",
+        "url": "https://www.leagueoflegends.com/en-au/news/game-updates/voting-results-champion-update-thematic-revamp/"
       }
     ],
     "related": [
