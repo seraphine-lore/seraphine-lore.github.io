@@ -1,0 +1,24 @@
+---
+import SiteLayout from './SiteLayout.astro';
+import '../styles/report.css';
+const { frontmatter } = Astro.props;
+---
+<SiteLayout title={frontmatter.title} description={frontmatter.description}>
+  <header class="simple-hero report-hero">
+    <div class="container narrow">
+      <p class="eyebrow">HUNTTHETRUTH · THE FULL INVESTIGATION</p>
+      <h1>The Truth Is Never What It Seems</h1>
+      <p>A Product Engineer Investigates Six Years of Seraphine Misinformation</p>
+    </div>
+  </header>
+  <div class="container report-shell">
+    <nav class="report-chapters" aria-label="Investigation navigation">
+      <a href="/">Home</a>
+      <a href="/seraphine-original-lore/">Original lore</a>
+      <a href="/seraphine-skarner/">Skarner</a>
+      <a href="/seraphine-misinformation/">Misinformation analysis</a>
+      <a href="/sources/">Sources</a>
+    </nav>
+    <article class="report-body"><slot /></article>
+  </div>
+</SiteLayout>
