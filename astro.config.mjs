@@ -8,4 +8,7 @@ export default defineConfig({
   base: '/',
   trailingSlash: 'always',
   integrations: [sitemap()],
+  redirects: {
+    '/investigation': '/seraphine-lore-misinformation-investigation/',
+  },
 });

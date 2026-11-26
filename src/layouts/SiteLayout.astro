@@ -41,7 +41,7 @@ const siteTitle = title.includes('HUNTtheTRUTH') ? title : `${title} | HUNTtheTR
         <nav aria-label="Primary navigation" class="topnav">
           <a href={href('seraphine-original-lore/')}>Original lore</a>
           <a href={href('seraphine-skarner/')}>Skarner</a>
-          <a href={href('investigation/')}>Full investigation</a>
+          <a href={href('seraphine-lore-misinformation-investigation/')}>Misinformation investigation</a>
           <a href={href('sources/')}>Sources</a>
         </nav>
       </div>
@@ -59,10 +59,20 @@ const siteTitle = title.includes('HUNTtheTRUTH') ? title : `${title} | HUNTtheTR
           <a href={href('seraphine-original-lore/')}>Original 2020 lore</a>
           <a href={href('seraphine-lore-changes/')}>October 2020 revisions</a>
           <a href={href('seraphine-controversy/')}>The controversy</a>
+          <a href={href('seraphine-lore-misinformation-investigation/')}>Full investigation</a>
           <a href={href('sources/')}>Source register</a>
         </div>
       </div>
       <div class="container legal-footnote">Independent fan research; not affiliated with or endorsed by Riot Games. League of Legends, Runeterra and Seraphine are Riot Games properties. Original site design; no Riot logos or artwork are included.</div>
     </footer>
+    <script>
+      for (const anchor of document.querySelectorAll<HTMLAnchorElement>('a[href]')) {
+        const target = new URL(anchor.href, document.baseURI);
+        if ((target.protocol === 'https:' || target.protocol === 'http:') && target.origin !== window.location.origin) {
+          anchor.target = '_blank';
+          anchor.rel = 'noopener noreferrer';
+        }
+      }
+    </script>
   </body>
 </html>

@@ -1,8 +1,9 @@
 ---
 layout: ../layouts/ReportLayout.astro
-title: "The Truth Is Never What It Seems — The Full Seraphine Lore Investigation"
-description: "The complete HUNTtheTRUTH investigation: Riot's original 2020 Seraphine lore, Skarner and the Brackern, developer evidence, creator commentary, Wikipedia, search and AI."
+title: "Seraphine Lore Misinformation: Six Years of Influencer Narratives Investigated | HUNTtheTRUTH"
+description: "Full evidence-led investigation into Seraphine lore misinformation: Riot's original 2020 sources, influencer omissions, bandwagon narratives, wikis and AI."
 ---
+
 
 And what happens when search engines and (new) AI systems begin presenting that same claim as established 'fact' due to popularity? How does that give new players looking into a champion they like a misleading answer from e.g. Gemini/Bing AI pulling misinformation as established fact? 
 
@@ -204,7 +205,7 @@ The test is whether factual claims and characterisations were supported by Riot'
 
 #### Skooch — 16 October 2020
 
-In [his Seraphine commentary](https://www.youtube.com/watch?v=mtDognO_CPM&t=120s), Skooch reads sections of the original biography and criticises the use of a Brackern crystal to power her performance stage (\~02:00–05:00). He then scrolls through extensive K/DA promotional material (\~05:13–06:40) before contrasting it with the much shorter Runeterra biography (\~06:41–06:58), arguing that the in-universe character appeared to be an afterthought. [Watch the comparison (\~06:41)](https://www.youtube.com/watch?v=mtDognO_CPM&t=401s).
+In his Seraphine commentary (YouTube video ID: mtDognO_CPM; approximately 02:00), Skooch reads sections of the original biography and criticises the use of a Brackern crystal to power her performance stage (\~02:00–05:00). He then scrolls through extensive K/DA promotional material (\~05:13–06:40) before contrasting it with the much shorter Runeterra biography (\~06:41–06:58), arguing that the in-universe character appeared to be an afterthought. Comparison at approximately 06:41 (YouTube video ID: mtDognO_CPM).
 
 That comparison omits Riot's [*Champion Insights: Seraphine*](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/), published four days earlier on the same official League of Legends website as the biography. This was not merely a supplementary promotional article: Rayla Heide identifies deep empathy as Seraphine's defining trait; Daniel Couts explains the Brackern souls within hextech crystals, their importance of song, and Seraphine's connection to a particular crystal that helps her manage overwhelming emotional hearing. Riot expressly distinguishes her inability to save trapped souls from indifference towards them, and explains that she transforms the emotions she hears into music to connect with and uplift others. The article also explains the Piltover/Zaun setting and floating-stage design. Thus the short biography was not the complete published record of Runeterra development. Skooch's comparison could substantiate a disparity in promotional volume, but not the implied absence of this contemporaneous design and narrative work.
 
@@ -212,7 +213,7 @@ That comparison omits Riot's [*Champion Insights: Seraphine*](https://www.league
 
 #### NickyBoi — 24 October 2020: selective use of Riot's own development article
 
-[Video](https://www.youtube.com/watch?v=bDa0p_xx_KA) | [Riot's *Champion Insights: Seraphine* (12 October 2020)](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/)
+NickyBoi's 24 October video (YouTube video ID: bDa0p_xx_KA) | [Riot's *Champion Insights: Seraphine* (12 October 2020)](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/)
 
 At \~10:47–11:32, NickyBoi invokes the same hatred based narrative regarding Brackern souls and Skarner's family, then characterises Seraphine as a *“narcissistic, selfish sociopath”*. 
 

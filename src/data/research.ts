@@ -166,36 +166,55 @@ export const pages: ResearchPage[] = [
   },
   {
     slug: 'seraphine-misinformation',
-    title: 'Seraphine Lore Misinformation: Influencer Claims, Wikis and AI',
-    description: 'An evidence-led audit of Seraphine commentary, original Riot sources, community repetition, Wikipedia, Google Search and AI Overview source attribution.',
-    eyebrow: 'HUNTTHETRUTH · SOURCE PROVENANCE',
-    lead: 'The investigation asks how commentary about an ambiguous story became a durable account of a character’s personality, and why original evidence published before the backlash was often absent from retellings.',
+    title: 'How Seraphine Lore Misinformation Spread: Influencer Claims, Wikis and AI',
+    description: 'Source-by-source audit of Seraphine lore misinformation: omissions and contradictions in NickyBoi, Necrit, T B Skyen and Skooch videos, plus bandwagon and search propagation.',
+    eyebrow: 'HUNTTHETRUTH · CLAIM-BY-CLAIM AUDIT',
+    lead: 'An original Riot developer explanation published on 12 October 2020 described Seraphine’s deep empathy, her connection to a Brackern crystal and why inability to free trapped souls did not equal indifference. This page examines what prominent commentators actually used, omitted or contradicted.',
     sections: [
-      { heading: 'The original evidence was already public', paragraphs: [
-        'Riot published <em>Champion Insights: Seraphine</em> on 12 October 2020, before many popular reactions. That article explicitly discussed empathy, Brackern souls, the role of song, overwhelming emotional hearing and the character’s stated motives.',
-        'The core audit compares each commentator’s factual assertions and source choices with the material available on their video’s publication date. A statement about the ethical implications of a crystal is different from an established fact about Seraphine’s awareness or indifference.'
+      { heading: 'The test: creator claim versus Riot’s dated evidence', paragraphs: [
+        'Riot’s <a href="https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/">Champion Insights: Seraphine</a> was public on 12 October 2020. Rayla Heide described the intention to make Seraphine deeply empathetic. Daniel Couts explained her overwhelming perception of other people’s emotions, her special connection with a Brackern crystal and her use of music to connect with and uplift people.',
+        'The relevant question is not whether the community could criticise her original writing or voice-over. It is whether creators presented interpretations as fact while setting aside evidence that was already available when they published their claims. The original 2020 material, later revisions and current canon must be evaluated separately.'
       ] },
-      { heading: 'Creator comparisons', table: { headers: ['Commentator', 'Historical material examined', 'Central audit question'], rows: [
-        ['T B Skyen', '12–14 October 2020 material and later retrospective', 'Does the claim about knowledge and culpable inaction follow from the original sources?'],
-        ['Necrit', '14, 18 October and 4 November 2020 coverage', 'Were changes and earlier developer explanations represented in their full context?'],
-        ['NickyBoi', '24 October 2020 and later comments', 'Was the lore criticism set against the narrative explanation accompanying Riot’s published concept art?'],
-        ['Skooch', '16 October 2020 and subsequent follow-up', 'Did comparing the short biography against K/DA promotion omit Riot’s separate developer article?'],
-        ['ProGuides', '24 October 2020 coverage', 'What did a comparatively balanced response cover, and what did it still omit?']
-      ] } },
-      { heading: 'Propagation into reference sources', paragraphs: [
-        'The source audit extends to community wikis and Wikipedia. A page can accurately report that critics called Seraphine cruel while still omitting Riot’s contemporary explanation of her characterisation. That omission matters when readers mistake a report of criticism for confirmation of the underlying accusation.',
-        'The investigation has also examined Wikipedia’s history and proposed corrections. Its historical omission and its current content are not the same question; revision dates must establish which version readers encountered at a particular time.'
+      { heading: 'NickyBoi: concept art used, narrative context excluded', paragraphs: [
+        'In his 24 October 2020 video, at approximately 10:47–11:32, NickyBoi characterises Seraphine as a “narcissistic, selfish sociopath”. The video also uses concept art originating in Riot’s 12 October <em>Champion Insights</em> article, yet does not represent its accompanying explanation of empathy, Brackern song and the distinction between inability to save trapped souls and not caring about them.',
+        'That is a concrete same-document omission: material useful to a visual-design critique appears, while contrary narrative context published with it does not. The audit treats selective presentation as strongly supported; the route by which the creator obtained the artwork is not directly established. Video identification for independent research: NickyBoi, 24 October 2020, YouTube ID bDa0p_xx_KA.'
       ] },
-      { heading: 'What Google presented in November 2026', paragraphs: [
-        'Four searches were recorded in Singapore on 26 November 2026: <em>seraphine lore</em>, <em>seraphine skarner</em>, <em>seraphine original lore</em> and <em>why is seraphine controversial</em>. The AI Overviews visibly featured Reddit and historical creator commentary, including source presentations associated with T B Skyen and Necrit.',
-        'For the query specifically requesting original lore, the initial source display did not explicitly identify Riot’s 12 October developer article. This is an observation about which sources were visible in those results, not evidence that the article was unavailable to Google or that a model had been trained on any particular source.'
+      { heading: 'Necrit: narrating motivations, then denying them', paragraphs: [
+        'In <em>Was Seraphine Forced Into Runeterra?</em> (18 October 2020), Necrit recounts Seraphine’s overwhelming emotional hearing and childhood distress at approximately 10:21–12:17, but subsequently argues that she has effectively no struggle. At approximately 14:26–15:24, he denies a clear motivation despite earlier narrating her wish to bridge Piltover and Zaun and give struggling people a voice.',
+        'Those are source-to-conclusion inconsistencies within the same video, not merely a disagreement about the amount of character development. At approximately 15:44–16:34, he explicitly refers to T B Skyen’s analysis and endorses Skooch’s K/DA comparison. These are documented cross-references between commentators, relevant to the reinforcement of shared interpretations.'
       ] },
-      { heading: 'Repeated claims are not independent corroboration', paragraphs: [
-        'A criticism repeated by multiple videos, forums, search snippets and AI answers may be the same interpretation recycled through dependent sources. The number of references does not establish that each reference independently checked the original publication.',
-        'The investigative method is to trace the claim back to a dated primary source, compare the exact wording and document where the account changes between retellings.'
+      { heading: 'T B Skyen: acknowledged intent versus repeated moral accusation', paragraphs: [
+        'In the 13 October 2020 video <em>seraphine’s stage is canonically powered by the souls of the innocent</em>, T B Skyen reads the original biography and recognises Seraphine’s intended empathy, optimism and sympathy. At approximately 11:45–12:55 he nevertheless frames her as knowingly indifferent to Brackern exploitation, without accounting for the developer explanation published one day earlier.',
+        'His 14 October follow-up repeats the allegation at approximately 00:42–01:05. Later in that video, around 03:54–04:54, he acknowledges Riot intended her as nice and wholesome and rejects a secret-villain theory. The audit distinguishes criticism of Riot’s awkward execution from the stronger assertion that deliberate cruelty was established as her characterisation. Research reference: 13 October video, YouTube ID xDl7-WITHNo.'
+      ] },
+      { heading: 'Skooch: short biography versus K/DA promotion', paragraphs: [
+        'On 16 October 2020, Skooch compares extensive K/DA promotion against Seraphine’s shorter Runeterra biography at approximately 06:41–06:58 and argues the in-universe character looks like an afterthought. Riot’s separate <em>Champion Insights</em> had already been published four days before, explaining her Runeterra motivations, region, Brackern relationship and stage design.',
+        'The video therefore supports a comparison of promotional volume, but not an assertion that the short biography represents the whole body of Riot’s narrative development material. Research reference: YouTube ID mtDognO_CPM; comparison at approximately 06:41.'
+      ] },
+      { heading: 'ProGuides: an important counterexample', paragraphs: [
+        'ProGuides’ 24 October 2020 video explicitly challenges the Sona-copy bandwagon, compares gameplay differences, accepts that Seraphine’s positive personality was not itself the problem, and discusses Riot’s stage rationale. It therefore provides a counterexample to indiscriminate negative framing.',
+        'The same video uses <em>Champion Insights</em> for visual-design discussion but omits its explicit inability-to-save explanation when criticising the lack of a Brackern rescue arc at approximately 12:41–13:14. This is a source omission without an accompanying accusation that Seraphine was sociopathic.'
+      ] },
+      { heading: 'Creator reinforcement, cherry-picking and bandwagon effects', paragraphs: [
+        'Selective use of a published source can give a characterisation an apparent evidential basis while excluding passages that complicate it. Repeated presentations by popular commentators can create social proof, especially when a later narrator points approvingly to earlier critics. The documented Necrit–Skyen–Skooch cross-references are a concrete example of this reinforcement network.',
+        'A creator’s influence and the emotional intensity of a criticism do not independently validate the underlying factual claim. The report analyses this mechanism as selective framing, argument from popularity and an information cascade. Claims of deliberately coordinated social engineering require evidence of the specific intent or coordination; repetition and cross-reference alone do not establish that.'
+      ] },
+      { heading: 'Evidence laundering: from commentary to search and AI', paragraphs: [
+        'The concern is source dependency. Several accounts repeating one original interpretation do not become several independent pieces of evidence. The investigation tracks recurring claims through community references, Wikipedia and later retrieval and citation by search and AI systems.',
+        'In Google Search captures dated 26 November 2026, results for <em>seraphine lore</em>, <em>seraphine skarner</em>, <em>seraphine original lore</em> and <em>why is seraphine controversial</em> prominently surfaced secondary commentary and Reddit discussion. Source displays attributed material to T B Skyen and Necrit, while Riot’s particular 12 October developer article was not visibly identified in those supplied results.',
+        'That is a documented source-visibility finding, not proof of any particular model-training dataset or an unseen causal path. The distinction matters when evaluating whether an AI answer has independently verified a claim.'
+      ] },
+      { heading: 'Read the complete cross-examination', paragraphs: [
+        'The <a href="/seraphine-lore-misinformation-investigation/">full Seraphine lore misinformation investigation</a> contains the individual creator audit sections, date-by-date evidence comparisons, video timecodes, revisions, source-dependency analysis, Wikipedia findings and original conclusion. Video titles, IDs and timestamps are supplied here as text rather than direct links to creator channels.',
+        'See also the <a href="/seraphine-original-lore/">original 2020 source chronology</a> and the <a href="/seraphine-lore-changes/">six biography changes</a> for the underlying record.'
       ] }
     ],
-    references: [{label:'Riot — Champion Insights: Seraphine',url:insights},{label:'Riot — dated Seraphine releases',url:riotArchive},{label:'Skooch — contemporary October 2020 commentary',url:'https://www.youtube.com/watch?v=mtDognO_CPM'},{label:'NickyBoi — contemporary October 2020 commentary',url:'https://www.youtube.com/watch?v=bDa0p_xx_KA'},{label:'T B Skyen — 13 October 2020 video',url:'https://www.youtube.com/watch?v=xDl7-WITHNo'},{label:'Wikipedia — Seraphine article',url:wikipedia}],
+    references: [
+      { label: 'Riot — Champion Insights: Seraphine (12 October 2020)', url: insights },
+      { label: 'Riot — dated Seraphine publications', url: riotArchive },
+      { label: 'Jeevun Sidhu — 29 October 2020 clarification', url: sidhu },
+      { label: 'Wikipedia — Seraphine article and revisions', url: wikipedia }
+    ],
     related: ['seraphine-original-lore', 'seraphine-lore-changes', 'sources']
   },
   {
