@@ -155,11 +155,11 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 | Necrit | They Changed Seraphine's Lore - Is it Better? | 4 Nov 2020 | ≈330,081 | Lore revision commentary; transcript pending |
 | Skooch | My Final Thoughts On Seraphine | 6 Nov 2020 | ≈246,015 | Recommends NickyBoi; acknowledges developers lacked malicious intentions |
 
-**Combined approximate views:** ≈4,319,260 across ten videos (including 352,390 supplied for ProGuides, 24 October 2020).
+**Combined approximate views:** ≈4,319,260 across ten videos (including 352,390 for ProGuides, 24 October 2020).
 
 ### Evidence baseline for influencer cross-examinations — original developer intent and subsequent biography revisions
 
-**12 October 2020 — Champion Insights: Seraphine.** Complete context relevant to characterisation, motivation, Brackern and the design rationale, paraphrased rather than reproducing the entire copyrighted article. [Original Riot developer article](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/).
+**12 October 2020 — Champion Insights: Seraphine.** Complete context relevant to characterisation, motivation, Brackern and the design rationale. [Original Riot developer article](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/).
 
 | Section | Relevant published evidence |
 | --- | --- |
@@ -209,7 +209,7 @@ In his Seraphine commentary (YouTube video ID: mtDognO_CPM; approximately 02:00)
 
 That comparison omits Riot's [*Champion Insights: Seraphine*](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/), published four days earlier on the same official League of Legends website as the biography. This was not merely a supplementary promotional article: Rayla Heide identifies deep empathy as Seraphine's defining trait; Daniel Couts explains the Brackern souls within hextech crystals, their importance of song, and Seraphine's connection to a particular crystal that helps her manage overwhelming emotional hearing. Riot expressly distinguishes her inability to save trapped souls from indifference towards them, and explains that she transforms the emotions she hears into music to connect with and uplift others. The article also explains the Piltover/Zaun setting and floating-stage design. Thus the short biography was not the complete published record of Runeterra development. Skooch's comparison could substantiate a disparity in promotional volume, but not the implied absence of this contemporaneous design and narrative work.
 
-**Plausible deniability:** Skooch had researched and displayed Riot's official biography and promotional material, and was an established League commentator. The detailed countervailing developer article was already accessible on Riot's main League website four days before his video. Ignorance is possible, but the explanation that this material was obscure or unavailable is weak. Given his demonstrated research and the precise relevance of the omitted article, selective source use is a credible inference; deliberate avoidance is not independently established by this video alone. His 6 November follow-up requires a separate assessment of whether the omission persisted after further time and developer clarifications.
+**Plausible deniability:** Skooch had researched and displayed Riot's official biography and promotional material, and was an established League commentator. The detailed countervailing developer article was already accessible on Riot's main League website four days before his video. His demonstrated research and the relevance of the omitted article make selective source use a credible inference.
 
 #### NickyBoi — 24 October 2020: selective use of Riot's own development article
 
@@ -285,7 +285,7 @@ But unlike the fictional parasocial relationship he criticised, this controversy
 
 At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that he works for him. **Skooch subsequently recommends NickyBoi in his 6 November follow-up.**
 
-**This establishes a dated, two-way amplification link between the creators, rather than merely two independent commentators expressing similar criticisms. **
+**This establishes a dated, two-way amplification link between the creators.**
 
 **Primary-source and intent assessment — NickyBoi's 24 October video:** The decisive distinction is between an objection to Riot's execution and an assertion that the fictional character is selfish or sociopathic. *Champion Insights* explicitly says Seraphine hears trapped Brackern souls, connects through their song, and may be unable to save them without being indifferent. His use of artwork originating in that article, together with the article's availability on Riot's official website twelve days earlier, makes **intentional selective presentation likely**, although it does not prove he read the adjacent text. His recommendation of Skooch's video at 15:09–15:16 further documents amplification of an interpretation which did not incorporate the complete contemporaneous developer explanation. This inference concerns selection and framing of public evidence, not proof of a private commercial motive.
 
@@ -339,7 +339,7 @@ In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of h
 
 **10:37–11:28 and 13:48–14:26 — legitimate requests for elaboration:** Necrit asks for more explanation of Seraphine's rise to fame, the effect of removing her dampener and the Brackern's perspective. These concern narrative depth rather than the absence of the underlying characterisation.
 
-**15:44–16:34 — direct influencer cross-references:** Necrit says he watched T B Skyen's Seraphine video and found it reflected almost exactly his own opinion. He also identifies and endorses Skooch's comparison between Runeterra and K/DA promotional material. This directly documents reinforcing interpretations across three influencers. It complements the video's description links to Skooch's specific video and T B Skyen's channel. Cross-references establish an influence network; they do not alone establish [circular sourcing](https://en.wikipedia.org/wiki/Circular_reporting) or independent corroboration. Necrit presents the viewing as occurring after his own analysis, a sequence not independently verified here.
+**15:44–16:34 — direct influencer cross-references:** Necrit says he watched T B Skyen's Seraphine video and found it reflected almost exactly his own opinion. He also identifies and endorses Skooch's comparison between Runeterra and K/DA promotional material. This directly documents reinforcing interpretations across three influencers. It complements the video's description links to Skooch's specific video and T B Skyen's channel. These cross-references document an influence network, not independent corroboration. Necrit says he watched the video after conducting his own analysis.
 
 **Plausible deniability — evidence-led deduction:** The 14 October video had already reduced Seraphine's compassionate motivation to an alleged absence of motivation. In the 18 October dedicated lore examination, Necrit narrates the biography at length and says at approximately 10:21 that he deliberately retained its wording. He therefore demonstrably knew its account of emotional distress, Brackern guidance and Seraphine's desire to help and unite others. His repeated conclusions that there is no struggle or motivation cannot be explained simply by unfamiliarity with those passages. Combined with his status as a lore specialist and the already published *Champion Insights: Seraphine* on Riot's official website, this strengthens the finding of **selective interpretation of known primary-source material and internal inconsistency**.
 
@@ -364,7 +364,7 @@ In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of h
 
 ##### 2. Standing Room Only — summary of omissions and underweighted evidence
 
-**Source:** Daniel Couts, *Standing Room Only* (29 October 2020), compared with the supplied transcript of Necrit’s 4 November video. The categories distinguish material not narrated from material narrated but discounted in the conclusion. Times identify approximate corresponding video segments, not precise word-level cut points.
+**Source:** Daniel Couts, *Standing Room Only* (29 October 2020), compared with the transcript of Necrit’s 4 November video. The categories distinguish material not narrated from material narrated but discounted in the conclusion. Times identify approximate corresponding video segments, not precise word-level cut points.
 
 | # | Original story evidence | Video treatment | Time | Investigative relevance |
 | --- | --- | --- | --- | --- |
@@ -393,7 +393,7 @@ In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of h
 
 **Final-claim cross-examination (13:17–14:25).** After narrating this evidence, Necrit questions Seraphine’s “real motivations” and what she gains from uniting the cities, while conceding that she acts because she wants to make the world happier. The evidence supports a distinction between *motivation absent* and *motivation present but judged narratively insufficient*. The original explicitly supplies altruistic motivation, emotional stakes, self-doubt, limits on her intervention and a continuing desire to understand the crystal. His preference for a different kind of personal stake is an evaluative criterion, not proof that Riot omitted motivation.
 
-**Investigation framework — provenance, completeness, framing, inference and impact.** **Provenance:** Riot’s 29 October primary text was available before the 4 November video. **Completeness:** the video covers most major events but skips or condenses specific first-person statements, particularly the limit on solving everything. **Framing:** his concluding characterisation gives less weight to motives and struggles he narrates. **Inference:** selective treatment and an internally inconsistent assessment are supported by the comparison; a deliberate intent to mislead is not established by the transcript alone. **Potential impact:** a lore specialist’s conclusion that Seraphine lacks meaningful motivation may be repeated without the audience revisiting the fuller primary source. This is a traceable mechanism of narrative simplification, not by itself proof of downstream propagation.
+**Finding:** Riot’s 29 October story predates the 4 November video. Necrit covers most major events but omits or condenses first-person statements, particularly Seraphine’s explicit acknowledgement that she cannot solve everything. His conclusion discounts motives and struggles he narrates, allowing an incomplete account of her motivation to circulate without readers revisiting the original story.
 
 **Cross-video pattern:** As documented elsewhere in this section, Necrit’s 14 October, 18 October and 4 November discussions repeatedly acknowledge altruistic motives or emotional struggle while characterising her as inadequately motivated. The 4 November colour story supplies additional, contemporaneously available evidence against the categorical version of that claim.
 
@@ -434,7 +434,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Separate criticisms:** A limited depiction of her path to fame (3:25–3:49) and dissatisfaction with her costume (3:50–4:46; 14:25 onward) are independently arguable questions of narrative execution and aesthetics. Neither proves a lack of empathy or motivation. His claim that she cares only about her voice, not appearance (4:31–4:46), is not established by the material he cites.
 
-**Finding:** This is a demonstrable pattern of selective comparison (two of six changes), omission of an available primary developer explanation, and a final conclusion that fails to account for material he personally narrated. The strongest evidential finding is not concealed footage but **acknowledged evidence discounted at the point of judgement**. Repetition across his 14 October, 18 October and 4 November videos strengthens the case that the incomplete characterisation persisted despite opportunities to review it; intention to deceive remains an inference rather than a directly documented admission.
+**Finding:** This is a demonstrable pattern of selective comparison (two of six changes), omission of an available primary developer explanation, and a final conclusion that fails to account for material he personally narrated. The strongest evidential finding is not concealed footage but **acknowledged evidence discounted at the point of judgement**. Repetition across his 14 October, 18 October and 4 November videos strengthens the case that the incomplete characterisation persisted despite opportunities to review it.
 
 #### T B Skyen — 12 October 2020: Let's think out loud about Seraphine and what she's selling for 28 minutes
 
@@ -484,9 +484,9 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Finding:** Repeated selective characterisation; demonstrated awareness of Riot's intended empathy; likely intentional continuation of the selfish-exploitation framing; substantive but separate criticism of Riot's narrative execution. Transcript timecodes are approximate.
 
-#### TBSkyen — January 2021: What’s the Deal with Seraphine? (title/date to verify)
+#### TBSkyen — January 2021: What’s the Deal with Seraphine?
 
-**Video:** T B Skyen’s January 2021 *What’s the Deal with Seraphine?* episode, identified in the user-supplied timestamped transcript. The investigation uses this preserved capture; the video’s exact upload day and URL are not necessary to identify the reviewed episode.
+**Video:** T B Skyen’s January 2021 *What’s the Deal with Seraphine?* review, examined using a preserved timestamped transcript.
 
 **Principal transcript segments:** \~12:56–16:02 (Brackern knowledge, moral inference and acknowledged writer intent); \~17:20–20:09 (biography revision); \~23:28–29:10 (political stakes and alternative storyline).
 
@@ -496,11 +496,11 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Assessment:** Accurate recognition of intended empathy; materially incomplete revision comparison (three of six changes); interpretation of Brackern knowledge and inaction exceeds what the compared text alone establishes. See evidence matrix for differentiated findings.
 
-**Audience repetition:** Not established by this transcript alone; dated downstream citations must be recorded separately.
+
 
 ##### 1. Summary evidence matrix — January video against contemporaneous Riot material
 
-**Video:** TBSkyen, January 2021 *What’s the Deal with Seraphine?* review (exact title, upload date and URL require source verification). **Capture:** user-supplied timestamped transcript, approximately 69 minutes. **Primary comparators:** Riot *Champion Insights: Seraphine* (12 October 2020); original and revised biographies (29 October 2020); *Standing Room Only* (29 October 2020); original champion voice-over. Timestamp ranges below refer to the supplied transcript.
+**Primary sources:** Riot *Champion Insights: Seraphine* (12 October 2020); original and revised biographies (29 October 2020); *Standing Room Only* (29 October 2020); original champion voice-over. The review transcript spans approximately 69 minutes.
 
 | # | 29 October biography change | TBSkyen’s treatment | Classification | Why it matters |
 | --- | --- | --- | --- | --- |
@@ -534,7 +534,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **E. Colour story: emotional stakes and limits.** *Standing Room Only* (29 October) supplies stage fright, concrete concern for Schala and Roland, her recognition that she does not need to solve everything, the fleeting nature of harmony and her continued effort to hear the crystal. The January review’s political-efficacy critique can coexist with those facts, but the categorical framing of an empty or toothless intervention must be tested against them. The official story illustration of Seraphine smiling while holding the crystal is additional positive visual characterisation; whether Skyen displayed it in the video cannot be determined from the transcript alone.
 
-**F. Original voice-over and source hierarchy.** Any original voice line suggesting she recognises Brackern consciousness should be quoted in full with its addressed target and game context, then compared with the biography and developer article. A short in-game line does not by itself establish a comprehensive account of what she knows or can do. The transcript’s broader Brackern accusation should not be treated as proven solely through an isolated line. This audit does not claim the video showed a particular voice-line clip without visual verification.
+**F. Original voice-over and source hierarchy.** The original voice-over, biography and developer article must be read together. A short in-game line cannot establish the full extent of Seraphine’s knowledge or abilities.
 
 **G. Interpretation versus fact.** His proposed protest-singer/Brackern-ally storyline (\~27:46–29:10) is a coherent creative alternative. His argument that Riot should have written that story is evaluative; it does not establish that Riot’s existing empathic characterisation, limits and motivations were absent. Likewise, criticism of a short-lived concert’s inability to repair structural inequality is distinct from evidence that Seraphine believes she can solve those inequalities through one performance.
 
@@ -542,7 +542,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Cross-examination questions.** (1) Why does the retcon comparison omit the revision of the hatred passage, when that passage bears directly on claimed Brackern knowledge? (2) How is the added wish to hear the crystal reconciled with a reading of mere instrumental exploitation? (3) Why is Riot’s 12 October account of hearing Brackern songs but being unable to save them not tested against “she does nothing”? (4) Is the criticism that her motivation is absent, or that the existing altruistic motivation is politically insufficient? (5) What contemporaneous primary text establishes full understanding of the Brackern’s fate, rather than partial guidance or an indistinct song?
 
-**Evidence status:** all video timecodes are approximate transcript positions; source-page links, exact video publication date/URL and any on-screen artwork or citations require verification before external publication. The uploaded transcript includes repeated automatic-transcription lines near 20:00; these are treated as duplicates, not repeated spoken emphasis.
+**Timecodes:** Approximate video positions. Repeated automatic-transcription lines near 20:00 are excluded from the analysis.
 
 ##### 4. Focused omission register — the “new home” joke and all six changes
 
@@ -585,7 +585,7 @@ The subsequent source-integrity question is how such interpretations were repres
 
 #### ProGuides — 24 October 2020: a balanced counterexample
 
-ProGuides' *Why SO MANY League Players HATE Seraphine (Design, Kit, Lore)* (352,390 views in the supplied metadata) provides an important contrast. Rather than simply repeating the Sona-copy allegation, the narrator compares their abilities and playstyles in detail and explicitly urges viewers to try Seraphine before joining the bandwagon (\~01:20–06:56). He accepts that a pop star can belong in Runeterra (\~09:05–09:17), acknowledges Riot's rationale for her stage (\~10:04–10:14), and says that her positive personality is not the problem (\~11:26–11:43).
+ProGuides' *Why SO MANY League Players HATE Seraphine (Design, Kit, Lore)* (352,390 views) provides an important contrast. Rather than simply repeating the Sona-copy allegation, the narrator compares their abilities and playstyles in detail and explicitly urges viewers to try Seraphine before joining the bandwagon (\~01:20–06:56). He accepts that a pop star can belong in Runeterra (\~09:05–09:17), acknowledges Riot's rationale for her stage (\~10:04–10:14), and says that her positive personality is not the problem (\~11:26–11:43).
 
 **One material omission remains.** ProGuides expressly uses Riot's 12 October *Champion Insights: Seraphine* for the K/DA distinction (\~08:01–08:17) and alternative stage concepts (\~10:24–10:36), yet does not mention the same article's explanation that she cannot save the trapped Brackern souls when suggesting that her empathy should have led to a rescue journey (\~12:41–13:14). This makes the lore criticism incomplete, but it is a criticism of a missed story opportunity, not an accusation that Seraphine is malicious or sociopathic.
 
@@ -593,7 +593,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 ### ProGuides — 24 October 2020: primary-source comparison and detailed audit
 
-**Video:** *Why SO MANY League Players HATE Seraphine (Design, Kit, Lore) - League of Legends*, ProGuides Challenger League of Legends Guides, 24 October 2020; 352,390 views (supplied metadata). **Capture:** user-supplied timestamped transcript. **Chronology:** Riot's 12 October *Champion Insights: Seraphine* and original biography were available; 29 October revisions and *Standing Room Only* were not.
+**Video:** *Why SO MANY League Players HATE Seraphine (Design, Kit, Lore) - League of Legends*, ProGuides Challenger League of Legends Guides, 24 October 2020; 352,390 views. **Source:** Timestamped video transcript. **Chronology:** Riot's 12 October *Champion Insights: Seraphine* and original biography were available; 29 October revisions and *Standing Room Only* were not.
 
 #### Evidence matrix — coverage, omissions and claim testing
 
@@ -619,7 +619,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 **5. Distinguish opinion from unsupported fact.** Complaints that her stage looks like a dinner plate, that her design lacks Piltover/Zaun visual signifiers, or that a Brackern rescue arc would be more compelling are aesthetic or creative judgements. The assertion that K/DA Seraphine came first (\~07:38–08:01) is presented as apparent from marketing and character framing; the cited evidence does not itself establish Riot's internal production chronology. Claims that Riot deliberately exploited mental-health insecurity or consciously steered tweets away after criticism (\~08:22–09:00) would require independent dated corroboration if included in the investigation; they are separate from the Brackern primary-source finding.
 
-**6. Propagation and scope.** The video reports and evaluates existing community complaints rather than simply endorsing every complaint. Its dated publication and view count establish potential exposure, not unique viewers or demonstrated downstream repetition. The lore segment nonetheless reproduces the familiar Brackern knowledge/inaction framing while omitting Riot's directly relevant developer clarification.
+**6. Propagation and scope.** The video reports and evaluates existing community complaints rather than simply endorsing every complaint. The lore segment nonetheless reproduces the familiar Brackern knowledge/inaction framing while omitting Riot's directly relevant developer clarification.
 
 **Determination — balanced counterexample with a material omission.** ProGuides directly consulted *Champion Insights*, challenged the Sona-copy bandwagon through detailed mechanics, acknowledged Riot's design rationale and did not portray Seraphine as malicious. Its lore segment nevertheless omitted the same developer article's explanation that she could not save the trapped Brackern souls, weakening its rescue-arc criticism. This is a documented source-completeness gap in an otherwise evidence-informed review.
 
@@ -669,7 +669,7 @@ Circular sourcing can make repeated claims appear independently corroborated, ev
 
 A chatbot retrieving several articles that repeat the same unsupported interpretation can present dependent sources as independent corroboration.
 
-**An AI system can reproduce the internet's confidence without verifying it’s evidential value. **
+**An AI system can reproduce the internet's confidence without verifying its evidential value.**
 
 #### 7.1. November 2026 — Testing Google's search results and AI-generated answers
 
@@ -690,13 +690,13 @@ A recurring observation across these searches was the prominence of secondary in
 
 Riot's [Champion Insights: Seraphine](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/), published **12 October 2020**, established empathy as central to her intended characterisation and explained her relationship with the Brackern souls.
 
-Yet that specific original developer article was not visibly identified among the results supplied for these four queries.
+Yet that specific original developer article was not visibly identified among the results captured for these four queries.
 
 By contrast, commentary from T B Skyen and Necrit appeared within Google's AI Overview source presentations for relevant historical questions.
 
 T B Skyen's video, *seraphine's stage is canonically powered by the souls of the innocent*, was published **13 October 2020**, one day after the original developer explanation.
 
-The chronology and the subsequent source presentation are directly relevant to this investigation's examination of how secondary interpretations remain discoverable alongside, and sometimes more prominently than, the primary evidence.
+Six years later, secondary interpretations remain more prominent than Riot's original evidence in some search results.
 
 #### 7.3. Search visibility and the appearance of authority
 
@@ -706,7 +706,7 @@ That distinction matters: documenting that a criticism became popular does not i
 
 The search results illustrate how users investigating the historical controversy may encounter influencer commentary, Reddit discussions and wiki summaries together within an apparently authoritative AI-generated explanation.
 
-These observations establish source visibility and attribution within the tested search interface. They do not independently establish that a particular source caused an AI-generated claim or was incorporated into a model's training data.
+These observations document search visibility and AI Overview source attribution, not model training data.
 
 #### 7.4. Keyword research and discoverability
 
