@@ -1,7 +1,83 @@
 ---
 import SiteLayout from './SiteLayout.astro';
 import '../styles/report.css';
-const { frontmatter } = Astro.props;
+
+type ReportHeading = { depth: number; slug: string; text: string };
+type TocEntry = { label: string; heading: string };
+type TocGroup = { title: string; note?: string; links: TocEntry[] };
+
+const { frontmatter, headings = [] } = Astro.props as {
+  frontmatter: { title: string; description: string };
+  headings?: ReportHeading[];
+};
+
+// Astro supplies the same heading slugs that it renders into the Markdown.
+// Never guess or maintain a second set of anchor IDs.
+const tocGroups: TocGroup[] = [
+  {
+    title: 'Original Riot evidence',
+    note: 'Riot published Champion Insights: Seraphine on the official League of Legends website on 12 October 2020. Skooch, Necrit and T B Skyen did not cite that developer article in the examined lore accusations. NickyBoi used concept art originating in the article but omitted its narrative explanations. ProGuides cited it for design points yet also omitted its Brackern rescue explanation.',
+    links: [
+      { label: 'Champion Insights — Riot’s official article omitted from lore accusations', heading: 'Primary sources: what Riot actually published' },
+      { label: 'Original voice-over', heading: "Where Riot's execution failed" },
+      { label: 'October 2020 chronology', heading: 'The October 2020 timeline' },
+      { label: 'Primary-source baseline', heading: 'Evidence baseline for influencer cross-examinations' },
+    ],
+  },
+  {
+    title: 'Influencer cross-examinations',
+    links: [
+      { label: 'Skooch', heading: 'Skooch — 16 October' },
+      { label: 'NickyBoi', heading: 'NickyBoi — 24 October' },
+      { label: 'Necrit', heading: 'Necrit — 18 October' },
+      { label: 'T B Skyen', heading: 'T B Skyen — 13 October' },
+      { label: 'ProGuides', heading: 'ProGuides — 24 October 2020: primary-source' },
+    ],
+  },
+  {
+    title: 'Evidence comparison',
+    note: 'Plausible deniability is assessed inside the individual creator audits.',
+    links: [
+      { label: 'Cross-examination synthesis', heading: 'Cross-examination synthesis' },
+      { label: 'Evidence matrix', heading: 'Evidence matrix — coverage' },
+      { label: 'Source omissions', heading: 'NickyBoi — 24 October' },
+      { label: 'Plausible deniability — creator audits', heading: 'Influencer cross-examination: comparing' },
+    ],
+  },
+  {
+    title: 'Misinformation mechanisms',
+    links: [
+      { label: 'Attention economy', heading: '4. Controversy in the pandemic' },
+      { label: 'Bandwagon and social proof', heading: '5. When popular opinion' },
+      { label: 'Evidence laundering', heading: '6. Evidence laundering' },
+    ],
+  },
+  {
+    title: 'Google Search and AI',
+    links: [
+      { label: 'Search and AI findings', heading: '7. SEO, search' },
+      { label: 'November 2026 Google captures', heading: '7.1. November 2026' },
+      { label: 'Original Riot source versus surfaced material', heading: '7.2. The original source' },
+      { label: 'Search visibility', heading: '7.3. Search visibility' },
+    ],
+  },
+  {
+    title: 'Wikipedia.org',
+    note: 'Six years without a citation to the official 12 October 2020 Riot developer article.',
+    links: [
+      { label: 'Wikipedia source-omission findings', heading: '9. November 2026' },
+    ],
+  },
+];
+
+const sections = tocGroups.map((group, index) => ({
+  ...group,
+  number: String(index + 1).padStart(2, '0'),
+  links: group.links.flatMap((entry) => {
+    const heading = headings.find((item) => item.text.startsWith(entry.heading));
+    return heading ? [{ label: entry.label, slug: heading.slug }] : [];
+  }),
+})).filter((section) => section.links.length > 0);
 ---
 <SiteLayout title={frontmatter.title} description={frontmatter.description}>
   <header class="simple-hero report-hero">
@@ -12,7 +88,31 @@ const { frontmatter } = Astro.props;
     </div>
   </header>
   <div class="container report-shell">
-    <nav class="report-chapters" aria-label="Investigation navigation">
+    <nav class="report-toc" id="report-contents" aria-label="On this report">
+      <div class="report-toc-header">
+        <p class="eyebrow">THE INVESTIGATION</p>
+        <h2>Investigation contents</h2>
+        <p>Jump directly to the dated sources, influencer cross-examinations and misinformation findings in this report.</p>
+      </div>
+      <ol class="report-toc-list">
+        {sections.map((section) => (
+          <li class="report-toc-row">
+            <div class="report-toc-title">
+              <span class="report-toc-number">{section.number}</span>
+              <h3>{section.title}</h3>
+              {section.note && <p>{section.note}</p>}
+            </div>
+            <ul class="report-toc-links">
+              {section.links.map((entry) => (
+                <li><a href={`#${entry.slug}`}>{entry.label}</a></li>
+              ))}
+            </ul>
+          </li>
+        ))}
+      </ol>
+    </nav>
+    <nav class="report-related" aria-label="Other research pages">
+      <span class="report-related-label">RELATED RESEARCH</span>
       <a href="/">Home</a>
       <a href="/seraphine-original-lore/">Original lore</a>
       <a href="/seraphine-skarner/">Skarner</a>
@@ -20,5 +120,6 @@ const { frontmatter } = Astro.props;
       <a href="/sources/">Sources</a>
     </nav>
     <article class="report-body"><slot /></article>
+    <div class="report-end-link"><a href="#report-contents">↑ Back to investigation contents</a></div>
   </div>
 </SiteLayout>
