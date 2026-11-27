@@ -40,7 +40,8 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'The biography and the launch', paragraphs: [
         'Riot’s original champion biography followed on <strong>13 October 2020</strong>. It described a Piltover-born singer whose family came from Zaun, the difficulty of hearing surrounding emotions and a device built with a Hextech crystal.',
-        'The original biography did not make every boundary of Seraphine’s knowledge unambiguous. That ambiguity, combined with the early voice-over, helped produce an interpretation in which she fully understood the Brackern’s fate and remained unconcerned. The original developer explanation is essential context for evaluating that reading.'
+        'The original biography did not make every boundary of Seraphine’s knowledge unambiguous. That ambiguity, combined with the early voice-over, helped produce an interpretation in which she fully understood the Brackern’s fate and remained unconcerned. The original developer explanation is essential context for evaluating that reading.',
+        "On 29 October 2020, <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun Sidhu stated</a>: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q>"
       ] },
       { heading: 'The chronological source record', table: { headers: ['Date', 'Document or event', 'Why it matters'], rows: [
         ['12 October 2020', 'Champion Insights: Seraphine', 'Explicit original design intent, empathy, music, Brackern and Hextech context'],
@@ -77,7 +78,8 @@ export const pages: ResearchPage[] = [
       ] } },
       { heading: 'Why the voice-over matters', paragraphs: [
         'The early first-encounter line addressing Skarner’s missing kind was criticised for its delivery. The line was subsequently removed. The investigation considers this an important failure of narrative execution: what reached the public could conflict with the empathetic personality described in the developer article.',
-        'On 29 October 2020, gameplay designer Jeevun “Jag” Sidhu explained that the recorded lines had been removed because they did not fit the story the team was telling. The original developer statement and the shipped dialogue should be examined together, rather than treating either as the entire record.'
+        'On 29 October 2020, gameplay designer Jeevun “Jag” Sidhu explained that the recorded lines had been removed because they did not fit the story the team was telling. The original developer statement and the shipped dialogue should be examined together, rather than treating either as the entire record.',
+        "On 29 October 2020, <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun Sidhu stated</a>: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q>"
       ] },
       { heading: 'After the original lore', paragraphs: [
         'Later revisions to Skarner and the Brackern changed how Hextech’s history fits contemporary Runeterra continuity. Those developments are relevant to <strong>modern canon</strong>, but they do not change what the October 2020 developers had already published.'
@@ -113,7 +115,7 @@ export const pages: ResearchPage[] = [
         "heading": "29 October 2020: Jeevun Sidhu confirmed Seraphine’s intended Brackern role",
         "paragraphs": [
           "After criticism of Seraphine’s original biography and Skarner interaction, senior designer <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun “Jag” Sidhu clarified</a> that players understood Hextech’s Brackern origins, but Seraphine herself did not yet understand the identity or circumstances of the consciousness she could hear. <a href=\"https://www.dexerto.com/league-of-legends/riot-already-changing-seraphine-league-of-legends-fan-backlash-1442889/\">Contemporary reporting preserves the thread</a>.",
-          "Sidhu explicitly stated that Seraphine would do her best to give the Brackern a voice if she discovered their circumstances. He also expressed the hope that Riot would expand that story. This confirms the intended direction he described in 2020; it does not record a published continuation.",
+          "Sidhu stated: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q> He also expressed the hope that Riot would expand that story. This confirms the intended direction he described in 2020; it does not record a published continuation.",
           "Riot published Seraphine’s connection to Skarner’s family on 12 October and Sidhu clarified her intended response to the Brackern’s circumstances on 29 October. Both statements were publicly available during the original controversy."
         ]
       },
@@ -278,7 +280,8 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'What changed', paragraphs: [
         'On 29 October 2020, Riot revised the biography to make the crystal’s communication less direct and to state Seraphine’s hope that the crystal’s voice would be among the voices she could hear. These changes are documented side by side in the biography revision analysis.',
-        'The original material should remain the baseline for assessing videos and community posts published <em>before</em> those changes.'
+        'The original material should remain the baseline for assessing videos and community posts published <em>before</em> those changes.',
+        "On 29 October 2020, <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun Sidhu stated</a>: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q>"
       ] }
     ],
     references: [ {label:'Riot — Champion Insights: Seraphine',url:insights},{label:'Riot — Seraphine biography',url:biography},{label:'Riot — publication dates',url:riotArchive} ],
@@ -307,7 +310,8 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'The separate voice-line correction', paragraphs: [
         'The first-encounter line directed towards Skarner was removed separately. The line’s words, delivery, implied knowledge and compatibility with intended characterisation are distinct editorial questions; the investigation examines them separately.',
-        'Contemporaneous statements from Marc Merrill and Jeevun Sidhu confirm that Riot recognised a mismatch between published/recorded material and the story the team intended.'
+        'Contemporaneous statements from Marc Merrill and Jeevun Sidhu confirm that Riot recognised a mismatch between published/recorded material and the story the team intended.',
+        "On 29 October 2020, <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun Sidhu stated</a>: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q>"
       ] }
     ],
     references: [ {label:'Riot — 12 October developer explanation',url:insights},{label:'Riot — October 2020 Seraphine posts',url:riotArchive},{label:'League Wiki — Seraphine history',url:voiceHistory},{label:'Jeevun Sidhu — developer clarification',url:sidhu},{label:'Surrender at 20 — October 2020 developer posts',url:riotRedPosts} ],
@@ -333,6 +337,7 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'When several criticisms become one bandwagon narrative', paragraphs: [
         'Community backlash is an established part of Seraphine’s release history. The truth of every interpretation circulating within that backlash is a separate evidential question.',
+        "In public posts dated 6 January 2022, NickyBoi described <q>a viscous cycle of hate for well over a year</q> and said he felt he had <q>helped encouraged</q> it. He urged readers to <q>leave her players alone, accept that there are people who like her</q>. These excerpts are recorded from dated screenshots in the <a href=\"/seraphine-lore-misinformation-investigation/\">full investigation</a>; the original post URL has not been recovered.",
         'This investigation does not require readers to like the character. It asks that factual claims about her knowledge, motives and creators be tested against dated material, and that accusations made by real people be presented as allegations rather than proven facts.'
       ] }
     ],
@@ -352,7 +357,8 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'NickyBoi: concept art used, narrative context excluded', paragraphs: [
         'In his 24 October 2020 video, at approximately 10:47–11:32, NickyBoi characterises Seraphine as a “narcissistic, selfish sociopath”. The video also uses concept art originating in Riot’s 12 October <em>Champion Insights</em> article, yet does not represent its accompanying explanation of empathy, Brackern song and the distinction between inability to save trapped souls and not caring about them.',
-        'That is a concrete same-document omission: material useful to a visual-design critique appears, while contrary narrative context published with it does not. The audit treats selective presentation as strongly supported; the route by which the creator obtained the artwork is not directly established. Video identification for independent research: NickyBoi, 24 October 2020, YouTube ID bDa0p_xx_KA.'
+        'That is a concrete same-document omission: material useful to a visual-design critique appears, while contrary narrative context published with it does not. The audit treats selective presentation as strongly supported; the route by which the creator obtained the artwork is not directly established. Video identification for independent research: NickyBoi, 24 October 2020, YouTube ID bDa0p_xx_KA.',
+        "In public posts dated 6 January 2022, NickyBoi described <q>a viscous cycle of hate for well over a year</q> and said he felt he had <q>helped encouraged</q> it. He urged readers to <q>leave her players alone, accept that there are people who like her</q>. These excerpts are recorded from dated screenshots in the <a href=\"/seraphine-lore-misinformation-investigation/\">full investigation</a>; the original post URL has not been recovered."
       ] },
       { heading: 'Necrit: narrating motivations, then denying them', paragraphs: [
         'In <em>Was Seraphine Forced Into Runeterra?</em> (18 October 2020), Necrit recounts Seraphine’s overwhelming emotional hearing and childhood distress at approximately 10:21–12:17, but subsequently argues that she has effectively no struggle. At approximately 14:26–15:24, he denies a clear motivation despite earlier narrating her wish to bridge Piltover and Zaun and give struggling people a voice.',
