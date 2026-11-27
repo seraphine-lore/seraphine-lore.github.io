@@ -2,6 +2,12 @@
 
 Manually maintained record of website updates, based on the Git commit history. Entries are grouped by UTC commit date. Technical details remain available through the linked commits.
 
+## 2026-11-28
+
+- Corrected malformed report emphasis and spacing after the Rundas theme hyperlink (`4a778e2`).
+- Removed public-facing drafting metadata, streamlined repetitive prose and corrected remaining identified emphasis defects; retained the RRHL-13 link (`0d91dc1`).
+- Removed editorial metadata from supporting research articles (`24410f1`).
+
 ## 2026-11-27
 
 - Fixed literal HTML tags in research cards and article introductions; corrected malformed Markdown emphasis in the full report's website copy. (This commit.)
