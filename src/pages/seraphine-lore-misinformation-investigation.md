@@ -59,7 +59,7 @@ Halo 5 had the most misleading marketing campaign that upset fans of the story -
 
 Hence, please enjoy my ‘HUNTTheTruth’ style investigation findings for this matter. 
 
-Considering the detail, feel free to (optionally) listen to this [boss theme song from Metroid Prime 3 *Corruption*](https://www.youtube.com/watch?v=UiDkCW9-exI)as you read to help engagement.
+Considering the detail, feel free to (optionally) listen to this [boss theme song from Metroid Prime 3 *Corruption*](https://www.youtube.com/watch?v=UiDkCW9-exI) as you read to help engagement.
 
 **Out of scope:**
 
@@ -79,7 +79,7 @@ That context is key and as these are indeed valid concerns, providing background
 
 ## Primary sources: what Riot actually published
 
-**12 October 2020 — **[**Riot, Champion Insights: Seraphine**](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/)**.** Riot opened by distinguishing the K/DA social-media character from the Runeterra singer. Its explanation then connected Seraphine's personality, magic, relationship with the Brackern and reason for singing. Read the [“Sing Your Soul’s Song” section](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/) together rather than isolating the reference to Skarner's family.
+**12 October 2020 — [Riot, Champion Insights: Seraphine](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/).** Riot opened by distinguishing the K/DA social-media character from the Runeterra singer. Its explanation then connected Seraphine's personality, magic, relationship with the Brackern and reason for singing. Read the [“Sing Your Soul’s Song” section](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/) together rather than isolating the reference to Skarner's family.
 
 This entire initial lore despite literally being on the game’s official website was completely ignored despite being important context.
 
@@ -89,11 +89,11 @@ They deliberately avoided an unapproachable celebrity archetype and made her exp
 
 Any interpretation of her character* needs to account for this foundational aspect* of her original characterisation.
 
-**The Brackern's song was part of that same ability.** Narrative writer Daniel “Istogaiden” Couts explains that hextech crystals contain Brackern souls — explicitly including Skarner's family — and that Seraphine can hear them. ***“Song is important to the brackern”**.* She connects with one crystal in particular and, **through listening to it**, begins learning to manage her own powers. The connection is a formative part of her story, not merely a stage-powering device.
+**The Brackern's song was part of that same ability.** Narrative writer Daniel “Istogaiden” Couts explains that hextech crystals contain Brackern souls — explicitly including Skarner's family — and that Seraphine can hear them. ***“Song is important to the brackern”.*** She connects with one crystal in particular and, **through listening to it**, begins learning to manage her own powers. The connection is a formative part of her story, not merely a stage-powering device.
 
 **Hearing other people's feelings was overwhelming.** Riot describes a *“constant barrage of songs”* from Piltover and Zaun's inhabitants and the trapped souls around her. It explicitly says that being unable to rescue those souls does not mean she is indifferent to them. Her singing is how she makes sense of the emotions she hears — *“both tormented and joyous”* — and turns them into something she can share with others. In Couts's explanation, she can hear an audience member's individual soul-song and sing it back. Her empathy, magical hearing and ambition to bring people together are one connected narrative.
 
-**Her intended characterisation was reinforced across the team.** In the article's closing exchange, concept artist Anna “Newmilky” Nikonova describes *Seraphine as wanting everyone to know she loves them*; Couts, Heide and gameplay designer Jeevun “Jag” Sidhu agree. The gameplay discussion likewise explains that her supportive abilities were designed to e**ncourage cooperation rather than hostility between teammates. **
+**Her intended characterisation was reinforced across the team.** In the article's closing exchange, concept artist Anna “Newmilky” Nikonova describes *Seraphine as wanting everyone to know she loves them*; Couts, Heide and gameplay designer Jeevun “Jag” Sidhu agree. The gameplay discussion likewise explains that her supportive abilities were designed to **encourage cooperation rather than hostility between teammates.**
 
 (Appreciate I am being as concise as I can  but the irony of the last one really shows how big of a QA failure Riot made with this IP’s release)
 
@@ -229,7 +229,7 @@ Riot goes further explicitly. Seraphine is constantly overwhelmed by the songs o
 
 And here's the crucial part that keeps getting overlooked: 
 
-**Seraphine wants to connect with others and uplift them so deeply that she learns to do it the only way she knows how — through music.**She takes the overwhelming mixture of suffering and joy she hears, transforms it into something meaningful and beautiful that she herself can understand, and gives it back to everyone around her.
+**Seraphine wants to connect with others and uplift them so deeply that she learns to do it the only way she knows how — through music.** She takes the overwhelming mixture of suffering and joy she hears, transforms it into something meaningful and beautiful that she herself can understand, and gives it back to everyone around her.
 
 Couts even explains that she can hear an individual's soul-song and sing it back to them, creating a personal connection that ordinary performers cannot.
 
@@ -257,7 +257,7 @@ Riot deserves criticism for horrendous rushed QA. But that doesn't explain why N
 
 He then shared a public tweet showing his awareness that he contributed to real sentient players being harassed: 
 
-***The irony is that this is exactly very*** [***parasocial behaviour***](https://en.wikipedia.org/wiki/Parasocial_interaction)*** often criticised in Seraphine's K/DA marketing by all influencers mentioned in this post.***
+***The irony is that this is exactly very [parasocial behaviour](https://en.wikipedia.org/wiki/Parasocial_interaction) often criticised in Seraphine's K/DA marketing by all influencers mentioned in this post.***
 
  Instead of critically examining the character neutrally, the commentary became an exercise in validating an audience's existing emotional investment in hating her.
 
@@ -283,7 +283,7 @@ Then, on 6 January 2022, NickyBoi publicly acknowledged feeling that he had help
 
 But unlike the fictional parasocial relationship he criticised, this controversy had consequences for real people.
 
-At \~15:09–15:16, **NickyBoi also recommends Skooch's video a**nd states that he works for him. **Skooch subsequently recommends NickyBoi in his 6 November follow-up.**
+At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that he works for him. **Skooch subsequently recommends NickyBoi in his 6 November follow-up.**
 
 **This establishes a dated, two-way amplification link between the creators, rather than merely two independent commentators expressing similar criticisms. **
 
@@ -771,7 +771,7 @@ The question is why so many discussions about Seraphine's original characterisat
 
 Like, dislike or even hate a fictional IP - it doesn’t matter. 
 
-What *does *matter is ensuring communities have informed opinions so e.g. casual players outside intense fandoms don’t face negative experiences.
+What *does* matter is ensuring communities have informed opinions so e.g. casual players outside intense fandoms don’t face negative experiences.
 
 These influencers were fully aware that innocent players could be trapped in the hostile ecosystem they helped create, exposed to potential harassment. Yet they continued with awareness of that potential suffering to fuel their own YouTube careers.
 
