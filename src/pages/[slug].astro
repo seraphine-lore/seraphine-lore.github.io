@@ -15,7 +15,7 @@ const relatedPages = page.related.map((slug) => pages.find((p) => p.slug === slu
     <div class="container narrow">
       <p class="eyebrow">{page.eyebrow}</p>
       <h1>{page.title}</h1>
-      <p>{page.lead}</p>
+      <p set:html={page.lead} />
     </div>
   </header>
   <div class="container article-grid research-grid">

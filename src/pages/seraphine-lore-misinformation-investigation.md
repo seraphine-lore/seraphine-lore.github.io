@@ -9,7 +9,7 @@ And what happens when search engines and (new) AI systems begin presenting that 
 
 Why did even the official League Wiki state a possible interpretation as fact… with no references in the same document for contextual reading for an entire 6 years? 
 
-And likewise - how did ***even Wikipedia***, one of the highest authority of SEO rankings…. not mention the primary source of lore despite it *literally *being on League of Legend’s official website?
+And likewise - how did ***even Wikipedia***, one of the highest authority of SEO rankings…. not mention the primary source of lore despite it *literally* being on League of Legend’s official website?
 
 I've been investigating the controversy surrounding Seraphine's original lore since her October 2020 release. Context - I’m a Product Engineer (so use tools like Jira which is what Riot also uses) and my other SWE friends also helped research and peer review this via said tool (they don’t play League). 
 
@@ -17,7 +17,7 @@ What started as an examination of Riot's original characterisation developed int
 
 **The issue isn't that people dislike or even hated a video game character.**
 
-Unfortunately, my investigation has also uncovered something more concerning: the controversy shows how real players became targets of hostility, and at least one influential creator later** publicly acknowledged feeling that he had helped encourage such results. **
+Unfortunately, my investigation has also uncovered something more concerning: the controversy shows how real players became targets of hostility, and at least one influential creator later **publicly acknowledged feeling that he had helped encourage such results.**
 
 That's part of why I wanted to share these findings with the wider League community.
 
@@ -101,9 +101,9 @@ Any interpretation of her character* needs to account for this foundational aspe
 
 The intention documented above does not excuse what Riot allowed into Seraphine's original voice-over. Her first-encounter line to Skarner was:
 
-> “I miss your kind too, Skarner… Would **you like** to **hear **their **song**?”
+> “I miss your kind too, Skarner… Would **you like** to **hear** their **song**?”
 
-That is the [historically documented line](https://wiki.leagueoflegends.com/en-us/Seraphine/History) which was the most controversial due to it’s *delivery *was subsequently removed in patch 10.24. Disclaimer: some people mentioned that regardless of delivery, that line is ‘sociopathic’. 
+That is the [historically documented line](https://wiki.leagueoflegends.com/en-us/Seraphine/History) which was the most controversial due to it’s *delivery* was subsequently removed in patch 10.24. Disclaimer: some people mentioned that regardless of delivery, that line is ‘sociopathic’. 
 
 The experiment to determine this is simple - ask real people at work who don’t like League etc to remove bias, say something like you made a song with a friend of theirs, their friend passed away and you said the same line empathetically when they were grieving. You can then find out how people would normally perceive that the words themselves are empathetic. This is exactly in line with the character defining trait of the IP, and song is specifically mentioned as per Champion Insights.
 
@@ -199,7 +199,7 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 
 The following dated videos are compared against Riot's material available at the time. 
 
-***The test is not whether a creator was entitled to dislike Seraphine. ***
+***The test is not whether a creator was entitled to dislike Seraphine.***
 
 The test is whether factual claims and characterisations were supported by Riot's primary material available on each video's publication date, what relevant context was omitted, and whether viewers were given enough evidence to distinguish established characterisation from criticism of Riot's execution. The comparison also traces recurring interpretations and documented cross-references between creators.
 
@@ -219,7 +219,7 @@ At \~10:47–11:32, NickyBoi invokes the same hatred based narrative regarding B
 
 At \~11:33–12:28, he ridicules her motivations and concludes that she lacks meaningful progression or goals. At \~16:20–16:45, he calls her gameplay, base design and lore afterthoughts to selling a skin i.e. recognition and grouping same concerns with the audience to attract viewers to his video as is called ‘clickbait’.
 
-But twelve days before NickyBoi's video, Riot had *already *published *Champion Insights: Seraphine*, explaining considerably more than simply her intended personality. A reminder of context:
+But twelve days before NickyBoi's video, Riot had *already* published *Champion Insights: Seraphine*, explaining considerably more than simply her intended personality. A reminder of context:
 
 Narrative writer Rayla “Jellbug” Heide explicitly established **deep empathy as Seraphine's defining character trait**, amplified into a supernatural ability to experience other people's emotions as music.
 
@@ -243,9 +243,9 @@ Yet NickyBoi's 24 October video portrayed her as a narcissistic, selfish sociopa
 
 **Plausible deniability — likely intentional selective presentation, based on the documented source overlap:** NickyBoi's video displays concept artwork from Riot's *Champion Insights: Seraphine* while presenting Seraphine as a “narcissistic, selfish sociopath”. The same official article, published twelve days earlier, directly describes her deep empathy, the Brackern souls and their song, her connection to the crystal, and Riot's explicit distinction between being unable to save trapped souls and not caring about them. This is a materially stronger omission than merely failing to discover a separate webpage. On the evidence that he used artwork originating in that article while excluding its directly relevant narrative explanations, intentional selection of favourable material is **likely**. The remaining uncertainty is whether he personally viewed the article text or obtained its artwork through another route; the visual overlap alone cannot establish which. His standing as a League commentator, the article's publication on Riot's official site and the twelve-day interval further weaken an innocent-oversight explanation.
 
-NickyBoi's video **uses concept art taken directly from Riot's *****Champion Insights: Seraphine*** — the very same article that **explicitly **established empathy as her defining character trait, the same article saying **song is important to the Brackern**.
+NickyBoi's video **uses concept art taken directly from Riot's *Champion Insights: Seraphine*** — the very same article that **explicitly established empathy as her defining character trait**, the same article saying **song is important to the Brackern**.
 
-The article also explained how Seraphine connected with a particular crystal's song while learning to control her abilities, how the constant barrage of emotions and songs affected her, why her inability to save the trapped souls did **not **mean she lacked compassion, and how she transformed those experiences into music to connect with and uplift others. It even documented the creative reasoning behind her integration into Piltover and Zaun, including her stage design.
+The article also explained how Seraphine connected with a particular crystal's song while learning to control her abilities, how the constant barrage of emotions and songs affected her, why her inability to save the trapped souls did **not** mean she lacked compassion, and how she transformed those experiences into music to connect with and uplift others. It even documented the creative reasoning behind her integration into Piltover and Zaun, including her stage design.
 
 Yet his visual-design criticism draws directly from that publication, while his lore criticism omits the narrative explanations published alongside the artwork.
 
@@ -257,7 +257,7 @@ Riot deserves criticism for horrendous rushed QA. But that doesn't explain why N
 
 He then shared a public tweet showing his awareness that he contributed to real sentient players being harassed: 
 
-***The irony is that this is exactly very ***[***parasocial behaviour***](https://en.wikipedia.org/wiki/Parasocial_interaction)*** often criticised in Seraphine's K/DA marketing by all influencers mentioned in this post.***
+***The irony is that this is exactly very*** [***parasocial behaviour***](https://en.wikipedia.org/wiki/Parasocial_interaction)*** often criticised in Seraphine's K/DA marketing by all influencers mentioned in this post.***
 
  Instead of critically examining the character neutrally, the commentary became an exercise in validating an audience's existing emotional investment in hating her.
 
@@ -275,7 +275,7 @@ The same biography also credits that video with an extraordinary surge in popula
 
 Remember, this was the same video that used Riot's *Champion Insights* concept artwork while overlooking its explanations of Seraphine's empathy, the importance of song to the Brackern, her connection with the crystal and her motivations.
 
-From a ***social-engineering ***perspective, the mechanism is particularly interesting: identify an audience's existing emotional response, reinforce it through selective information, and receive engagement and social validation in return. The audience feels understood, the creator gains visibility, and the prevailing narrative becomes increasingly difficult to challenge.
+From a ***social-engineering*** perspective, the mechanism is particularly interesting: identify an audience's existing emotional response, reinforce it through selective information, and receive engagement and social validation in return. The audience feels understood, the creator gains visibility, and the prevailing narrative becomes increasingly difficult to challenge.
 
 Then, on 6 January 2022, NickyBoi publicly acknowledged feeling that he had helped encourage the cycle of hatred, urging people to stop harassing Seraphine players: 
 
@@ -735,15 +735,15 @@ And here's where this investigation takes an unexpected turn. As I was drafting 
 
 [Wikipedia's article on Seraphine](<https://en.wikipedia.org/wiki/Seraphine_(League_of_Legends)>).
 
-**Six years after her release, the article still did *****not *****cite Riot's original *****Champion Insights: Seraphine*****, published on 12 October 2020.**
+**Six years after her release, the article still did *not* cite Riot's original *Champion Insights: Seraphine*, published on 12 October 2020.**
 
 Instead, its account of the Brackern controversy relied on secondary reporting and described fans as believing Seraphine lacked the desire to help the trapped souls — without presenting the contemporaneous developer explanation that directly addressed her motivations.
 
-The same article described criticism of her supposedly *“uncharacteristically cruel lore relating to Brackerns”*, ***without ***explaining Riot's original characterisation alongside that criticism.
+The same article described criticism of her supposedly *“uncharacteristically cruel lore relating to Brackerns”*, ***without*** explaining Riot's original characterisation alongside that criticism.
 
 Yet Riot's own developers had explicitly established deep empathy as Seraphine's defining trait, explained the importance of song to the Brackern, described her connection with the crystal and distinguished her inability to rescue trapped souls from indifference towards their suffering.
 
-**That evidence had been publicly available since 12 October 2020 — *****before *****Seraphine was even released as a playable champion.**
+**That evidence had been publicly available since 12 October 2020 — *before* Seraphine was even released as a playable champion.**
 
 And the subsequent clarifications from Riot co-founder Marc Merrill on 28 October and gameplay designer Jeevun “Jag” Sidhu on 29 October provided further context about the mistakes in the released material and the distinction between player knowledge and Seraphine's own understanding.
 
@@ -759,7 +759,7 @@ Wikipedia is a widely consulted reference source: readers may encounter it direc
 
 That distinction matters because the article's citations may appear to corroborate a settled account of the controversy while primarily documenting what commentators and fans said. Reporting that people criticised Seraphine is not the same as establishing that their interpretation of her knowledge or motives was canonically correct. The omitted Riot explanation is the missing comparison point.
 
-An AI citing Wikipedia does **not **independently verify every claim in that article. Nor does adding several secondary articles necessarily provide independent corroboration if they ultimately rely on the same incomplete interpretation.
+An AI citing Wikipedia does **not** independently verify every claim in that article. Nor does adding several secondary articles necessarily provide independent corroboration if they ultimately rely on the same incomplete interpretation.
 
 **The documented finding is already significant: six years after the controversy began, the original developer explanation was still absent from Wikipedia's account of the character - despite that same source being from the exact same official League of Legends site as the Champion biography. **
 

@@ -71,7 +71,7 @@ const href = (part: string) => `${root}${part.replace(/^\//, '')}`;
           <a class="chapter" href={href(`${page.slug}/`)}>
             <span class="chapter-number">{String(index + 1).padStart(2, '0')} / {page.eyebrow}</span>
             <h3>{page.title}</h3>
-            <p>{page.lead}</p>
+            <p set:html={page.lead} />
             <span class="chapter-arrow" aria-hidden="true">↗</span>
           </a>
         ))}

@@ -8,6 +8,8 @@ Independent, source-led research website based on the latest HUNTtheTRUTH Conflu
 - Repository: `seraphine-lore.github.io`
 - GitHub Pages URL (after deployment): https://seraphine-lore.github.io/
 
+For a manually maintained history of site changes, see [CHANGELOG.md](CHANGELOG.md).
+
 ## Routes
 
 | Route | Subject |
