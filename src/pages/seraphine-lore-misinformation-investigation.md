@@ -255,7 +255,9 @@ Riot deserves criticism for horrendous rushed QA. But that doesn't explain why N
 
 **And this is where the wider problem begins.** The backlash against Seraphine was already well underway…. Rather than challenging the prevailing narrative with the primary evidence available to him, NickyBoi consciously reinforced and strengthened the backlash, presenting an interpretation that aligned with what an already hostile audience wanted to hear. Obviously, any authentic video would have provided the full context so the audience can make an informed opinion. 
 
-He then shared a public tweet showing his awareness that he contributed to real sentient players being harassed: 
+In his [6 January 2022 Twitter thread](https://x.com/NickyBoiYT/status/1478992366577012736), NickyBoi acknowledged the hostility associated with his video:
+
+> The sheer amount of hatred festered from that video keeps me up at night sometimes
 
 ***The irony is that this is exactly very [parasocial behaviour](https://en.wikipedia.org/wiki/Parasocial_interaction) often criticised in Seraphine's K/DA marketing by all influencers mentioned in this post.***
 
@@ -277,7 +279,7 @@ Remember, this was the same video that used Riot's *Champion Insights* concept a
 
 From a ***social-engineering*** perspective, the mechanism is particularly interesting: identify an audience's existing emotional response, reinforce it through selective information, and receive engagement and social validation in return. The audience feels understood, the creator gains visibility, and the prevailing narrative becomes increasingly difficult to challenge.
 
-Then, on 6 January 2022, NickyBoi publicly acknowledged feeling that he had helped encourage the cycle of hatred, urging people to stop harassing Seraphine players: 
+Then, on 6 January 2022, [NickyBoi publicly acknowledged](https://x.com/NickyBoiYT/status/1478992366577012736) feeling that he had helped encourage the cycle of hatred, urging people to stop harassing Seraphine players.
 
 **Result: the creator who criticised Riot's parasocial marketing benefited from a surge in audience engagement around his own emotionally charged criticism, and later acknowledged contributing to the hostility surrounding it.**
 
@@ -297,7 +299,17 @@ This establishes a concrete creator-to-creator amplification link, rather than a
 
 #### NickyBoi — 6 January 2022: looking back at the hostility
 
-In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of hate for well over a year” and wrote that he could not help feeling he had “helped encouraged” it. He also said, “I still hate Seraphine and everything she stands for, but ffs leave her players alone, accept that there are people who like her”. His words distinguish criticism of a champion from hostility directed at players, and provide a retrospective acknowledgement from one of the creators involved. The original post links and full thread remain to be archived; the dated screenshots are held in the investigation.
+In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of hate for well over a year” and wrote that he could not help feeling he had “helped encouraged” it. He also said, “I still hate Seraphine and everything she stands for, but ffs leave her players alone, accept that there are people who like her”. His words distinguish criticism of a champion from hostility directed at players, and provide a retrospective acknowledgement from one of the creators involved. [Original Twitter thread — 6 January 2022](https://x.com/NickyBoiYT/status/1478992366577012736).
+
+> It’s been nothing but a viscous cycle of hate for well over a year now, something I can’t help but feel I helped encouraged
+
+> I have seriously considered deleting my seraphine video on multiple occasions
+>
+> The sheer amount of hatred festered from that video keeps me up at night sometimes
+>
+> And while I do love how players have become more aware of riots approach to character design I can’t help feel guilty
+
+He also described his unexpected audience growth from a 5,000-subscriber channel to reaching 100,000 subscribers, condemned attacks on Seraphine players and reported receiving threats himself. He distinguished criticism of fictional characters from attacks on real people and stated that he would continue voicing his opinions.
 
 **Skooch's 6 November follow-up — primary-source benchmark and plausible deniability:** By this date, Riot's 12 October *Champion Insights* had been accessible on its official League website for more than three weeks. It explicitly established deep empathy, Brackern-song connection, her wish to uplift people, and the distinction between inability to save trapped souls and lack of care. The 29 October developer clarification further distinguished the audience's knowledge from Seraphine's own. Skooch explicitly acknowledged that Riot's developers lacked malicious intentions. Nevertheless, his recommendation of NickyBoi's 24 October criticism, which called Seraphine a sociopath while using artwork from *Champion Insights*, reinforces an interpretation without supplying the missing primary-source context. **Plausible deniability:** His earlier direct examination of official biography material, the additional elapsed time and his active engagement with another influencer's analysis weaken an explanation based on obscurity or lack of opportunity. Continued omission is supported; deliberate avoidance of the article is plausible but cannot be classified as established without direct evidence that he accessed it.
 
