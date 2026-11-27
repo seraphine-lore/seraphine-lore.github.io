@@ -320,7 +320,7 @@ export const pages: ResearchPage[] = [
     eyebrow: 'RELEASE CONTROVERSY · SEPARATE THE CLAIMS',
     lead: 'The backlash combined Brackern exploitation accusations with Sona, K/DA and marketing criticism. But Riot’s <em>official League of Legends website</em> had published Seraphine’s deep empathy and Brackern context on 12 October 2020, and that explanation was absent from the relevant influencer accusations. This audit distinguishes documented complaints about Riot’s execution from claims about Seraphine’s motives contradicted by that source.',
     sections: [
-      { heading: 'Five threads of criticism', table: { headers: ['Issue', 'What was criticised', 'What to verify'], rows: [
+      { heading: 'Five threads of criticism', table: { headers: ['Issue', 'What was criticised', 'Relevant evidence'], rows: [
         ['Brackern / Skarner', 'A singer using Hextech associated with sentient Brackern souls.', 'The exact original lore, voice-over, developer intentions and subsequent edits.'],
         ['Similarity to Sona', 'Perceived overlap in gameplay role, musical theme and ability design.', 'Contemporary design comparisons rather than treating resemblance as identity.'],
         ['K/DA marketing', 'Perception that a highly promoted skin overshadowed the Runeterra character.', 'Dates and volume of promotion versus published narrative material.'],
@@ -376,11 +376,11 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'From YouTube commentary to Google AI citations — and Wikipedia’s missing source', paragraphs: [
         'The concern is source dependency. Several accounts repeating one original interpretation do not become several independent pieces of evidence. The investigation tracks recurring claims through community references, Wikipedia and later retrieval and citation by search and AI systems.',
-        'In Google Search captures dated 26 November 2026, results for <em>seraphine lore</em>, <em>seraphine skarner</em>, <em>seraphine original lore</em> and <em>why is seraphine controversial</em> prominently surfaced secondary commentary and Reddit discussion. Source displays attributed material to T B Skyen and Necrit, while Riot’s particular 12 October developer article was not visibly identified in those supplied results.',
+        'In Google Search captures dated 26 November 2026, results for <em>seraphine lore</em>, <em>seraphine skarner</em>, <em>seraphine original lore</em> and <em>why is seraphine controversial</em> prominently surfaced secondary commentary and Reddit discussion. Source displays attributed material to T B Skyen and Necrit, while Riot’s particular 12 October developer article was not visibly identified in those captured results.',
         'That is a documented source-visibility finding, not proof of any particular model-training dataset or an unseen causal path. The distinction matters when evaluating whether an AI answer has independently verified a claim.'
       ] },
       { heading: 'Read the complete cross-examination', paragraphs: [
-        'The <a href="/seraphine-lore-misinformation-investigation/">full Seraphine lore misinformation investigation</a> contains the individual creator audit sections, date-by-date evidence comparisons, video timecodes, revisions, source-dependency analysis, Wikipedia findings and original conclusion. Video titles, IDs and timestamps are supplied here as text rather than direct links to creator channels.',
+        'The <a href="/seraphine-lore-misinformation-investigation/">full Seraphine lore misinformation investigation</a> contains the individual creator audit sections, date-by-date evidence comparisons, video timecodes, revisions, source-dependency analysis, Wikipedia findings and original conclusion.',
         'See also the <a href="/seraphine-original-lore/">original 2020 source chronology</a> and the <a href="/seraphine-lore-changes/">six biography changes</a> for the underlying record.'
       ] }
     ],
