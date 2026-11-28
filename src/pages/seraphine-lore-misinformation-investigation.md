@@ -315,7 +315,7 @@ He also described his unexpected audience growth from a 5,000-subscriber channel
 
 #### Necrit — 14 October 2020: Rift News — early characterisation before the dedicated lore analysis
 
-**Source:** *Rift News: Seraphine Backlash, Ranked Rewards & New Skins* (14 October 2020; ≈215,095 views). Transcript examined; timestamps below are approximate.
+**Source:** *Rift News: Seraphine Backlash, Ranked Rewards & New Skins* (14 October 2020; ≈215,095 views).
 
 **13:57–14:07 — chronology:** Necrit states that he will examine Seraphine's biography in his next video. Nevertheless, he already offers a substantive assessment of the Runeterra character in this news episode, four days before his 18 October video *Was Seraphine Forced Into Runeterra?*. The later video should be checked for whether it expands or repeats these points.
 
@@ -331,13 +331,11 @@ He also described his unexpected audience growth from a 5,000-subscriber channel
 
 **Plausible deniability — evidence-led deduction:** Necrit was already established as a League of Legends lore specialist. Riot published *Champion Insights: Seraphine* on 12 October 2020 on the official League of Legends website, the same primary-source site hosting the champion biography published on 13 October. In his 14 October analysis, Necrit discusses the biography and recognises Seraphine's desire to help suffering people, but then says she has “no real motivation”. He compares the Runeterra character unfavourably with K/DA while omitting Riot's contemporaneous explanation of her empathy, overwhelming emotional hearing, Brackern connection and motivation. Given his subject-matter specialism, the accessibility and publication dates of both official sources, an explanation based simply on the material being obscure or unavailable is substantially weakened. The observable failure is selective presentation of the available primary-source record, rather than a substantiated finding about his private intentions.
 
-**Evidence status:** High relevance to early narrative formation, selective primary-source presentation and plausible-deniability analysis. Transcript reviewed. The 18 October dedicated lore video remains a separate follow-up for comparison.
-
 **Additional cross-examination — Riot's 12 October developer explanation:** *Champion Insights: Seraphine*, already published on Riot's main League website before this 14 October news video, explicitly describes deep empathy, overwhelming emotional hearing, a Brackern crystal's formative song, and Seraphine's aim of connecting with and uplifting others. Its explanation that inability to save trapped souls is not indifference also contradicts the emerging claim that Brackern exploitation establishes her callous personality. Necrit's statement that she wants to relieve suffering but has “no real motivation” cannot be reconciled with the developer's account without changing “no motivation” into “a motivation I find insufficient”. **Plausible deniability:** Necrit was an established lore specialist discussing the biography on the same official website hosting the already published article. A claim that this explanatory material was unavailable is untenable; whether he personally encountered it is not directly shown. His expertise and source use make the omission significant, but the 14 October video alone does not establish deliberate avoidance.
 
 #### Necrit — 18 October 2020: Was Seraphine Forced Into Runeterra?
 
-**Source:** Necrit, *Was Seraphine Forced Into Runeterra?* (18 October 2020; ≈378,859 views). Transcript reviewed. Timestamps approximate.
+**Source:** Necrit, *Was Seraphine Forced Into Runeterra?* (18 October 2020; ≈378,859 views).
 
 **10:21–12:17 — narrated struggle versus claimed absence of struggle:** Necrit recounts Seraphine's overwhelming emotional hearing, distress severe enough that she hid with her hands over her ears, her parents' sacrifices, and the Brackern crystal helping her manage the noise. He then says at approximately 11:32 that there was “absolutely no struggle in her story”. He immediately acknowledges the childhood struggle but dismisses it because the problem does not recur in his preferred form. This supports a distinction between insufficiently developed ongoing conflict (an evaluative criticism) and claiming that no struggle existed (contradicted by his narration).
 
@@ -376,7 +374,7 @@ He also described his unexpected audience growth from a 5,000-subscriber channel
 
 ##### 2. Standing Room Only — summary of omissions and underweighted evidence
 
-**Source:** Daniel Couts, *Standing Room Only* (29 October 2020), compared with the transcript of Necrit’s 4 November video. The categories distinguish material not narrated from material narrated but discounted in the conclusion. Times identify approximate corresponding video segments, not precise word-level cut points.
+**Source:** Daniel Couts, *Standing Room Only* (29 October 2020), compared with the transcript of Necrit’s 4 November video. The categories distinguish material not narrated from material narrated but discounted in the conclusion.
 
 | # | Original story evidence | Video treatment | Time | Investigative relevance |
 | --- | --- | --- | --- | --- |
@@ -494,7 +492,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Plausible deniability — cumulative assessment across 12, 13 and 14 October:** By the third video, T B Skyen had examined Skarner's lore and Seraphine's original biography, explicitly recognised her intended empathy and altruism, and referred to Riot's published media and developer commentary. The official *Champion Insights* article had been publicly available for two days on the same League website. His own statements defeat an explanation that he was unaware Riot intended a wholesome, empathetic character. The continued presentation of Seraphine as exploiting a Brackern soul for personal ambition while omitting Riot's express distinction between inability to rescue souls and indifference is **likely intentional selective framing**, based on his repeated recognition of the contrary characterisation and continued use of the accusation. Whether he personally opened *Champion Insights* is not directly established, so intentional avoidance of that specific webpage remains an inference rather than a documented access event. His explicit anti-harassment remarks are counterevidence to any claim that he urged viewers to harass Riot creatives.
 
-**Finding:** Repeated selective characterisation; demonstrated awareness of Riot's intended empathy; likely intentional continuation of the selfish-exploitation framing; substantive but separate criticism of Riot's narrative execution. Transcript timecodes are approximate.
+**Finding:** Repeated selective characterisation; demonstrated awareness of Riot's intended empathy; likely intentional continuation of the selfish-exploitation framing; substantive but separate criticism of Riot's narrative execution.
 
 #### TBSkyen — January 2021: What’s the Deal with Seraphine?
 
@@ -512,7 +510,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 ##### 1. Summary evidence matrix — January video against contemporaneous Riot material
 
-**Primary sources:** Riot *Champion Insights: Seraphine* (12 October 2020); original and revised biographies (29 October 2020); *Standing Room Only* (29 October 2020); original champion voice-over. The review transcript spans approximately 69 minutes.
+**Primary sources:** Riot *Champion Insights: Seraphine* (12 October 2020); original and revised biographies (29 October 2020); *Standing Room Only* (29 October 2020); original champion voice-over.
 
 | # | 29 October biography change | TBSkyen’s treatment | Classification | Why it matters |
 | --- | --- | --- | --- | --- |
@@ -553,8 +551,6 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 **H. Framework applied — provenance, completeness, framing, inference, impact.** **Provenance:** the 12 October developer account and 29 October biography/story predate the January review. **Completeness:** three of six biography edits are discussed, while relevant developer/story evidence is not systematically confronted. **Framing:** the emotionally charged analogy of technology powered by a victim’s soul (\~13:47–14:14) intensifies the accusation and presupposes knowledge; the sarcastic “new home” reading gives little weight to the accompanying continuing relationship. **Inference:** problematic unintended implications are a defensible literary criticism, but complete knowledge, deliberate exploitation and indifference are stronger propositions requiring more evidence. **Impact:** a confident creator summary may propagate a compressed moral reading, but downstream repetition requires separately dated examples rather than assumption. **Intent:** the transcript supports selective presentation and overconfident inference, not proof of a deliberate plan to mislead.
 
 **Cross-examination questions.** (1) Why does the retcon comparison omit the revision of the hatred passage, when that passage bears directly on claimed Brackern knowledge? (2) How is the added wish to hear the crystal reconciled with a reading of mere instrumental exploitation? (3) Why is Riot’s 12 October account of hearing Brackern songs but being unable to save them not tested against “she does nothing”? (4) Is the criticism that her motivation is absent, or that the existing altruistic motivation is politically insufficient? (5) What contemporaneous primary text establishes full understanding of the Brackern’s fate, rather than partial guidance or an indistinct song?
-
-**Timecodes:** Approximate video positions. Repeated automatic-transcription lines near 20:00 are excluded from the analysis.
 
 ##### 4. Focused omission register — the “new home” joke and all six changes
 
