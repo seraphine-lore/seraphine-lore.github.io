@@ -195,6 +195,32 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 | 5 | No corresponding sentence | Seraphine hoped the crystal’s voice would be among them. |
 | 6 | because to her, everyone matters—especially those who are struggling. | because to her, everyone deserves to be heard—especially those who are struggling. |
 
+#### Significance of revision #3 — the elegy
+
+The change from the crystal having spoken of what hatred left unchecked could accomplish to having sung an elegy is particularly significant when cross-examined against Seraphine's original long-movement voice line, [removed in patch 10.24](https://wiki.leagueoflegends.com/en-us/Seraphine/History):
+
+> “The brackern fuel our city, our future. All I can do is sing their elegy.”
+
+In the voice line, Seraphine explicitly acknowledges the Brackern's role in powering the city and describes herself as singing their elegy. In the revised biography, it is the Brackern crystal itself that sings the elegy.
+
+This aligns with Riot's original [*Champion Insights: Seraphine*](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/), published on the official League of Legends website on 12 October 2020:
+
+> “Song is important to the brackern, and that song continues from their crystals.”
+
+The revision preserves the Brackern's suffering whilst changing how that suffering is communicated to Seraphine. Perceiving grief through song does not necessarily entail understanding the complete historical circumstances behind it.
+
+However, the original voice line also directly challenges the accusation that Seraphine knowingly does nothing about the Brackern's suffering.
+
+The words **“All I can do”** express an acknowledgement of her own limitations, not indifference. What realistic means does a physically vulnerable teenage singer possess to dismantle an established system of industrial exploitation?
+
+What she does possess is the ability to hear the Brackern's songs and express emotions through music. Singing their elegy represents an act of mourning, remembrance and giving their suffering a voice through the very medium Riot established as important to their culture.
+
+The accusation of inaction therefore disregards both the limitations of the character and the narrative significance of her response to their suffering.
+
+**An inability to rescue the Brackern is not an unwillingness to help them — a distinction Riot had already established in its original developer article.**
+
+Both Necrit and TBSkyen omitted revision #3 from their respective biography revision comparisons, despite its direct relevance to the accusations concerning both Seraphine's knowledge of Brackern suffering and her response to it.
+
 ### Influencer cross-examination: comparing claims with Riot's original evidence
 
 The following dated videos are compared against Riot's material available at the time. 
@@ -367,7 +393,7 @@ He also described his unexpected audience growth from a 5,000-subscriber channel
 | --- | --- | --- | --- |
 | 1 | The crystal’s voice becomes difficult to hear and comprehend | Explicit before-and-after comparison | 2:14–2:26 |
 | 2 | The voice rarely speaks clearly, but Seraphine feels its influence | Explicit before-and-after comparison | 2:26–2:42 |
-| 3 | The crystal’s warning changes from having “spoken” to having “sung an elegy” | Not addressed in his retcon comparison | — |
+| 3 | The crystal’s warning changes from having “spoken” to having “sung an elegy” | Not addressed in his retcon comparison | Material omission — the revision relates to the original elegy voice line and Riot's explanation of Brackern songs continuing from their crystals. Its omission leaves both historical comprehension and singing as a response to suffering unexamined. |
 | 4 | The crystal is given “a new home” rather than being “repurposed” | Not addressed | — |
 | 5 | Seraphine hopes the crystal’s voice will be among the voices she hears | Not addressed as a biography revision; related evidence narrated later in Standing Room Only | 6:45–6:55; 12:45–13:16 |
 | 6 | “Everyone matters” becomes “everyone deserves to be heard” | Not addressed | — |
@@ -560,7 +586,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 | --- | --- | --- | --- |
 | #1 | Voice kind → hard to hear and harder to comprehend | 17:31–17:39 | Discussed — reduced comprehension identified |
 | #2 | Voice helped → rarely spoke clearly; felt its influence | 17:39–17:57 | Discussed — indirect guidance identified |
-| #3 | Spoken warning about hatred → sung an elegy | 17:20–18:57 | Omitted — directly relevant to claimed Brackern knowledge |
+| #3 | Spoken warning about hatred → sung an elegy | 17:20–18:57 | Material omission — directly relevant to both Seraphine's knowledge of Brackern suffering and her response to it. The revision connects the original elegy voice line with Riot's explanation of Brackern songs continuing from their crystals, challenging the accusations of knowing exploitation and inaction. |
 | #4 | Repurposed crystal → gave crystal a new home | 17:57–18:57 | Discussed and mocked — extended house/interior/bath/pool joke |
 | #5 | Added hope to hear crystal’s voice among the crowd | 17:20–18:57 | Omitted — continuing desire to hear crystal |
 | #6 | Everyone matters → everyone deserves to be heard | 17:20–18:57 | Omitted — reinforces listening as objective |
@@ -569,7 +595,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Extended satire of change #4 (17:57–18:57).** Skyen reads both versions of the sentence and then responds “How nice!” (\~18:23), describing the crystal as having a lovely interior, an en-suite bathroom and a pool (\~18:33–18:47), before sarcastically asserting that it is happy. This is an identifiable instance of *satirical framing of a specific revision*, not merely a passing joke. The joke makes the personifying phrase “new home” the focal point while the same comparison omits the revised elegy, continuing hope of hearing the crystal and “deserves to be heard” ending. The source does not demonstrate that “new home” itself establishes the crystal’s consent or welfare; equally, the joke does not resolve what the other revisions communicate about Seraphine’s intended relationship with it.
 
-**Source-completeness test.** The three unquoted changes are #3, #5 and #6, not #4. In particular, #3 replaces an apparently intelligible warning about hatred with an elegy, directly relevant to whether the character understands the crystal’s history. #5 shows her actively hoping to hear it again, while #6 reframes her purpose around hearing others. The creator’s conclusion that the retcon merely grants “plausible deniability” (\~17:24–17:37) therefore rests on a partial textual comparison.
+**Source-completeness test.** The three unquoted changes are #3, #5 and #6, not #4. In particular, #3 replaces an apparently intelligible warning about hatred with an elegy, directly relevant to whether the character understands the crystal’s history. Its significance extends beyond historical comprehension. Seraphine's original elegy voice line establishes a response to Brackern suffering within the limits of her abilities. Combined with Riot's original explanation of the cultural importance of song to the Brackern and its continuation from their crystals, this directly challenges the characterisation that she simply does nothing. Skyen's omission therefore leaves two central components of his accusation unexamined: the extent of Seraphine's knowledge and the significance of her response. #5 shows her actively hoping to hear it again, while #6 reframes her purpose around hearing others. The creator’s conclusion that the retcon merely grants “plausible deniability” (\~17:24–17:37) therefore rests on a partial textual comparison.
 
 **Strongest categorical inference (13:03–14:49).** Skyen describes the crystal as telling her about Brackern nature and history, then says she learns of a murdered people and “does nothing”. This conflates the established existence of a communicating consciousness with an asserted degree of intelligible historical knowledge. His own earlier narration says she hears it only vaguely (\~3:44–3:56). The original biography’s ambiguity, 12 October *Champion Insights* discussion of trapped souls and inability to save them, and 29 October revised wording must be considered together. The categorical accusation is stronger than those sources independently prove.
 
