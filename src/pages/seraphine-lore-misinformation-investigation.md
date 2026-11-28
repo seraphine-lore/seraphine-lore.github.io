@@ -13,11 +13,11 @@ And likewise - how did ***even Wikipedia***, one of the highest authority of SEO
 
 I've been investigating the controversy surrounding Seraphine's original lore since her October 2020 release. Context - I’m a Product Engineer (so use tools like Jira which is what Riot also uses) and my other SWE friends also helped research and peer review this via said tool (they don’t play League). 
 
-What started as an examination of Riot's original characterisation developed into a wider investigation into how misleading interpretations can become accepted as fact through influential content creators, repeated community narratives, selective use of primary sources and, more recently, AI-generated answers which can e.g. mislead new or casual players. 
+What started as an examination of Riot's original characterisation developed into a wider investigation into how misleading interpretations can become accepted as fact through influencers, repeated community narratives, selective use of primary sources and, more recently, AI-generated answers which can e.g. mislead new or casual players. 
 
 **The issue isn't that people dislike or even hated a video game character.**
 
-Unfortunately, my investigation has also uncovered something more concerning: the controversy shows how real players became targets of hostility, and at least one influential creator later **publicly acknowledged feeling that he had helped encourage such results.**
+Unfortunately, my investigation has also uncovered something more concerning: the controversy shows how real players became targets of hostility, and at least one influencer later **publicly acknowledged feeling that he had helped encourage such results.**
 
 That's part of why I wanted to share these findings with the wider League community.
 
@@ -233,9 +233,9 @@ TBSkyen omitted all three interconnected revisions from his January 2021 compari
 
 The following dated videos are compared against Riot's material available at the time. 
 
-***The test is not whether a creator was entitled to dislike Seraphine.***
+***The test is not whether a influencer was entitled to dislike Seraphine.***
 
-The test is whether factual claims and characterisations were supported by Riot's primary material available on each video's publication date, what relevant context was omitted, and whether viewers were given enough evidence to distinguish established characterisation from criticism of Riot's execution. The comparison also traces recurring interpretations and documented cross-references between creators.
+The test is whether factual claims and characterisations were supported by Riot's primary material available on each video's publication date, what relevant context was omitted, and whether viewers were given enough evidence to distinguish established characterisation from criticism of Riot's execution. The comparison also traces recurring interpretations and documented cross-references between influencers.
 
 #### Skooch — 16 October 2020
 
@@ -307,21 +307,21 @@ The same biography also credits that video with an extraordinary surge in popula
 
 > “This video clearly struck a chord with people in the League of Legends community, as his channel tripled in size over the next three months.”
 
-**So a video criticising Riot for exploiting parasocial attachment reportedly helped triple its creator's audience, while reinforcing an existing community-wide emotional investment in hating the very character he was discussing.**
+**So a video criticising Riot for exploiting parasocial attachment reportedly helped triple its influencer's audience, while reinforcing an existing community-wide emotional investment in hating the very character he was discussing.**
 
 Remember, this was the same video that used Riot's *Champion Insights* concept artwork while overlooking its explanations of Seraphine's empathy, the importance of song to the Brackern, her connection with the crystal and her motivations.
 
-From a ***social-engineering*** perspective, the mechanism is particularly interesting: identify an audience's existing emotional response, reinforce it through selective information, and receive engagement and social validation in return. The audience feels understood, the creator gains visibility, and the prevailing narrative becomes increasingly difficult to challenge.
+From a ***social-engineering*** perspective, the mechanism is particularly interesting: identify an audience's existing emotional response, reinforce it through selective information, and receive engagement and social validation in return. The audience feels understood, the influencer gains visibility, and the prevailing narrative becomes increasingly difficult to challenge.
 
 Then, on 6 January 2022, [NickyBoi publicly acknowledged](https://x.com/NickyBoiYT/status/1478992366577012736) feeling that he had helped encourage the cycle of hatred, urging people to stop harassing Seraphine players.
 
-**Result: the creator who criticised Riot's parasocial marketing benefited from a surge in audience engagement around his own emotionally charged criticism, and later acknowledged contributing to the hostility surrounding it.**
+**Result: the influencer who criticised Riot's parasocial marketing benefited from a surge in audience engagement around his own emotionally charged criticism, and later acknowledged contributing to the hostility surrounding it.**
 
 But unlike the fictional parasocial relationship he criticised, this controversy had consequences for real people.
 
 At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that he works for him. **Skooch subsequently recommends NickyBoi in his 6 November follow-up.**
 
-**This establishes a dated, two-way amplification link between the creators.**
+**This establishes a dated, two-way amplification link between the influencers.**
 
 **Primary-source and intent assessment — NickyBoi's 24 October video:** The decisive distinction is between an objection to Riot's execution and an assertion that the fictional character is selfish or sociopathic. *Champion Insights* explicitly says Seraphine hears trapped Brackern souls, connects through their song, and may be unable to save them without being indifferent. His use of artwork originating in that article, together with the article's availability on Riot's official website twelve days earlier, makes **intentional selective presentation likely**, although it does not prove he read the adjacent text. His recommendation of Skooch's video at 15:09–15:16 further documents amplification of an interpretation which did not incorporate the complete contemporaneous developer explanation. This inference concerns selection and framing of public evidence, not proof of a private commercial motive.
 
@@ -329,11 +329,11 @@ At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that 
 
 In a subsequent Seraphine discussion on 6 November 2020, Skooch explicitly recommends NickyBoi's video to viewers (\~13:38–14:00), says he will link it, and goes on to discuss NickyBoi's China-related argument. 
 
-This establishes a concrete creator-to-creator amplification link, rather than an assumed shared narrative. In the same discussion (\~05:04–05:30), Skooch explicitly says he does not believe the people who worked on Seraphine had bad intentions: his primary criticism is Riot's commercialisation, not an allegation that the writers deliberately created a cruel character. 
+This establishes a concrete influencer-to-influencer amplification link, rather than an assumed shared narrative. In the same discussion (\~05:04–05:30), Skooch explicitly says he does not believe the people who worked on Seraphine had bad intentions: his primary criticism is Riot's commercialisation, not an allegation that the writers deliberately created a cruel character. 
 
 #### NickyBoi — 6 January 2022: looking back at the hostility
 
-In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of hate for well over a year” and wrote that he could not help feeling he had “helped encouraged” it. He also said, “I still hate Seraphine and everything she stands for, but ffs leave her players alone, accept that there are people who like her”. His words distinguish criticism of a champion from hostility directed at players, and provide a retrospective acknowledgement from one of the creators involved. [Original Twitter thread — 6 January 2022](https://x.com/NickyBoiYT/status/1478992366577012736).
+In public posts dated 6 January 2022, NickyBoi described “a viscous cycle of hate for well over a year” and wrote that he could not help feeling he had “helped encouraged” it. He also said, “I still hate Seraphine and everything she stands for, but ffs leave her players alone, accept that there are people who like her”. His words distinguish criticism of a champion from hostility directed at players, and provide a retrospective acknowledgement from one of the influencers involved. [Original Twitter thread — 6 January 2022](https://x.com/NickyBoiYT/status/1478992366577012736).
 
 > It’s been nothing but a viscous cycle of hate for well over a year now, something I can’t help but feel I helped encouraged
 
@@ -568,7 +568,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 ##### 3. Detailed forensic audit — primary-source comparison and argument testing
 
-**A. What the creator demonstrably understood.** At \~1:59–4:31 Skyen summarises Seraphine’s overwhelming empathy, hearing souls and Brackern voice, and aspiration to bridge Piltover and Zaun. At \~14:49–15:20 he explicitly acknowledges Riot wrote her to be a good person. These are counterweights against any allegation that he denied Riot’s intended empathetic characterisation outright. His central claim is instead that unintended implications arise from the combination of her crystal, its history and her continued use of it.
+**A. What the influencer demonstrably understood.** At \~1:59–4:31 Skyen summarises Seraphine’s overwhelming empathy, hearing souls and Brackern voice, and aspiration to bridge Piltover and Zaun. At \~14:49–15:20 he explicitly acknowledges Riot wrote her to be a good person. These are counterweights against any allegation that he denied Riot’s intended empathetic characterisation outright. His central claim is instead that unintended implications arise from the combination of her crystal, its history and her continued use of it.
 
 **B. Knowledge versus comprehension (\~12:56–14:49).** The video moves from the original biography’s references to the crystal speaking and warning about hatred to the stronger assertion that Seraphine has learned the nature and fate of the Brackern and nevertheless does nothing. The original text does not straightforwardly specify how much she understands, and the 29 October changes further clarify indistinct communication. *Champion Insights*, already published on 12 October, describes the Brackern’s song and her inability to save the trapped souls: that material is directly relevant to the moral inference. The question is not whether an exploitation reading is permissible, but whether it is justified to present full knowledge and culpable indifference as established by the text.
 
@@ -582,13 +582,13 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **G. Interpretation versus fact.** His proposed protest-singer/Brackern-ally storyline (\~27:46–29:10) is a coherent creative alternative. His argument that Riot should have written that story is evaluative; it does not establish that Riot’s existing empathic characterisation, limits and motivations were absent. Likewise, criticism of a short-lived concert’s inability to repair structural inequality is distinct from evidence that Seraphine believes she can solve those inequalities through one performance.
 
-**H. Framework applied — provenance, completeness, framing, inference, impact.** **Provenance:** the 12 October developer account and 29 October biography/story predate the January review. **Completeness:** three of six biography edits are discussed, while relevant developer/story evidence is not systematically confronted. **Framing:** the emotionally charged analogy of technology powered by a victim’s soul (\~13:47–14:14) intensifies the accusation and presupposes knowledge; the sarcastic “new home” reading gives little weight to the accompanying continuing relationship. **Inference:** problematic unintended implications are a defensible literary criticism, but complete knowledge, deliberate exploitation and indifference are stronger propositions requiring more evidence. **Impact:** a confident creator summary may propagate a compressed moral reading, but downstream repetition requires separately dated examples rather than assumption. **Intent:** the transcript supports selective presentation and overconfident inference, not proof of a deliberate plan to mislead.
+**H. Framework applied — provenance, completeness, framing, inference, impact.** **Provenance:** the 12 October developer account and 29 October biography/story predate the January review. **Completeness:** three of six biography edits are discussed, while relevant developer/story evidence is not systematically confronted. **Framing:** the emotionally charged analogy of technology powered by a victim’s soul (\~13:47–14:14) intensifies the accusation and presupposes knowledge; the sarcastic “new home” reading gives little weight to the accompanying continuing relationship. **Inference:** problematic unintended implications are a defensible literary criticism, but complete knowledge, deliberate exploitation and indifference are stronger propositions requiring more evidence. **Impact:** a confident influencer summary may propagate a compressed moral reading, but downstream repetition requires separately dated examples rather than assumption. **Intent:** the transcript supports selective presentation and overconfident inference, not proof of a deliberate plan to mislead.
 
 **Cross-examination questions.** (1) Why does the retcon comparison omit the revision of the hatred passage, when that passage bears directly on claimed Brackern knowledge? (2) How is the added wish to hear the crystal reconciled with a reading of mere instrumental exploitation? (3) Why is Riot’s 12 October account of hearing Brackern songs but being unable to save them not tested against “she does nothing”? (4) Is the criticism that her motivation is absent, or that the existing altruistic motivation is politically insufficient? (5) What contemporaneous primary text establishes full understanding of the Brackern’s fate, rather than partial guidance or an indistinct song?
 
 ##### 4. Focused omission register — the “new home” joke and all six changes
 
-**Transcript-verified segment:** 17:20–20:09. “Omitted” means not explicitly identified in his change-by-change discussion; it does not mean the creator never addresses the underlying theme elsewhere.
+**Transcript-verified segment:** 17:20–20:09. “Omitted” means not explicitly identified in his change-by-change discussion; it does not mean the influencer never addresses the underlying theme elsewhere.
 
 | Change | Original → revised biography | Timestamp | Finding |
 | --- | --- | --- | --- |
@@ -603,7 +603,7 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Extended satire of change #4 (17:57–18:57).** Skyen reads both versions of the sentence and then responds “How nice!” (\~18:23), describing the crystal as having a lovely interior, an en-suite bathroom and a pool (\~18:33–18:47), before sarcastically asserting that it is happy. This is an identifiable instance of *satirical framing of a specific revision*, not merely a passing joke. The joke makes the personifying phrase “new home” the focal point while the same comparison omits the revised elegy, continuing hope of hearing the crystal and “deserves to be heard” ending. The source does not demonstrate that “new home” itself establishes the crystal’s consent or welfare; equally, the joke does not resolve what the other revisions communicate about Seraphine’s intended relationship with it.
 
-**Source-completeness test.** The three unquoted changes are #3, #5 and #6, not #4. In particular, #3 replaces an apparently intelligible warning about hatred with an elegy, directly relevant to whether the character understands the crystal’s history. Its significance extends beyond historical comprehension. Seraphine's original elegy voice line establishes a response to Brackern suffering within the limits of her abilities. Combined with Riot's original explanation of the cultural importance of song to the Brackern and its continuation from their crystals, this directly challenges the characterisation that she simply does nothing. Skyen's omission therefore leaves two central components of his accusation unexamined: the extent of Seraphine's knowledge and the significance of her response. #5 shows her actively hoping to hear the crystal's voice among the crowd, while #6 establishes that everyone deserves to be heard. Together, they explicitly include the Brackern within her guiding principle, reinforcing the significance of the elegy in #3. The creator’s conclusion that the retcon merely grants “plausible deniability” (\~17:24–17:37) therefore rests on a partial textual comparison.
+**Source-completeness test.** The three unquoted changes are #3, #5 and #6, not #4. In particular, #3 replaces an apparently intelligible warning about hatred with an elegy, directly relevant to whether the character understands the crystal’s history. Its significance extends beyond historical comprehension. Seraphine's original elegy voice line establishes a response to Brackern suffering within the limits of her abilities. Combined with Riot's original explanation of the cultural importance of song to the Brackern and its continuation from their crystals, this directly challenges the characterisation that she simply does nothing. Skyen's omission therefore leaves two central components of his accusation unexamined: the extent of Seraphine's knowledge and the significance of her response. #5 shows her actively hoping to hear the crystal's voice among the crowd, while #6 establishes that everyone deserves to be heard. Together, they explicitly include the Brackern within her guiding principle, reinforcing the significance of the elegy in #3. The influencer’s conclusion that the retcon merely grants “plausible deniability” (\~17:24–17:37) therefore rests on a partial textual comparison.
 
 **Strongest categorical inference (13:03–14:49).** Skyen describes the crystal as telling her about Brackern nature and history, then says she learns of a murdered people and “does nothing”. This conflates the established existence of a communicating consciousness with an asserted degree of intelligible historical knowledge. His own earlier narration says she hears it only vaguely (\~3:44–3:56). The original biography’s ambiguity, 12 October *Champion Insights* discussion of trapped souls and inability to save them, and 29 October revised wording must be considered together. The categorical accusation is stronger than those sources independently prove.
 
@@ -613,9 +613,9 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Developer-intent cross-check.** *Champion Insights: Seraphine* (12 October 2020) predates both the revised biography and this review. Its empathy-centred design account, Brackern song and inability-to-save framing are directly relevant to the accusation of conscious indifference. Skyen explicitly says her writers intended her to be good (\~15:15–15:20); the evidential gap concerns whether the review gives that documented intention and her stated limitations adequate weight when alleging what she knew and failed to do.
 
-**Framework determination.** **Provenance:** all three Riot primary texts predate this review. **Completeness:** three of six biography changes directly discussed; the remaining three omitted from the revision comparison. **Satirical framing:** extended “new home” analogy emphasises perceived absurdity of the revision. **Consistency:** creator acknowledges sincere empathy and accepts that she need not solve everything, but characterises her as knowingly doing nothing and her intervention as toothless. **Inference:** exploitation is a possible critical interpretation; complete historical comprehension and deliberate indifference are not established by the cited passages alone. **Propagation:** the review is a potential secondary-source amplifier, but specific downstream adoption must be separately evidenced.
+**Framework determination.** **Provenance:** all three Riot primary texts predate this review. **Completeness:** three of six biography changes directly discussed; the remaining three omitted from the revision comparison. **Satirical framing:** extended “new home” analogy emphasises perceived absurdity of the revision. **Consistency:** influencer acknowledges sincere empathy and accepts that she need not solve everything, but characterises her as knowingly doing nothing and her intervention as toothless. **Inference:** exploitation is a possible critical interpretation; complete historical comprehension and deliberate indifference are not established by the cited passages alone. **Propagation:** the review is a potential secondary-source amplifier, but specific downstream adoption must be separately evidenced.
 
-**Cross-examination questions for each creator:** (1) What did they actually claim or imply about Seraphine's knowledge and motivations? (2) Which biography/voice-line passages did they present? (3) Did they acknowledge the Brackern's song, Seraphine's connection to it, her inability to save the souls and Riot's stated empathy-centred intent? (4) Did they distinguish disagreement with Riot's execution from assertions about what Riot intended? (5) Did their framing treat the biography alone as the entire available Runeterra development record? Use verified short quotations only where wording matters, otherwise timestamped summaries.
+**Cross-examination questions for each influencer:** (1) What did they actually claim or imply about Seraphine's knowledge and motivations? (2) Which biography/voice-line passages did they present? (3) Did they acknowledge the Brackern's song, Seraphine's connection to it, her inability to save the souls and Riot's stated empathy-centred intent? (4) Did they distinguish disagreement with Riot's execution from assertions about what Riot intended? (5) Did their framing treat the biography alone as the entire available Runeterra development record? Use verified short quotations only where wording matters, otherwise timestamped summaries.
 
 #### TBSkyen — 4 November 2026: Patreon outreach and response
 
@@ -633,11 +633,11 @@ The response is relevant to his earlier public acknowledgement that he leverages
 
 ### Cross-examination synthesis — recurring framing, primary-source omissions and counterexamples
 
-The individual audits reveal a recurring tension: criticism of the Brackern storyline was often framed around Seraphine's supposed knowledge and failure to act, while Riot's contemporaneous *Champion Insights* explained both her intended empathy and her inability to save the trapped souls. The evidence differs by creator: some demonstrably consulted the relevant developer article, others demonstrably read the biography or acknowledged Riot's intended characterisation, and access to the specific article cannot be assumed in every case. The detailed audits above preserve these distinctions and the dates on which sources became available.
+The individual audits reveal a recurring tension: criticism of the Brackern storyline was often framed around Seraphine's supposed knowledge and failure to act, while Riot's contemporaneous *Champion Insights* explained both her intended empathy and her inability to save the trapped souls. The evidence differs by influencer: some demonstrably consulted the relevant developer article, others demonstrably read the biography or acknowledged Riot's intended characterisation, and access to the specific article cannot be assumed in every case. The detailed audits above preserve these distinctions and the dates on which sources became available.
 
 The distinction is between criticising a narrative decision and treating an interpretation of the character's motives as established canon. The ProGuides audit provides a useful counterexample: it challenges the Sona-copy bandwagon, recognises Seraphine's positive personality and Riot's design rationale, yet still omits the inability-to-save explanation when discussing the Brackern.
 
-The subsequent source-integrity question is how such interpretations were represented in secondary reporting and reference material over the following years. Similar wording or framing recurs across creator commentary and Wikipedia. Riot's original developer article remained absent from Wikipedia's references for six years.
+The subsequent source-integrity question is how such interpretations were represented in secondary reporting and reference material over the following years. Similar wording or framing recurs across influencer commentary and Wikipedia. Riot's original developer article remained absent from Wikipedia's references for six years.
 
 #### ProGuides — 24 October 2020: a balanced counterexample
 
@@ -667,7 +667,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 **1. Provenance and opportunity.** The narrator references the 12 October Riot developer article by name at \~08:01 and returns to its platform-design illustrations at \~10:24. Unlike an inference from general research experience, this directly establishes use of the relevant primary source. The same article also describes Seraphine's intense empathy, Brackern consciousness, and her inability to save trapped souls. The lore segment (\~11:24–13:14) does not incorporate that countervailing explanation. This establishes selective use of the developer article.
 
-**2. Source coverage versus omission.** ProGuides accurately acknowledges a distinct K/DA persona, Riot's stage-design rationale and several rejected concepts. In the Brackern segment, it explains the suffering associated with harvested namestones, then expects Seraphine to launch a rescue effort. Its treatment leaves out the explicit developer explanation of her inability to save them and the intended empathy-centred narrative. These omissions are especially relevant because the creator has already demonstrated access to the very same article.
+**2. Source coverage versus omission.** ProGuides accurately acknowledges a distinct K/DA persona, Riot's stage-design rationale and several rejected concepts. In the Brackern segment, it explains the suffering associated with harvested namestones, then expects Seraphine to launch a rescue effort. Its treatment leaves out the explicit developer explanation of her inability to save them and the intended empathy-centred narrative. These omissions are especially relevant because the influencer has already demonstrated access to the very same article.
 
 **3. Knowledge/comprehension distinction.** At \~12:29–12:43 the video says Seraphine “learns of their existence”, then immediately treats that as the basis for an expected rescue mission. Learning a Brackern voice exists is not equivalent to acquiring full knowledge of the harvesting process or a means to reverse it. The criticism instead implies that learning of their existence should have triggered a different story.
 
@@ -681,7 +681,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 ### Closing counterexample — ProGuides: balanced criticism despite an identifiable omission
 
-**Summary assessment:** ProGuides' 24 October 2020 review demonstrates that a creator could discuss the backlash, evaluate complaints and explicitly challenge parts of the community bandwagon. The detailed primary-source audit identifies one material omission in its Brackern criticism.
+**Summary assessment:** ProGuides' 24 October 2020 review demonstrates that a influencer could discuss the backlash, evaluate complaints and explicitly challenge parts of the community bandwagon. The detailed primary-source audit identifies one material omission in its Brackern criticism.
 
 | Issue | Timestamp / source | Finding |
 | --- | --- | --- |
@@ -703,7 +703,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 ### 4. Controversy in the pandemic-era attention economy
 
-The controversy emerged during the COVID-19 period, when online entertainment and creator visibility were important features of gaming culture. The [attention economy](https://en.wikipedia.org/wiki/Attention_economy) describes competition for audience attention. Controversy can generate strong engagement.
+The controversy emerged during the COVID-19 period, when online entertainment and influencer visibility were important features of gaming culture. The [attention economy](https://en.wikipedia.org/wiki/Attention_economy) describes competition for audience attention. Controversy can generate strong engagement.
 
 Parasocial relationships can influence perceived trust. [Social proof](https://en.wikipedia.org/wiki/Social_proof), the bandwagon effect, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), the [illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect) and [information cascades](https://en.wikipedia.org/wiki/Information_cascade) describe ways perceived consensus can form or intensify.
 
