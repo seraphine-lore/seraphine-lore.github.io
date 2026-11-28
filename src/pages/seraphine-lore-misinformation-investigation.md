@@ -111,7 +111,11 @@ So - if the line is read in context of the entire actual lore, the interpretatio
 
 Unfortunately, this was clearly a QA failure, VO for games is delivered in one session, so being able to quickly fix this was not possible in the tight 2 weeks sprint (a spring in SDLC is normally 2 weeks, notice how that aligns up with exactly the timeline I’m sharing) to ‘fix’ these mistakes; hence the soft retcon. 
 
-**28 October 2020:** Riot co-founder Marc Merrill publicly acknowledged that disputed material should already have been removed from the intellectual property and promised a fix i.e. public admission of a QA failure.
+**28 October 2020:** Riot co-founder Marc Merrill publicly acknowledged that disputed material should already have been removed from the intellectual property and promised a fix, constituting a public acknowledgement of an execution/QA failure.
+
+> ah, that wasn't cool and was supposed to have been removed from the IP =p it will be fixed
+
+— [Marc Merrill, original Twitter statement, 28 October 2020](https://x.com/MarcMerrill/status/1321595282878996482)
 
 **29 October 2020:** Jag explained that the recorded Brackern lines had been removed because the team had agreed it did not fit the story being told. See the [contemporaneous preserved developer statements](https://www.surrenderat20.net/2020/10/red-post-collection-client-cleanup.html) and [report of Merrill's 28 October response](https://www.dexerto.com/league-of-legends/riot-already-changing-seraphine-league-of-legends-fan-backlash-1442889/). Confirms Seraphine's story is to help the Brackern in future. 
 
