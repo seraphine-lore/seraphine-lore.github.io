@@ -27,6 +27,195 @@ const wikipedia = 'https://en.wikipedia.org/wiki/Seraphine_(League_of_Legends)';
 
 export const pages: ResearchPage[] = [
   {
+    "slug": "league-of-legends-business-model",
+    "title": "League of Legends’ Business Model: How Riot Games Makes Money",
+    "description": "How does League of Legends make money? Explore Riot Games’ free-to-play business model, cosmetics, skins, champion IP and K/DA marketing.",
+    "eyebrow": "BACKGROUND · BUSINESS MODEL",
+    "lead": "League of Legends is a free-to-play multiplayer online battle arena (MOBA), released in 2009 by Riot Games. Its commercial model helps explain why champion releases combine gameplay, storytelling, cosmetics and marketing.",
+    "sections": [
+      {
+        "heading": "What is League of Legends?",
+        "paragraphs": [
+          "In the standard Summoner’s Rift mode, two teams of five players compete to destroy the opposing team’s Nexus. Each player controls a champion with a distinct set of abilities. Champions also have fictional identities within Riot’s Runeterra universe."
+        ]
+      },
+      {
+        "heading": "How does Riot Games make money from League of Legends?",
+        "paragraphs": [
+          "Players can access the game without paying an entry fee. Riot sells optional content, including cosmetic skins, event passes and other digital goods. Champions can also be unlocked through play. Riot’s December 2023 business model explanation describes its policy of not selling competitive power through cosmetics and its approach to different spending preferences. This is a later explanation of company policy, not a contemporaneous account of every 2020 decision."
+        ]
+      },
+      {
+        "heading": "Champions as fictional characters and commercial products",
+        "paragraphs": [
+          "A champion can simultaneously be a playable character, a narrative IP and the basis for cosmetic products. Runeterra stories, cinematics, music and alternative skin universes provide different ways for audiences to engage with the same character. K/DA, Riot’s virtual pop group, illustrates how music and game cosmetics can support one another."
+        ]
+      },
+      {
+        "heading": "Why this matters to Seraphine’s release",
+        "paragraphs": [
+          "Seraphine’s 2020 launch combined a fictional social media persona, a K/DA collaboration and a premium cosmetic. These commercial choices are legitimate subjects of criticism. They do not, by themselves, establish the motives of the fictional Runeterra character. The <a href=\"/seraphine-marketing-controversy/\">marketing controversy</a> and <a href=\"/seraphine-lore-misinformation-investigation/\">full misinformation investigation</a> examine those questions separately."
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "Riot — League’s Business Model in 2023",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/dev-league-s-business-model-in-2023/"
+      },
+      {
+        "label": "Riot — K/DA ALL OUT Seraphine: Ultimate Skin Explainer (12 October 2020)",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/k-da-all-out-seraphine-ultimate-skin-explainer/"
+      },
+      {
+        "label": "Riot — Champion Insights: Seraphine",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/champion-insights-seraphine/"
+      }
+    ],
+    "related": [
+      "seraphine-marketing-controversy",
+      "seraphine-release-controversy",
+      "seraphine-controversy"
+    ]
+  },
+  {
+    "slug": "seraphine-marketing-controversy",
+    "title": "Seraphine’s Marketing Controversy: K/DA, Ultimate Skins and Riot’s Commercial Strategy",
+    "description": "Why was Seraphine’s marketing controversial? Examine her Twitter campaign, K/DA collaboration, 3250 RP Ultimate skin, parasocial criticism and Sona comparisons.",
+    "eyebrow": "BACKGROUND · MARKETING",
+    "lead": "Before Seraphine became playable in League of Legends, Riot introduced her through a fictional musician’s social media journey. Her K/DA collaboration and premium launch skin attracted criticism about commercialisation and the boundaries of fictional marketing.",
+    "sections": [
+      {
+        "heading": "Seraphine’s Twitter campaign and parasocial marketing",
+        "paragraphs": [
+          "Riot presented Seraphine as an aspiring musician through social media posts before her release. The first-person persona encouraged audiences to follow her career and emotional experiences. Critics questioned the use of personal vulnerability and perceived friendship to cultivate attachment to a commercial character. That criticism concerns the marketing strategy rather than evidence of exploitation within Runeterra."
+        ]
+      },
+      {
+        "heading": "K/DA ALL OUT Seraphine and the Ultimate skin",
+        "paragraphs": [
+          "Riot’s 12 October 2020 explainer announced a launch skin costing 3,250 RP. It offered three selectable forms unlocked through missions: Indie, Rising Star and Superstar, representing stages of her fictional music career. The bundle also included earnable profile cosmetics. The premium launch offering attracted criticism over value and commercial priorities."
+        ]
+      },
+      {
+        "heading": "Why was Seraphine compared to Sona?",
+        "paragraphs": [
+          "Both champions have music-themed abilities and tools that support allies. Critics questioned whether Seraphine was sufficiently distinct. Riot’s Champion Insights describes Seraphine’s crowd-oriented mage design and abilities that benefit from nearby allies. Gameplay similarities and questions about product differentiation are distinct from accusations concerning her Brackern lore."
+        ]
+      },
+      {
+        "heading": "Commercial criticism versus lore misinformation",
+        "paragraphs": [
+          "A negative reaction to the marketing campaign can provide context for later reception without establishing that every critic was motivated by that reaction. The <a href=\"/seraphine-release-controversy/\">release chronology</a> and <a href=\"/seraphine-lore-misinformation-investigation/\">full investigation</a> examine how specific lore claims compare with the official evidence."
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "Riot — K/DA ALL OUT Seraphine: Ultimate Skin Explainer (12 October 2020)",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/k-da-all-out-seraphine-ultimate-skin-explainer/"
+      },
+      {
+        "label": "Riot — Champion Insights: Seraphine",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/champion-insights-seraphine/"
+      },
+      {
+        "label": "Riot — League’s Business Model in 2023",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/dev-league-s-business-model-in-2023/"
+      },
+      {
+        "label": "Riot — Patch 10.22 notes",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-22-notes/"
+      }
+    ],
+    "related": [
+      "league-of-legends-business-model",
+      "seraphine-release-controversy",
+      "seraphine-controversy",
+      "seraphine-original-lore"
+    ]
+  },
+  {
+    "slug": "seraphine-release-controversy",
+    "title": "Seraphine’s 2020 Release: Marketing, Community Backlash and Lore Misinformation",
+    "description": "Why did Seraphine’s 2020 release cause backlash? Explore K/DA marketing, Sona comparisons, Riot’s lore QA failure and the spread of Brackern misinformation.",
+    "eyebrow": "BACKGROUND · RELEASE CHRONOLOGY",
+    "lead": "Seraphine’s October 2020 controversy combined criticism of Riot’s commercial strategy, gameplay design and the execution of her original lore. Separating these issues is essential to understanding how accusations about the character spread.",
+    "sections": [
+      {
+        "heading": "Negative perceptions before the champion’s release",
+        "paragraphs": [
+          "The fictional musician’s social media campaign and premium K/DA launch skin prompted criticism of commercialisation. Gameplay comparisons with Sona raised a separate question about character differentiation. These issues provided a context in which later lore claims were received."
+        ]
+      },
+      {
+        "heading": "October 2020 release timeline",
+        "table": {
+          "headers": [
+            "Date",
+            "Event"
+          ],
+          "rows": [
+            [
+              "12 October",
+              "Riot publishes Champion Insights and the Ultimate skin explainer."
+            ],
+            [
+              "13 October",
+              "Original champion biography enters the public lore discussion."
+            ],
+            [
+              "28 October",
+              "Patch 10.22 and Marc Merrill’s acknowledgement of material intended for removal."
+            ],
+            [
+              "29 October",
+              "K/DA cosmetics become available; biography revisions and developer clarification."
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Riot’s narrative execution and QA failure",
+        "paragraphs": [
+          "The original developer article established Seraphine’s empathy and explained her connection to Brackern souls. The released material did not communicate her limitations consistently. On 28 October, Marc Merrill acknowledged that disputed material should already have been removed. See the <a href=\"https://x.com/MarcMerrill/status/1321595282878996482\">original statement</a> and the <a href=\"/seraphine-lore-changes/\">six biography revisions</a>."
+        ]
+      },
+      {
+        "heading": "From legitimate criticism to misinformation",
+        "paragraphs": [
+          "The investigation distinguishes commercial criticism from factual claims about Seraphine knowingly exploiting sentient beings. Repeated accusations, selective use of official material and influencer cross-references reinforced that interpretation. The underlying primary evidence was available before the champion’s release. Read the <a href=\"/seraphine-lore-misinformation-investigation/\">full cross-examinations</a> and <a href=\"/seraphine-misinformation/\">analysis of misinformation propagation</a>."
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "Riot — Champion Insights: Seraphine",
+        "url": "https://www.leagueoflegends.com/en-gb/news/dev/champion-insights-seraphine/"
+      },
+      {
+        "label": "Riot — K/DA ALL OUT Seraphine: Ultimate Skin Explainer (12 October 2020)",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/k-da-all-out-seraphine-ultimate-skin-explainer/"
+      },
+      {
+        "label": "Riot — Patch 10.22 notes",
+        "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-22-notes/"
+      },
+      {
+        "label": "Marc Merrill — 28 October 2020 statement",
+        "url": "https://x.com/MarcMerrill/status/1321595282878996482"
+      }
+    ],
+    "related": [
+      "league-of-legends-business-model",
+      "seraphine-marketing-controversy",
+      "seraphine-controversy",
+      "seraphine-original-lore",
+      "seraphine-misinformation",
+      "seraphine-lore-changes"
+    ]
+  },
+  {
     "slug": "skarnerphine",
     "title": "Skarnerphine: The Seraphine and Skarner Lore Controversy Explained",
     "description": "Explore Skarnerphine, the Seraphine and Skarner memes, original Brackern lore, elegy and the misinformation behind the 2020 controversy.",
@@ -271,7 +460,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ { label: 'Riot — Champion Insights: Seraphine (12 October 2020)', url: insights }, { label: 'Riot — Seraphine publication archive (dated entries)', url: riotArchive }, { label: 'Riot — current Seraphine biography (not a preserved 2020 snapshot)', url: biography }, { label: 'Jeevun Sidhu — original October 2020 statement', url: sidhu } ],
-    related: ["seraphine-helped-brackern-skarner", 'seraphine-skarner', 'seraphine-lore-changes', 'sources']
+    related: ["league-of-legends-business-model", "seraphine-marketing-controversy", "seraphine-release-controversy", "seraphine-helped-brackern-skarner", 'seraphine-skarner', 'seraphine-lore-changes', 'sources']
   },
   {
     slug: 'seraphine-skarner',
@@ -561,7 +750,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [{label:'Riot — Seraphine publication archive',url:riotArchive},{label:'Riot — original developer explanation',url:insights},{label:'Polygon — contemporary social-media campaign coverage',url:'https://www.polygon.com/interviews/2020/11/3/21548141/seraphine-controversy-league-of-legends-twitter/'}, {label:'Stephanie — The Problem With Seraphine',url:'https://step-nie.medium.com/the-problem-with-seraphine-58dc16c07e79'}, {label:'Wikipedia — Seraphine reception and sources',url:wikipedia}],
-    related: ["skarnerphine", 'seraphine-original-lore', 'seraphine-skarner', 'seraphine-misinformation', 'seraphine-helped-brackern-skarner', 'seraphine-lore-changes', 'seraphine-skarner-brackern-retcon']
+    related: ["league-of-legends-business-model", "seraphine-marketing-controversy", "seraphine-release-controversy", "skarnerphine", 'seraphine-original-lore', 'seraphine-skarner', 'seraphine-misinformation', 'seraphine-helped-brackern-skarner', 'seraphine-lore-changes', 'seraphine-skarner-brackern-retcon']
   },
   {
     slug: 'seraphine-misinformation',
@@ -615,7 +804,7 @@ export const pages: ResearchPage[] = [
       { label: 'Jeevun Sidhu — 29 October 2020 clarification', url: sidhu },
       { label: 'Wikipedia — Seraphine article and revisions', url: wikipedia }
     ],
-    related: ["skarnerphine", "seraphine-helped-brackern-skarner", 'seraphine-original-lore', 'seraphine-lore-changes', 'sources']
+    related: ["league-of-legends-business-model", "seraphine-marketing-controversy", "seraphine-release-controversy", "skarnerphine", "seraphine-helped-brackern-skarner", 'seraphine-original-lore', 'seraphine-lore-changes', 'sources']
   },
   {
     slug: 'sources',
