@@ -494,9 +494,9 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 
 **Finding:** Repeated selective characterisation; demonstrated awareness of Riot's intended empathy; likely intentional continuation of the selfish-exploitation framing; substantive but separate criticism of Riot's narrative execution.
 
-#### TBSkyen — January 2021: What’s the Deal with Seraphine?
+#### TBSkyen — 27 January 2021: What’s the Deal with Seraphine?
 
-**Video:** T B Skyen’s January 2021 *What’s the Deal with Seraphine?* review, examined using a preserved timestamped transcript.
+**Video:** TBSkyen, 27 January 2021 — *What's the deal with Seraphine? || character review (League of Legends)*. YouTube ID: `47FBBuJ7GO0`.
 
 **Principal transcript segments:** \~12:56–16:02 (Brackern knowledge, moral inference and acknowledged writer intent); \~17:20–20:09 (biography revision); \~23:28–29:10 (political stakes and alternative storyline).
 
@@ -582,6 +582,20 @@ In his 18 October video, Necrit also says he watched T B Skyen's video and found
 **Framework determination.** **Provenance:** all three Riot primary texts predate this review. **Completeness:** three of six biography changes directly discussed; the remaining three omitted from the revision comparison. **Satirical framing:** extended “new home” analogy emphasises perceived absurdity of the revision. **Consistency:** creator acknowledges sincere empathy and accepts that she need not solve everything, but characterises her as knowingly doing nothing and her intervention as toothless. **Inference:** exploitation is a possible critical interpretation; complete historical comprehension and deliberate indifference are not established by the cited passages alone. **Propagation:** the review is a potential secondary-source amplifier, but specific downstream adoption must be separately evidenced.
 
 **Cross-examination questions for each creator:** (1) What did they actually claim or imply about Seraphine's knowledge and motivations? (2) Which biography/voice-line passages did they present? (3) Did they acknowledge the Brackern's song, Seraphine's connection to it, her inability to save the souls and Riot's stated empathy-centred intent? (4) Did they distinguish disagreement with Riot's execution from assertions about what Riot intended? (5) Did their framing treat the biography alone as the entire available Runeterra development record? Use verified short quotations only where wording matters, otherwise timestamped summaries.
+
+#### TBSkyen — 4 November 2026: Patreon outreach and response
+
+The investigator contacted TBSkyen through Patreon, sharing a music recommendation and a [Reddit discussion](https://www.reddit.com/r/loreofleague/s/HewpPhztg7) introduced as a “Prequel to our (hopeful) discussion”.
+
+TBSkyen responded:
+
+> You seem like a parasocial weirdo, so I'm going to refund your pledge and block you.
+
+The Patreon conversation subsequently displayed “This account has blocked you.”
+
+The response is relevant to his earlier public acknowledgement that he leverages parasocial relationships to attract Patreon subscribers. In this exchange, he used the term “parasocial” as part of a personal insult towards a subscriber seeking discussion, rather than addressing the linked discussion. The exchange ended without substantive engagement with the material shared.
+
+**Source:** Investigator's Patreon correspondence, screenshot dated 4 November (2026 outreach). The screenshot records the stated intention to refund the pledge and confirms the block; it does not establish whether the refund was processed.
 
 ### Cross-examination synthesis — recurring framing, primary-source omissions and counterexamples
 
