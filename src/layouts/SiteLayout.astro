@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import { pages } from '../data/research';
 
 interface Props {
   title: string;
@@ -39,9 +38,10 @@ const siteTitle = title.includes('HUNTtheTRUTH') ? title : `${title} | HUNTtheTR
           <span class="wordmark-symbol" aria-hidden="true">✧</span> HUNT<span>THE</span>TRUTH
         </a>
         <nav aria-label="Primary navigation" class="topnav">
+          <a href={href('seraphine-lore-misinformation-investigation/')}><strong>Full investigation</strong></a>
+          <a href={href('seraphine-controversy/')}>Why is Seraphine controversial?</a>
           <a href={href('seraphine-original-lore/')}>Original lore</a>
-          <a href={href('seraphine-skarner/')}>Skarner</a>
-          <a href={href('seraphine-lore-misinformation-investigation/')}>Misinformation investigation</a>
+          <a href={href('seraphine-skarner/')}>Seraphine &amp; Skarner</a>
           <a href={href('sources/')}>Sources</a>
         </nav>
       </div>
@@ -55,15 +55,22 @@ const siteTitle = title.includes('HUNTtheTRUTH') ? title : `${title} | HUNTtheTR
           <h2>Official Riot lore omitted. Influencer cherry-picking. Six years of misinformation.</h2>
           <p>Riot published <em>Champion Insights: Seraphine</em> on the <strong>official League of Legends website</strong> on 12 October 2020. Influential YouTube criticism omitted its crucial empathy and Brackern explanations — sometimes while using other parts of that very article. HUNTtheTRUTH documents influencer cross-references, bandwagon effects, source laundering and Google AI citations, alongside <strong>Wikipedia.org’s six-year omission of Riot’s official developer source</strong>.</p>
         </div>
-        <div class="footer-links">
-          <a href={href('seraphine-lore-misinformation-investigation/')}>Full misinformation investigation</a>
+        <nav class="footer-links" aria-label="Research articles">
+          <strong>Investigation and misinformation</strong>
+          <a href={href('seraphine-lore-misinformation-investigation/')}><strong>Full misinformation investigation</strong></a>
           <a href={href('seraphine-misinformation/')}>How Seraphine lore misinformation spread</a>
-          <a href={href('seraphine-skarner-brackern-retcon/')}>#JusticeForSkarner: the hate train and Riot’s retcon</a>
+          <a href={href('seraphine-controversy/')}>Why is Seraphine controversial?</a>
+          <strong>Original lore and evidence</strong>
           <a href={href('seraphine-original-lore/')}>Original 2020 lore</a>
           <a href={href('seraphine-lore-changes/')}>October 2020 revisions</a>
-          <a href={href('seraphine-controversy/')}>The controversy</a>
+          <a href={href('seraphine-brackern/')}>The Brackern and Hextech</a>
           <a href={href('sources/')}>Source register</a>
-        </div>
+          <strong>Seraphine and Skarner</strong>
+          <a href={href('seraphine-skarner/')}>Seraphine and Skarner</a>
+          <a href={href('seraphine-helped-brackern-skarner/')}>Seraphine did help the Brackern and Skarner</a>
+          <a href={href('seraphine-skarner-brackern-retcon/')}>#JusticeForSkarner: the hate train and Riot’s retcon</a>
+          <a href={href('skarnerphine/')}>Skarnerphine</a>
+        </nav>
       </div>
       <div class="container legal-footnote">Independent fan research; not affiliated with or endorsed by Riot Games. League of Legends, Runeterra and Seraphine are Riot Games properties. Original site design; no Riot logos or artwork are included.</div>
     </footer>
