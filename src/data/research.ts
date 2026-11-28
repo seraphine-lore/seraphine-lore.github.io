@@ -62,7 +62,7 @@ export const pages: ResearchPage[] = [
     title: 'Seraphine and Skarner: The Original Brackern Controversy — What the Lore Established',
     description: 'Riot’s official League website published the Brackern explanation before the exploitation accusations. Compare T B Skyen’s and others’ claims with that omitted context.',
     eyebrow: 'SKARNER · HEXTECH · SOURCE COMPARISON',
-    lead: 'Influential creators accused Seraphine of knowingly exploiting Skarner’s people, despite Riot’s <em>official League of Legends website</em> having already explained that inability to free Brackern souls did not mean indifference. This page compares the original article, biography and disputed Skarner dialogue with those creator accusations.',
+    lead: 'Influencers accused Seraphine of knowingly exploiting Skarner’s people, despite Riot’s <em>official League of Legends website</em> having already explained that inability to free Brackern souls did not mean indifference. This page compares the original article, biography and disputed Skarner dialogue with those influencer accusations.',
     sections: [
       { heading: 'What the original material established', paragraphs: [
         'In the 2020 setting, Hextech crystals were connected to the souls of the Brackern. Riot’s <em>Champion Insights</em> specifically identified Skarner’s family and established that Seraphine could hear the crystal’s song.',
@@ -93,7 +93,7 @@ export const pages: ResearchPage[] = [
     "title": "#JusticeForSkarner: The 2020 Hate Train, Seraphine’s Brackern Role and Riot’s Retcon",
     "description": "The 2020 #JusticeForSkarner backlash, Jeevun Sidhu’s confirmation of Seraphine’s Brackern role, Riot’s lore revisions and the feedback-driven Skarner VGU.",
     "eyebrow": "#JUSTICEFORSKARNER · WHAT RIOT PUBLISHED AND REWROTE",
-    "lead": "The #JusticeForSkarner hashtag circulated amid 2020 backlash even though the <em>official League of Legends website</em> had already documented Seraphine’s direct connection to Skarner’s family on 12 October. The creator accusations omitted the article’s explanations of empathy and Brackern song. Jeevun Sidhu confirmed on 29 October that she would try to give the Brackern a voice; Riot’s later Skarner rewrite removed the original crystal-based storyline.",
+    "lead": "The #JusticeForSkarner hashtag circulated amid 2020 backlash even though the <em>official League of Legends website</em> had already documented Seraphine’s direct connection to Skarner’s family on 12 October. The influencer accusations omitted the article’s explanations of empathy and Brackern song. Jeevun Sidhu confirmed on 29 October that she would try to give the Brackern a voice; Riot’s later Skarner rewrite removed the original crystal-based storyline.",
     "sections": [
       {
         "heading": "2016: Skarner needed a human who could hear his people's dreamsong",
@@ -347,17 +347,17 @@ export const pages: ResearchPage[] = [
   {
     slug: 'seraphine-misinformation',
     title: 'How Seraphine Lore Misinformation Spread: Influencer Cherry-Picking, Google AI and Wikipedia',
-    description: 'Riot published the contrary lore on the official League site before 2020 YouTube criticism. Examine named creator omissions, Google AI source attributions and Wikipedia’s six-year gap.',
+    description: 'Riot published the contrary lore on the official League site before 2020 YouTube criticism. Examine named influencer omissions, Google AI source attributions and Wikipedia’s six-year gap.',
     eyebrow: 'HUNTTHETRUTH · CLAIM-BY-CLAIM AUDIT',
-    lead: 'Riot’s <em>Champion Insights: Seraphine</em> appeared on the <strong>official League of Legends website on 12 October 2020</strong>. Skooch omitted it from his promotional comparison; NickyBoi used artwork originating in it but not its narrative explanation; T B Skyen and Necrit did not account for its contrary lore; and ProGuides cited the article for design but omitted its Brackern rescue explanation. The audit tracks creator cross-references and later source attribution in Google and AI, while documenting <strong>Wikipedia.org’s six-year failure to cite the Riot article</strong>.',
+    lead: 'Riot’s <em>Champion Insights: Seraphine</em> appeared on the <strong>official League of Legends website on 12 October 2020</strong>. Skooch omitted it from his promotional comparison; NickyBoi used artwork originating in it but not its narrative explanation; T B Skyen and Necrit did not account for its contrary lore; and ProGuides cited the article for design but omitted its Brackern rescue explanation. The audit tracks influencer cross-references and later source attribution in Google and AI, while documenting <strong>Wikipedia.org’s six-year failure to cite the Riot article</strong>.',
     sections: [
       { heading: 'The Riot article published on League’s official website — and omitted from the lore claims', paragraphs: [
         'Riot’s <a href="https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/">Champion Insights: Seraphine</a> was public on 12 October 2020. Rayla Heide described the intention to make Seraphine deeply empathetic. Daniel Couts explained her overwhelming perception of other people’s emotions, her special connection with a Brackern crystal and her use of music to connect with and uplift people.',
-        'The omitted evidence was on <strong>Riot’s official League of Legends website</strong> before the creator videos. Skooch did not include it in his promotional comparison; NickyBoi used its artwork but not its narrative explanations; T B Skyen and Necrit omitted its critical context; and ProGuides cited design passages without the explanation that inability to save the Brackern souls was not indifference. The dated evidence appears in the individual creator audits below.'
+        'The omitted evidence was on <strong>Riot’s official League of Legends website</strong> before the influencer videos. Skooch did not include it in his promotional comparison; NickyBoi used its artwork but not its narrative explanations; T B Skyen and Necrit omitted its critical context; and ProGuides cited design passages without the explanation that inability to save the Brackern souls was not indifference. The dated evidence appears in the individual influencer audits below.'
       ] },
       { heading: 'NickyBoi: concept art used, narrative context excluded', paragraphs: [
         'In his 24 October 2020 video, at approximately 10:47–11:32, NickyBoi characterises Seraphine as a “narcissistic, selfish sociopath”. The video also uses concept art originating in Riot’s 12 October <em>Champion Insights</em> article, yet does not represent its accompanying explanation of empathy, Brackern song and the distinction between inability to save trapped souls and not caring about them.',
-        'That is a concrete same-document omission: material useful to a visual-design critique appears, while contrary narrative context published with it does not. The audit treats selective presentation as strongly supported; the route by which the creator obtained the artwork is not directly established. NickyBoi, 24 October 2020 — YouTube ID: bDa0p_xx_KA.',
+        'That is a concrete same-document omission: material useful to a visual-design critique appears, while contrary narrative context published with it does not. The audit treats selective presentation as strongly supported; the route by which the influencer obtained the artwork is not directly established. NickyBoi, 24 October 2020 — YouTube ID: bDa0p_xx_KA.',
         "In public posts dated 6 January 2022, NickyBoi described <q>a viscous cycle of hate for well over a year</q> and said he felt he had <q>helped encouraged</q> it. He urged readers to <q>leave her players alone, accept that there are people who like her</q>. He also stated: <q>The sheer amount of hatred festered from that video keeps me up at night sometimes</q>. <a href=\"https://x.com/NickyBoiYT/status/1478992366577012736\">Original Twitter thread — 6 January 2022</a>."
       ] },
       { heading: 'Necrit: narrating motivations, then denying them', paragraphs: [
@@ -376,9 +376,9 @@ export const pages: ResearchPage[] = [
         'ProGuides’ 24 October 2020 video explicitly challenges the Sona-copy bandwagon, compares gameplay differences, accepts that Seraphine’s positive personality was not itself the problem, and discusses Riot’s stage rationale. It therefore provides a counterexample to indiscriminate negative framing.',
         'The same video uses <em>Champion Insights</em> for visual-design discussion but omits its explicit inability-to-save explanation when criticising the lack of a Brackern rescue arc at approximately 12:41–13:14. This is a source omission without an accompanying accusation that Seraphine was sociopathic.'
       ] },
-      { heading: 'Creator reinforcement, cherry-picking and bandwagon effects', paragraphs: [
+      { heading: 'Influencer reinforcement, cherry-picking and bandwagon effects', paragraphs: [
         'Selective use of a published source can give a characterisation an apparent evidential basis while excluding passages that complicate it. Repeated presentations by popular commentators can create social proof, especially when a later narrator points approvingly to earlier critics. The documented Necrit–Skyen–Skooch cross-references are a concrete example of this reinforcement network.',
-        'A creator’s influence and the emotional intensity of a criticism do not independently validate the underlying factual claim. The report analyses this mechanism as selective framing, argument from popularity and an information cascade. Claims of deliberately coordinated social engineering require evidence of the specific intent or coordination; repetition and cross-reference alone do not establish that.'
+        'A influencer’s influence and the emotional intensity of a criticism do not independently validate the underlying factual claim. The report analyses this mechanism as selective framing, argument from popularity and an information cascade. Claims of deliberately coordinated social engineering require evidence of the specific intent or coordination; repetition and cross-reference alone do not establish that.'
       ] },
       { heading: 'From YouTube commentary to Google AI citations — and Wikipedia’s missing source', paragraphs: [
         'The concern is source dependency. Several accounts repeating one original interpretation do not become several independent pieces of evidence. The investigation tracks recurring claims through community references, Wikipedia and later retrieval and citation by search and AI systems.',
@@ -386,7 +386,7 @@ export const pages: ResearchPage[] = [
         'That is a documented source-visibility finding, not proof of any particular model-training dataset or an unseen causal path. The distinction matters when evaluating whether an AI answer has independently verified a claim.'
       ] },
       { heading: 'Read the complete cross-examination', paragraphs: [
-        'The <a href="/seraphine-lore-misinformation-investigation/">full Seraphine lore misinformation investigation</a> contains the individual creator audit sections, date-by-date evidence comparisons, video timecodes, revisions, source-dependency analysis, Wikipedia findings and original conclusion.',
+        'The <a href="/seraphine-lore-misinformation-investigation/">full Seraphine lore misinformation investigation</a> contains the individual influencer audit sections, date-by-date evidence comparisons, video timecodes, revisions, source-dependency analysis, Wikipedia findings and original conclusion.',
         'See also the <a href="/seraphine-original-lore/">original 2020 source chronology</a> and the <a href="/seraphine-lore-changes/">six biography changes</a> for the underlying record.'
       ] }
     ],
@@ -416,7 +416,7 @@ export const pages: ResearchPage[] = [
         'When evaluating disputed interpretations, distinguish an original developer statement, an in-universe biography, recorded voice-over, contemporary criticism and a later retelling. These are different categories of evidence.'
       ] },
       { heading: 'Video claims, primary-source gaps and Wikipedia revisions', paragraphs: [
-        'The wider audit analyses creator videos with dated transcripts and timecodes, alongside the League Wiki and Wikipedia revision histories. For a given claim, the important question is which original source supports it and whether intervening summaries accurately preserve its meaning.',
+        'The wider audit analyses influencer videos with dated transcripts and timecodes, alongside the League Wiki and Wikipedia revision histories. For a given claim, the important question is which original source supports it and whether intervening summaries accurately preserve its meaning.',
         'The source links below provide the initial documentary trail. For the complete historical claim comparisons, see the original-lore, revision-history and misinformation articles linked from this page.'
       ] }
     ],
