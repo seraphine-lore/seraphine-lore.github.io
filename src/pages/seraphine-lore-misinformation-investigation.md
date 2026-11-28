@@ -144,6 +144,7 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 
 | Influencer | Video title | Published | Views | Notes |
 | --- | --- | --- | --- | --- |
+| Skooch | The Most CRINGE Thing Riot Has Done | 12 Oct 2020 | — | Commercial and parasocial marketing criticism; contextual evidence, not lore misinformation |
 | T B Skyen | Let's think out loud about Seraphine and what she's selling for 28 minutes | 12 Oct 2020 | ≈147,639 | Commercialisation and potential parasocial hypocrisy; transcript pending |
 | T B Skyen | seraphine's stage is canonically powered by the souls of the innocent | 13 Oct 2020 | ≈209,062 | Skarner/Seraphine thumbnail; Brackern controversy |
 | T B Skyen | ok but now let's try to be CONSTRUCTIVE about seraphine | 14 Oct 2020 | ≈153,938 | Constructive criticism; lore relevance pending transcript |
@@ -155,7 +156,7 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 | Necrit | They Changed Seraphine's Lore - Is it Better? | 4 Nov 2020 | ≈330,081 | Lore revision commentary; transcript pending |
 | Skooch | My Final Thoughts On Seraphine | 6 Nov 2020 | ≈246,015 | Recommends NickyBoi; acknowledges developers lacked malicious intentions |
 
-**Combined approximate views:** ≈4,319,260 across ten videos (including 352,390 for ProGuides, 24 October 2020).
+**Combined approximate views:** ≈4,319,260 across ten videos with recorded view counts (including 352,390 for ProGuides, 24 October 2020); the 12 October Skooch video is excluded from this total.
 
 ### Evidence baseline for influencer cross-examinations — original developer intent and subsequent biography revisions
 
@@ -237,7 +238,17 @@ The following dated videos are compared against Riot's material available at the
 
 The test is whether factual claims and characterisations were supported by Riot's primary material available on each video's publication date, what relevant context was omitted, and whether viewers were given enough evidence to distinguish established characterisation from criticism of Riot's execution. The comparison also traces recurring interpretations and documented cross-references between influencers.
 
-#### Skooch — 16 October 2020
+#### Skooch — 12 October 2020: The Most CRINGE Thing Riot Has Done
+
+Skooch's initial video (YouTube ID: `RpGE6CNkRQE`) establishes the commercial and emotional framing preceding his later Runeterra lore criticism. Its stated subject is Seraphine's marketing: the fictional social media account, parasocial connections, posts about insecurity, the ultimate skin at launch and the wider K/DA campaign. It does not substantively examine her Runeterra biography, Skarner or the Brackern.
+
+Skooch describes the marketing as “one of the creepiest and cringe-worthy things that Riot has ever done”, and argues that the fictional account's interaction with followers builds a parasocial connection that Riot can subsequently monetise. He nevertheless acknowledges that the people working on Seraphine's account, music and lore may genuinely care about the character, and that the creative design team may not have intended to appear manipulative, money-hungry or predatory. He also explicitly tells viewers that disagreement about Seraphine need not result in hostility towards one another.
+
+The video itself uses audience-engagement techniques, including repeated promotion of his Twitter account, a subscription appeal and expressions of affection towards viewers. These provide context for his criticism of parasocial marketing without establishing that the two approaches are equivalent.
+
+**Significance to the investigation:** This video is contextual evidence of pre-existing negative framing, not an example of Brackern lore misinformation. Four days later, Skooch extends his criticism into Runeterra characterisation through a comparison that omits Riot's contemporaneous developer article. His 6 November follow-up then documents amplification of NickyBoi's commentary. The distinction between commercial criticism and the subsequent selective presentation of lore evidence is central to the chronology.
+
+#### Skooch — 16 October 2020: How Seraphine got WORSE
 
 In his Seraphine commentary (YouTube video ID: mtDognO_CPM; approximately 02:00), Skooch reads sections of the original biography and criticises the use of a Brackern crystal to power her performance stage (\~02:00–05:00). He then scrolls through extensive K/DA promotional material (\~05:13–06:40) before contrasting it with the much shorter Runeterra biography (\~06:41–06:58), arguing that the in-universe character appeared to be an afterthought. Comparison at approximately 06:41 (YouTube video ID: mtDognO_CPM).
 
@@ -325,7 +336,7 @@ At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that 
 
 **Primary-source and intent assessment — NickyBoi's 24 October video:** The decisive distinction is between an objection to Riot's execution and an assertion that the fictional character is selfish or sociopathic. *Champion Insights* explicitly says Seraphine hears trapped Brackern souls, connects through their song, and may be unable to save them without being indifferent. His use of artwork originating in that article, together with the article's availability on Riot's official website twelve days earlier, makes **intentional selective presentation likely**, although it does not prove he read the adjacent text. His recommendation of Skooch's video at 15:09–15:16 further documents amplification of an interpretation which did not incorporate the complete contemporaneous developer explanation. This inference concerns selection and framing of public evidence, not proof of a private commercial motive.
 
-#### 6 November follow-up — Skooch recommends NickyBoi
+#### 6 November follow-up — Skooch: My Final Thoughts On Seraphine
 
 In a subsequent Seraphine discussion on 6 November 2020, Skooch explicitly recommends NickyBoi's video to viewers (\~13:38–14:00), says he will link it, and goes on to discuss NickyBoi's China-related argument. 
 
