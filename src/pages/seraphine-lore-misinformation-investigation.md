@@ -77,6 +77,22 @@ I don’t want an ironic meta QA failure. But what I will obviously say that the
 
 That context is key and as these are indeed valid concerns, providing background to the issues raised below. A large audience of the community was fuelled with this hatred which made it *very *easy for influencers to take advantage of. 
 
+## Background context: League of Legends, Riot Games and Seraphine’s release
+
+League of Legends is a free-to-play multiplayer online battle arena (MOBA) released by Riot Games in 2009. In its standard five-versus-five mode, players control champions whose fictional identities also form part of the Runeterra narrative universe.
+
+Riot monetises optional digital content, including skins and event passes. Champions are therefore both gameplay products and fictional IP. Riot’s [2023 business model explanation](https://www.leagueoflegends.com/en-gb/news/dev/dev-league-s-business-model-in-2023/) provides additional context for this commercial structure.
+
+Seraphine’s 2020 release combined a fictional social media campaign, collaboration with K/DA and a 3,250 RP Ultimate skin. Criticism of commercialisation, parasocial marketing and gameplay similarities to Sona must be distinguished from factual accusations about the character’s original Runeterra lore.
+
+The investigation examines how those separate criticisms became associated with accusations of knowingly exploiting the Brackern, and how influencer coverage compared with the primary evidence available at the time.
+
+Further background:
+
+- [League of Legends’ business model: how Riot Games makes money](/league-of-legends-business-model/)
+- [Seraphine’s marketing controversy: K/DA and Ultimate skins](/seraphine-marketing-controversy/)
+- [Seraphine’s 2020 release: marketing, backlash and lore misinformation](/seraphine-release-controversy/)
+
 ## Primary sources: what Riot actually published
 
 **12 October 2020 — [Riot, Champion Insights: Seraphine](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/).** Riot opened by distinguishing the K/DA social-media character from the Runeterra singer. Its explanation then connected Seraphine's personality, magic, relationship with the Brackern and reason for singing. Read the [“Sing Your Soul’s Song” section](https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/) together rather than isolating the reference to Skarner's family.
