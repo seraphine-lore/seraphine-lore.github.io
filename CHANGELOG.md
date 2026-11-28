@@ -4,6 +4,8 @@ Manually maintained record of website updates, based on the Git commit history. 
 
 ## 2026-11-28
 
+- Added circular reporting terminology, its reference hyperlink and matching investigation contents entry (`165ac08`, `53d05ee`).
+
 - Corrected malformed report emphasis and spacing after the Rundas theme hyperlink (`4a778e2`).
 - Removed public-facing drafting metadata, streamlined repetitive prose and corrected remaining identified emphasis defects; retained the RRHL-13 link (`0d91dc1`).
 - Removed editorial metadata from supporting research articles (`24410f1`).
