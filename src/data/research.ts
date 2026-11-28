@@ -27,6 +27,157 @@ const wikipedia = 'https://en.wikipedia.org/wiki/Seraphine_(League_of_Legends)';
 
 export const pages: ResearchPage[] = [
   {
+    "slug": "seraphine-helped-brackern-skarner",
+    "title": "Seraphine Did Help the Brackern and Skarner — The Facts",
+    "description": "Seraphine’s Brackern elegy, Skarner’s family, the warning against unchecked hatred and the three interconnected 2020 lore revisions explain how she gave voice to suffering.",
+    "eyebrow": "BRACKERN SONG · ELEGY · ADVOCACY",
+    "lead": "Seraphine’s original 2020 lore establishes more than her ability to hear the Brackern. Their song helps shape her purpose, and her own elegy gives expression to their suffering. <strong>Helping does not exclusively mean rescuing.</strong> Riot explicitly distinguished her inability to free trapped souls from indifference.",
+    "sections": [
+      {
+        "heading": "The original connection to Skarner and his people",
+        "paragraphs": [
+          "Riot’s <a href=\"https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/\">Champion Insights: Seraphine</a>, published on 12 October 2020, identifies Skarner’s family among the Brackern souls in Hextech crystals. Seraphine can hear their songs and connects with a particular crystal, which helps her manage her overwhelming emotional hearing.",
+          "In the original Skarner narrative, communicating his people’s suffering to humans was a central problem. Seraphine’s ability to hear the Brackern provides a connection to that objective. Her help concerns Skarner’s people and their message; the original story does not depict her physically rescuing his family or meeting Skarner to carry out a rescue."
+        ]
+      },
+      {
+        "heading": "Why song matters to the Brackern",
+        "paragraphs": [
+          "Narrative writer Daniel “Istogaiden” Couts explained: <q>Song is important to the brackern, and that song continues from their crystals.</q> Song is therefore not merely Seraphine’s chosen artistic medium: it is also a means of connection with the Brackern themselves.",
+          "Riot’s original developer explanation distinguishes her inability to save trapped souls from indifference to them."
+        ]
+      },
+      {
+        "heading": "Seraphine carries forward the Brackern’s message against hatred",
+        "paragraphs": [
+          "The revised biography of 29 October 2020 states: <q>Her hextech crystal had sung an elegy of what hatred left unchecked could accomplish.</q>",
+          "Seraphine’s efforts to reconcile Piltover and Zaun reflect the lesson communicated through the Brackern’s elegy. Rather than ignoring their message, she acts upon it by addressing hatred and division through music — the very medium that connects her to them.",
+          "The Brackern did not merely help Seraphine understand her abilities. They helped shape what she chose to do with them. This connection does not require an assumption that the crystal explicitly instructed her to undertake a particular political mission."
+        ]
+      },
+      {
+        "heading": "All I can do is sing their elegy",
+        "paragraphs": [
+          "Her original voice-over includes: <q>The brackern fuel our city, our future. All I can do is sing their elegy.</q>",
+          "Singing an elegy gives expression to suffering. It is an artistic response within the limits of her abilities, with the potential to raise awareness of Brackern suffering. The phrase “All I can do” expresses a limitation, not an absence of concern.",
+          "The crystal’s elegy and Seraphine’s own singing are interconnected: she responds to their suffering through a medium of cultural significance to the Brackern. An inability to physically liberate them is not an unwillingness to help them."
+        ]
+      },
+      {
+        "heading": "Three interconnected biography revisions reinforce her purpose",
+        "table": {
+          "headers": [
+            "Revision",
+            "Published change",
+            "Narrative significance"
+          ],
+          "rows": [
+            [
+              "#3",
+              "Her hextech crystal had sung an elegy of what hatred left unchecked could accomplish.",
+              "Communicates suffering and the consequences of hatred through song."
+            ],
+            [
+              "#5",
+              "Seraphine hoped the crystal’s voice would be among them.",
+              "Establishes continuing concern and a desire to hear the crystal."
+            ],
+            [
+              "#6",
+              "Everyone matters → everyone deserves to be heard.",
+              "Read with #5, encompasses the Brackern within her guiding objective."
+            ]
+          ]
+        },
+        "paragraphs": [
+          "These revisions, published on 29 October 2020, collectively address knowledge, response to suffering and motivation. See the <a href=\"/seraphine-lore-changes/\">complete six-change comparison</a>."
+        ]
+      },
+      {
+        "heading": "The narrative foundation for a Brackern protest singer",
+        "paragraphs": [
+          "Giving expression to Brackern suffering, carrying forward their warning against hatred and seeking to hear their voice establish a foundation for future advocacy. A protest-singer storyline would be a potential development of these existing elements rather than a wholly unrelated replacement.",
+          "On 29 October 2020, Jeevun Sidhu explained: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q> This distinguishes the established character direction from an unrealised liberation storyline."
+        ]
+      },
+      {
+        "heading": "What the influencer examinations omitted",
+        "table": {
+          "headers": [
+            "Publication",
+            "Days since revisions",
+            "Finding"
+          ],
+          "rows": [
+            [
+              "Necrit — 4 November 2020",
+              "6",
+              "Compared two of six revisions; narrated related evidence of continuing concern in Standing Room Only."
+            ],
+            [
+              "Skooch — 6 November 2020",
+              "8",
+              "Amplified pre-revision criticism without supplying the revised context."
+            ],
+            [
+              "NickyBoi and Skooch — 14 November 2020",
+              "16",
+              "Presented and dismissed the elegy; claimed the Brackern aspect was removed entirely."
+            ],
+            [
+              "TBSkyen — 27 January 2021",
+              "90",
+              "Compared three of six revisions, omitting #3, #5 and #6 while proposing a protest-singer direction."
+            ]
+          ]
+        },
+        "paragraphs": [
+          "The <a href=\"/seraphine-lore-misinformation-investigation/\">full misinformation investigation</a> documents the individual cross-examinations, timestamps and primary-source comparisons."
+        ]
+      },
+      {
+        "heading": "The irony of #JusticeForSkarner",
+        "paragraphs": [
+          "The original lore connected Seraphine to the people Skarner sought to save. Her ability to hear their song and give expression to their suffering offered a narrative route towards addressing their communication problem. Later changes to Skarner’s lore replaced that original foundation. See <a href=\"/seraphine-skarner-brackern-retcon/\">#JusticeForSkarner and Riot’s retcon</a> for the chronology."
+        ]
+      }
+    ],
+    "references": [
+      {
+        "label": "Riot — Champion Insights: Seraphine (12 October 2020)",
+        "url": "https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/"
+      },
+      {
+        "label": "Riot — Seraphine publication archive",
+        "url": "https://www.leagueoflegends.com/en-us/news/tags/seraphine/"
+      },
+      {
+        "label": "Riot — Standing Room Only",
+        "url": "https://universe.leagueoflegends.com/en_US/story/seraphine-color-story/"
+      },
+      {
+        "label": "Jeevun Sidhu — 29 October 2020 statement",
+        "url": "https://twitter.com/JeevunSidhu/status/1321936795597066241"
+      },
+      {
+        "label": "League Wiki — historical voice-over record",
+        "url": "https://wiki.leagueoflegends.com/en-us/Seraphine/History"
+      },
+      {
+        "label": "Full investigation — historical biography comparison and influencer transcripts",
+        "url": "/seraphine-lore-misinformation-investigation/"
+      }
+    ],
+    "related": [
+      "seraphine-original-lore",
+      "seraphine-skarner",
+      "seraphine-brackern",
+      "seraphine-lore-changes",
+      "seraphine-skarner-brackern-retcon",
+      "seraphine-misinformation"
+    ]
+  },
+  {
     slug: 'seraphine-original-lore',
     title: 'Seraphine’s Original Lore (2020): The Riot Evidence Missing from the Backlash',
     description: 'Riot published Champion Insights on the official League of Legends website on 12 October 2020. Influential videos omitted its crucial empathy and Brackern explanations.',
@@ -55,7 +206,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ { label: 'Riot — Champion Insights: Seraphine (12 October 2020)', url: insights }, { label: 'Riot — Seraphine publication archive (dated entries)', url: riotArchive }, { label: 'Riot — current Seraphine biography (not a preserved 2020 snapshot)', url: biography }, { label: 'Jeevun Sidhu — original October 2020 statement', url: sidhu } ],
-    related: ['seraphine-skarner', 'seraphine-lore-changes', 'sources']
+    related: ["seraphine-helped-brackern-skarner", 'seraphine-skarner', 'seraphine-lore-changes', 'sources']
   },
   {
     slug: 'seraphine-skarner',
@@ -86,7 +237,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ { label: 'Riot — Champion Insights: Seraphine', url: insights }, { label: 'Riot — official Seraphine publication timeline', url: riotArchive }, { label: 'League Wiki — historical Seraphine voice lines', url: voiceHistory }, { label: 'Jeevun Sidhu — 29 October 2020 statement', url: sidhu } ],
-    related: ['seraphine-skarner-brackern-retcon', 'seraphine-original-lore', 'seraphine-brackern', 'seraphine-lore-changes']
+    related: ["seraphine-helped-brackern-skarner", 'seraphine-skarner-brackern-retcon', 'seraphine-original-lore', 'seraphine-brackern', 'seraphine-lore-changes']
   },
   {
     "slug": "seraphine-skarner-brackern-retcon",
@@ -255,7 +406,7 @@ export const pages: ResearchPage[] = [
         "url": "https://www.leagueoflegends.com/en-au/news/game-updates/voting-results-champion-update-thematic-revamp/"
       }
     ],
-    "related": [
+    "related": ["seraphine-helped-brackern-skarner", 
       "seraphine-skarner",
       "seraphine-brackern",
       "seraphine-lore-changes",
@@ -285,7 +436,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ {label:'Riot — Champion Insights: Seraphine',url:insights},{label:'Riot — Seraphine biography',url:biography},{label:'Riot — publication dates',url:riotArchive} ],
-    related: ['seraphine-skarner', 'seraphine-lore-changes', 'sources']
+    related: ["seraphine-helped-brackern-skarner", 'seraphine-skarner', 'seraphine-lore-changes', 'sources']
   },
   {
     slug: 'seraphine-lore-changes',
@@ -315,7 +466,7 @@ export const pages: ResearchPage[] = [
       ] }
     ],
     references: [ {label:'Riot — 12 October developer explanation',url:insights},{label:'Riot — October 2020 Seraphine posts',url:riotArchive},{label:'League Wiki — Seraphine history',url:voiceHistory},{label:'Jeevun Sidhu — developer clarification',url:sidhu},{label:'Surrender at 20 — October 2020 developer posts',url:riotRedPosts} ],
-    related: ['seraphine-original-lore', 'seraphine-skarner', 'sources']
+    related: ["seraphine-helped-brackern-skarner", 'seraphine-original-lore', 'seraphine-skarner', 'sources']
   },
   {
     slug: 'seraphine-controversy',
@@ -396,7 +547,7 @@ export const pages: ResearchPage[] = [
       { label: 'Jeevun Sidhu — 29 October 2020 clarification', url: sidhu },
       { label: 'Wikipedia — Seraphine article and revisions', url: wikipedia }
     ],
-    related: ['seraphine-original-lore', 'seraphine-lore-changes', 'sources']
+    related: ["seraphine-helped-brackern-skarner", 'seraphine-original-lore', 'seraphine-lore-changes', 'sources']
   },
   {
     slug: 'sources',
