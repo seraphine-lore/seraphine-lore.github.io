@@ -665,9 +665,9 @@ Parasocial relationships can influence perceived trust. [Social proof](https://e
 
 [*Argumentum ad populum*](https://en.wikipedia.org/wiki/Argumentum_ad_populum): Popularity does not establish truth. Repeated interpretations do not constitute independent corroboration.
 
-### 6. Evidence laundering: when ten sources are really one
+### 6. Circular reporting and evidence laundering: when ten sources are really one
 
-Circular sourcing can make repeated claims appear independently corroborated, even when they trace back to the same unsupported origin. This can give weak claims an appearance of authority. The key test is source independence: three citations do not necessarily represent three independent observations. In [information fusion](https://en.wikipedia.org/wiki/Information_fusion), double-counting dependent evidence is sometimes called data incest.
+[Circular reporting](https://en.wikipedia.org/wiki/Circular_reporting) occurs when sources reference one another, creating an appearance of independent corroboration. Evidence laundering occurs when repeated claims acquire apparent credibility through successive publications, even when they trace back to the same unsupported origin. This can give weak claims an appearance of authority. The key test is source independence: three citations do not necessarily represent three independent observations. In [information fusion](https://en.wikipedia.org/wiki/Information_fusion), double-counting dependent evidence is sometimes called data incest.
 
 **Ten articles are not necessarily ten independent sources of canon evidence.**
 
