@@ -144,7 +144,7 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 
 | Influencer | Video title | Published | Views | Notes |
 | --- | --- | --- | --- | --- |
-| Skooch | The Most CRINGE Thing Riot Has Done | 12 Oct 2020 | — | Commercial and parasocial marketing criticism; contextual evidence, not lore misinformation |
+| Skooch | The Most CRINGE Thing Riot Has Done | 12 Oct 2020 | ≈500,000 | Commercial and parasocial marketing criticism; contextual evidence, not lore misinformation |
 | T B Skyen | Let's think out loud about Seraphine and what she's selling for 28 minutes | 12 Oct 2020 | ≈147,639 | Commercialisation and potential parasocial hypocrisy; transcript pending |
 | T B Skyen | seraphine's stage is canonically powered by the souls of the innocent | 13 Oct 2020 | ≈209,062 | Skarner/Seraphine thumbnail; Brackern controversy |
 | T B Skyen | ok but now let's try to be CONSTRUCTIVE about seraphine | 14 Oct 2020 | ≈153,938 | Constructive criticism; lore relevance pending transcript |
@@ -155,8 +155,9 @@ Approximate views recorded November 2026; cumulative views are not unique viewer
 | NickyBoi | Original Seraphine criticism video (exact title pending) | 24 Oct 2020 | ≈2,000,000 | Uses Champion Insights artwork; recommends Skooch |
 | Necrit | They Changed Seraphine's Lore - Is it Better? | 4 Nov 2020 | ≈330,081 | Lore revision commentary; transcript pending |
 | Skooch | My Final Thoughts On Seraphine | 6 Nov 2020 | ≈246,015 | Recommends NickyBoi; acknowledges developers lacked malicious intentions |
+| Skooch (with NickyBoi) | Can we talk about this? Seraphine | 14 Nov 2020 | ≈920,000 | Direct collaboration; post-revision lore claims; explicit acknowledgement of views incentive |
 
-**Combined approximate views:** ≈4,319,260 across ten videos with recorded view counts (including 352,390 for ProGuides, 24 October 2020); the 12 October Skooch video is excluded from this total.
+**Combined approximate views:** ≈5,739,260 across twelve videos in this register, including approximately 1,952,196 across Skooch's four videos. The two additional Skooch view counts are rounded.
 
 ### Evidence baseline for influencer cross-examinations — original developer intent and subsequent biography revisions
 
@@ -228,7 +229,7 @@ Revision #3 establishes the crystal's elegy; revision #5 explicitly states that 
 
 Read together, revisions #5 and #6 demonstrate that the Brackern are included in her stated objective of giving others a voice. Her desire to hear the crystal is not separate from that objective: it is a specific example of it. Combined with the elegy in revision #3, these changes establish a coherent narrative of suffering, emotional connection and inclusion, directly challenging accusations of indifference.
 
-TBSkyen omitted all three interconnected revisions from his January 2021 comparison.
+TBSkyen omitted all three interconnected revisions from his January 2021 comparison. NickyBoi likewise omitted their combined significance in Skooch's 14 November 2020 video (03:34–04:02), asserting that the Brackern aspect was removed entirely and dismissing Seraphine's elegy as insufficient.
 
 ### Influencer cross-examination: comparing claims with Riot's original evidence
 
@@ -332,7 +333,7 @@ But unlike the fictional parasocial relationship he criticised, this controversy
 
 At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that he works for him. **Skooch subsequently recommends NickyBoi in his 6 November follow-up.**
 
-**This establishes a dated, two-way amplification link between the influencers.**
+**This establishes a dated, two-way amplification link between the influencers, followed by direct collaboration in Skooch's 14 November video, in which NickyBoi presents the lore segment.**
 
 **Primary-source and intent assessment — NickyBoi's 24 October video:** The decisive distinction is between an objection to Riot's execution and an assertion that the fictional character is selfish or sociopathic. *Champion Insights* explicitly says Seraphine hears trapped Brackern souls, connects through their song, and may be unable to save them without being indifferent. His use of artwork originating in that article, together with the article's availability on Riot's official website twelve days earlier, makes **intentional selective presentation likely**, although it does not prove he read the adjacent text. His recommendation of Skooch's video at 15:09–15:16 further documents amplification of an interpretation which did not incorporate the complete contemporaneous developer explanation. This inference concerns selection and framing of public evidence, not proof of a private commercial motive.
 
@@ -341,6 +342,29 @@ At \~15:09–15:16, **NickyBoi also recommends Skooch's video** and states that 
 In a subsequent Seraphine discussion on 6 November 2020, Skooch explicitly recommends NickyBoi's video to viewers (\~13:38–14:00), says he will link it, and goes on to discuss NickyBoi's China-related argument. 
 
 This establishes a concrete influencer-to-influencer amplification link, rather than an assumed shared narrative. In the same discussion (\~05:04–05:30), Skooch explicitly says he does not believe the people who worked on Seraphine had bad intentions: his primary criticism is Riot's commercialisation, not an allegation that the writers deliberately created a cruel character. 
+
+#### Skooch and NickyBoi — 14 November 2020: Can we talk about this? Seraphine
+
+**Video:** Skooch, 14 November 2020 — *Can we talk about this? Seraphine* (YouTube ID: `b5swQg-G_PI`); approximately 920,000 views. Source: timestamped transcript. Riot's 12 October developer article, 29 October biography revisions and developer clarification were already available.
+
+**Direct collaboration (01:23–01:49):** Skooch introduces NickyBoi specifically to explain Seraphine's lore. NickyBoi delivers the lore segment, and Skooch subsequently endorses his analysis. This establishes shared authorship of the presented narrative rather than independent corroboration.
+
+| Timecode | Claim or framing | Primary-source comparison |
+| --- | --- | --- |
+| 01:51–02:04 | NickyBoi says Seraphine grew up in Zaun and her family moved to Piltover because of her hearing. | The biography identifies her as born in Piltover to Zaunite parents; her hearing difficulties arose during childhood. |
+| 02:10–02:17 | The crystal's voice is described as crying out for help. | The revised biography establishes communication that is difficult to hear and comprehend, including an elegy, rather than an explicit intelligible request for liberation. |
+| 02:53–03:14 | Seraphine knows the crystals contain conscious souls in pain but chooses a hoverboard and pop stardom instead of freeing them. | Riot's 29 October clarification distinguishes her knowledge from the audience's; Champion Insights explicitly distinguishes inability to save trapped souls from indifference. |
+| 03:34–03:49 | Riot removed the Brackern aspect entirely; NickyBoi acknowledges the reduced clarity of the voice but questions whether the original portrayal was a writing mistake. | Revisions #3, #5 and #6 retain the elegy, the hope of hearing the crystal's voice and the inclusive objective of giving everyone a voice. The Brackern relationship was not removed entirely. |
+| 03:50–04:02 | NickyBoi presents the elegy voice line and insists she could free the souls instead. | Mourning is an action, and “All I can do” expresses a limitation. No means of liberation available to Seraphine is established. Riot's developer article had already addressed this distinction. |
+| 08:28–08:48 | Skooch repeats the stage exploitation framing, specifically invoking Skarner's dead mother. | Champion Insights establishes souls including Skarner's family, but does not establish that the particular stage crystal contains his mother. Its explanation of Seraphine's connection and inability to rescue is omitted. |
+
+**The elegy and the six revisions:** NickyBoi presents “The brackern fuel our city, our future. All I can do is sing their elegy” (03:50–03:56), then treats liberation as an available alternative. This turns evidence of mourning into an accusation of indifference without establishing that a teenage singer could dismantle the exploitation of the Brackern. Riot had explained: “Song is important to the brackern, and that song continues from their crystals.” The revised biography's elegy (#3), hope of hearing the crystal (#5) and principle that everyone deserves to be heard (#6) directly challenge the assertion that the Brackern aspect was removed entirely.
+
+**Attention economy (09:58–10:13):** Skooch acknowledges, “I know that I have milked her for every single view I can”, describing the subject as “the freest content”. This is direct evidence of his stated incentive to repeatedly cover the controversy, rather than an inference from publication frequency alone. The irony is that he criticises Riot's commercial exploitation of Seraphine while acknowledging his own use of the controversy to generate views.
+
+**Further amplification (10:13–10:39; 10:54–11:23):** Skooch describes NickyBoi's video as probably the best Seraphine video he has seen, directs viewers to it through the description and end-screen annotation, and encourages subscriptions to NickyBoi's channel. Together with the 24 October and 6 November recommendations, this establishes reciprocal amplification followed by direct collaboration.
+
+**Plausible deniability:** The 14 November video was published sixteen days after Riot's biography revisions and developer clarification. NickyBoi explicitly discusses the revised lore and presents the elegy voice line, yet omits the developer explanation and the interconnected revisions that challenge his conclusion. Skooch then repeats the exploitation framing and endorses NickyBoi's analysis. The documented collaboration and repeated omissions are evidence of dependent source presentation; the explicit acknowledgement of views establishes an audience incentive without requiring speculation about private motives.
 
 #### NickyBoi — 6 January 2022: looking back at the hostility
 
@@ -648,6 +672,8 @@ The individual audits reveal a recurring tension: criticism of the Brackern stor
 
 The distinction is between criticising a narrative decision and treating an interpretation of the character's motives as established canon. The ProGuides audit provides a useful counterexample: it challenges the Sona-copy bandwagon, recognises Seraphine's positive personality and Riot's design rationale, yet still omits the inability-to-save explanation when discussing the Brackern.
 
+Skooch's 14 November video adds direct collaboration to the previously documented reciprocal recommendations: NickyBoi presents the lore narrative, Skooch repeats its exploitation framing and endorses NickyBoi's analysis. Their contributions cannot be counted as independent corroboration. The video also repeats the accusations after Riot's revisions and clarification.
+
 The subsequent source-integrity question is how such interpretations were represented in secondary reporting and reference material over the following years. Similar wording or framing recurs across influencer commentary and Wikipedia. Riot's original developer article remained absent from Wikipedia's references for six years.
 
 #### ProGuides — 24 October 2020: a balanced counterexample
@@ -714,7 +740,7 @@ That is the distinction this investigation draws: criticism of Riot's execution 
 
 ### 4. Controversy in the pandemic-era attention economy
 
-The controversy emerged during the COVID-19 period, when online entertainment and influencer visibility were important features of gaming culture. The [attention economy](https://en.wikipedia.org/wiki/Attention_economy) describes competition for audience attention. Controversy can generate strong engagement.
+The controversy emerged during the COVID-19 period, when online entertainment and influencer visibility were important features of gaming culture. The [attention economy](https://en.wikipedia.org/wiki/Attention_economy) describes competition for audience attention. Controversy can generate strong engagement. Skooch explicitly acknowledges in his 14 November 2020 video (09:58–10:13) that he had “milked her for every single view I can”, describing the subject as “the freest content”. This directly documents the audience incentive behind repeated coverage, alongside his criticism of Riot's commercialisation.
 
 Parasocial relationships can influence perceived trust. [Social proof](https://en.wikipedia.org/wiki/Social_proof), the bandwagon effect, [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias), the [illusory truth effect](https://en.wikipedia.org/wiki/Illusory_truth_effect) and [information cascades](https://en.wikipedia.org/wiki/Information_cascade) describe ways perceived consensus can form or intensify.
 
@@ -727,6 +753,8 @@ Parasocial relationships can influence perceived trust. [Social proof](https://e
 ### 6. Circular reporting and evidence laundering: when ten sources are really one
 
 [Circular reporting](https://en.wikipedia.org/wiki/Circular_reporting) occurs when sources reference one another, creating an appearance of independent corroboration. Evidence laundering occurs when repeated claims acquire apparent credibility through successive publications, even when they trace back to the same unsupported origin. This can give weak claims an appearance of authority. The key test is source independence: three citations do not necessarily represent three independent observations. In [information fusion](https://en.wikipedia.org/wiki/Information_fusion), double-counting dependent evidence is sometimes called data incest.
+
+The Skooch–NickyBoi relationship provides a concrete example: reciprocal recommendations on 24 October and 6 November were followed by NickyBoi delivering the lore segment in Skooch's 14 November video (01:23–04:02), with Skooch repeating its framing and endorsing NickyBoi's video (08:28–08:48; 10:13–11:23). Counting these as independent confirmations would double-count a shared narrative.
 
 **Ten articles are not necessarily ten independent sources of canon evidence.**
 
