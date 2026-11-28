@@ -258,9 +258,13 @@ export const pages: ResearchPage[] = [
       { heading: 'The chronological source record', table: { headers: ['Date', 'Document or event', 'Why it matters'], rows: [
         ['12 October 2020', 'Champion Insights: Seraphine', 'Explicit original design intent, empathy, music, Brackern and Hextech context'],
         ['13 October 2020', 'Seraphine Champion Bio', 'Original in-universe biography, before the later changes'],
-        ['28 October 2020', 'Marc Merrill’s response', 'Contemporaneous acknowledgement that disputed material should have been removed'],
+        ['28 October 2020', 'Marc Merrill’s response', "ah, that wasn't cool and was supposed to have been removed from the IP =p it will be fixed"],
         ['29 October 2020', 'Champion release, Standing Room Only and Jag’s statement', 'Subsequent published story, biography clarifications and explanation of removed dialogue']
       ] } },
+      { heading: 'Marc Merrill’s original statement', paragraphs: [
+        "On 28 October 2020, Riot co-founder Marc Merrill stated: <q>ah, that wasn't cool and was supposed to have been removed from the IP =p it will be fixed</q>. <a href=\"https://x.com/MarcMerrill/status/1321595282878996482\">Original Twitter statement</a>.",
+        'The wording establishes that removal was already intended when Merrill responded, supporting the distinction between intended characterisation and released material.'
+      ] },
       { heading: 'Why these dates matter', paragraphs: [
         'The test for a historical claim is the evidence <strong>available when that claim was made</strong>. The 12 October developer article was already public before several prominent reactions, whereas the 29 October revisions cannot fairly be expected to appear in earlier videos.',
         'This account addresses the <strong>original 2020</strong> material. Current biographies and later changes to Skarner should not silently replace the record from the release period.'
@@ -334,7 +338,7 @@ export const pages: ResearchPage[] = [
       {
         "heading": "October 2020: #JusticeForSkarner and Riot’s immediate lore revisions",
         "paragraphs": [
-          "The #JusticeForSkarner hashtag appeared in the October 2020 backlash. Riot co-founder Marc Merrill publicly acknowledged disputed material on 28 October, and Riot then made six identifiable changes to Seraphine’s biography. The controversial Skarner encounter line was removed separately. The revisions followed the public criticism and addressed the published characterisation. See the <a href=\"/seraphine-lore-changes/\">six-change comparison</a>.",
+          "The #JusticeForSkarner hashtag appeared in the October 2020 backlash. Riot co-founder Marc Merrill publicly acknowledged disputed material on 28 October (<a href=\"https://x.com/MarcMerrill/status/1321595282878996482\">original statement</a>), and Riot then made six identifiable changes to Seraphine’s biography. The controversial Skarner encounter line was removed separately. The revisions followed the public criticism and addressed the published characterisation. See the <a href=\"/seraphine-lore-changes/\">six-change comparison</a>.",
           "Riot revised Seraphine’s existing portrayal, but did not publish the later Brackern advocacy storyline Sidhu had described. Skarner’s original crystal-exploitation storyline remained unresolved at that point.",
           "The #JusticeForSkarner criticism accused Seraphine of failing the Brackern. Sidhu’s 29 October statement said she would try to give them a voice when she knew their situation."
         ]
@@ -522,7 +526,7 @@ export const pages: ResearchPage[] = [
       ] },
       { heading: 'The separate voice-line correction', paragraphs: [
         'The first-encounter line directed towards Skarner was removed separately. The line’s words, delivery, implied knowledge and compatibility with intended characterisation are distinct editorial questions; the investigation examines them separately.',
-        'Contemporaneous statements from Marc Merrill and Jeevun Sidhu confirm that Riot recognised a mismatch between published/recorded material and the story the team intended.',
+        "Contemporaneous statements from Marc Merrill and Jeevun Sidhu confirm that Riot recognised a mismatch between published/recorded material and the story the team intended. Merrill stated: <q>ah, that wasn't cool and was supposed to have been removed from the IP =p it will be fixed</q>. <a href=\"https://x.com/MarcMerrill/status/1321595282878996482\">Original statement, 28 October 2020</a>.",
         "On 29 October 2020, <a href=\"https://twitter.com/JeevunSidhu/status/1321936795597066241\">Jeevun Sidhu stated</a>: <q>She absolutely would do her best to give the Brackern a voice if she knew what she was dealing with.</q>"
       ] }
     ],
