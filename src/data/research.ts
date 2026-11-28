@@ -298,6 +298,55 @@ export const pages: ResearchPage[] = [
         ]
       },
       {
+        "heading": "Skarner’s struggle to communicate with humanity — established in 2016",
+        "paragraphs": [
+          "In <a href=\"https://www.surrenderat20.net/2016/05/red-post-collection-amumu-sivir-and.html\"><em>Dreamsong</em>, published on 12 May 2016</a>, Skarner attempts to convey the suffering of his people to humans: <q>I sing for my dead kin, so they know what they stole.</q> His attempt fails: <q>The softskins do not sing back. They do not seem to hear me</q>. Unable to reach them through his usual means of communication, he ultimately responds with violence.",
+          "In the <a href=\"https://www.surrenderat20.net/2016/05/red-post-collection-taliyah-shurima.html\">Shurima narrative Q&A archived on 15 May 2016</a>, Rayla “Jellbug” Heide confirmed she wrote Skarner’s story and explained: <q>Skarner certainly had trouble communicating with humans.</q> She described Brackern life stones as enabling telepathic communication through emotions, images and thoughts expressed as melody. She also suggested that humans might eventually hear Skarner’s song mentally. The surviving woman in Dreamsong was not a champion, but could communicate her encounter to others."
+        ]
+      },
+      {
+        "heading": "Seraphine’s abilities address Skarner’s fundamental struggle",
+        "paragraphs": [
+          "Four years later, Jellbug contributed to Seraphine’s characterisation in Champion Insights. Skarner’s story established the difficulty of conveying Brackern suffering to humanity; Seraphine’s ability to perceive emotions as music and hear their crystals provides a narrative means of addressing that difficulty. The shared writer and complementary communication mechanics establish a concrete connection between the two original characterisations."
+        ],
+        "table": {
+          "headers": [
+            "Skarner — 2016",
+            "Seraphine — 2020"
+          ],
+          "rows": [
+            [
+              "Sings for his dead kin",
+              "Sings the Brackern’s elegy"
+            ],
+            [
+              "Struggles to reach human minds",
+              "Hears Brackern songs"
+            ],
+            [
+              "Communicates through emotion and melody",
+              "Perceives emotions as music"
+            ],
+            [
+              "Experiences the devastation caused by violence",
+              "Carries forward the warning against unchecked hatred"
+            ],
+            [
+              "Seeks recognition and recovery of his people",
+              "Hopes to hear her crystal’s voice; believes everyone deserves to be heard"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Could Skarner communicate with Seraphine through her crystal?",
+        "paragraphs": [
+          "Jellbug explained in 2016: <q>Their minds reach out to each other and sing over great distances</q>. Skarner’s original biography also describes stolen life stones calling to him remotely, prompting his search for them. These are established communication mechanics, not a new ability invented for Seraphine.",
+          "A possible narrative pathway is Skarner communicating with the consciousness within Seraphine’s crystal, whose song she can perceive. This could allow his grief and experiences to reach her indirectly. The original lore does not identify Skarner as the source of her crystal’s elegy, however, and does not establish that such a relay actually occurred. Skarner himself is not the soul inside her crystal.",
+          "Even without that hypothesis, Seraphine already gives expression to the suffering of the people Skarner sought to rescue, through the very medium he struggled to use to reach humanity. The potential for her to become a communication bridge is grounded in the original 2016 and 2020 narratives."
+        ]
+      },
+      {
         "heading": "Seraphine carries forward the Brackern’s message against hatred",
         "paragraphs": [
           "The revised biography of 29 October 2020 states: <q>Her hextech crystal had sung an elegy of what hatred left unchecked could accomplish.</q>",
@@ -393,6 +442,8 @@ export const pages: ResearchPage[] = [
       }
     ],
     "references": [
+      {"label":"Riot — Skarner biography and Dreamsong (12 May 2016, contemporary archive)","url":"https://www.surrenderat20.net/2016/05/red-post-collection-amumu-sivir-and.html"},
+      {"label":"Rayla Heide — Shurima narrative Q&A (15 May 2016 archive)","url":"https://www.surrenderat20.net/2016/05/red-post-collection-taliyah-shurima.html"},
       {
         "label": "Riot — Champion Insights: Seraphine (12 October 2020)",
         "url": "https://www.leagueoflegends.com/en-us/news/dev/champion-insights-seraphine/"
